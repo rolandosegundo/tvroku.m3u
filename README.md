@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TIGRES VS PUMAS AMISTOSO"
+https://bmf0aw9u.fubohd.com/foxdeportes/mono.m3u8?token=8f43462379e4e01d4d745fc6b039fd73b218bb85-89-1742713927-1742677927
+#EXTINF:-1 tvg-id="" tvg-name="TIGRES VS AMERICA FEM"
+https://c2f2zq.fubohd.com/tudn/mono.m3u8?token=50ddd800a636056ef4cc71aeea29fc760fa2d0d0-3-1742713720-1742677720
 #EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca Uno (M)(720)" tvg-logo="https://1.bp.blogspot.com/-rCbIcWgf8KM/Xm54--dqL2I/AAAAAAAABjA/WfovYd6uNOMJFVGwof8uwuxEN4lHorZ_gCLcBGAsYHQ/s200/30.png" group-title="MEXICO",MEX-Azteca Uno (M)(720)
 http://tv.proyectox.vip:8080/HDPinguino123dkdkkDDFFDFa/al3q83JYkd/87593
 #EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca UNO (L)(720)" tvg-logo="https://1.bp.blogspot.com/-rCbIcWgf8KM/Xm54--dqL2I/AAAAAAAABjA/WfovYd6uNOMJFVGwof8uwuxEN4lHorZ_gCLcBGAsYHQ/s200/30.png" group-title="MEXICO",MEX-Azteca UNO (L)(720)
