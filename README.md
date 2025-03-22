@@ -1,66 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Ciudad Juarez (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/KssJGJk.png" group-title="MEXICO-LOCAL",MEX-Televisa Ciudad Juarez (W) [Geo-bloc](1080)
-http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/87771
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Del Bajio (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/YYzZdRE.png" group-title="MEXICO-LOCAL",MEX-Televisa Del Bajio (W) [Geo-bloc](1080)
-http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/87772
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Ensenada (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/TY6ewSv.png" group-title="MEXICO-LOCAL",MEX-Televisa Ensenada (W) [Geo-bloc](1080)
-http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/87776
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Laguna (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/M2O164z.png" group-title="MEXICO-LOCAL",MEX-Televisa Laguna (W) [Geo-bloc](720)
-http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/87779
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Mexicali (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/NIEWc2s.jpg" group-title="MEXICO-LOCAL",MEX-Televisa Mexicali (W) [Geo-bloc](1080)
-http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/87780
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Monterrey (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/zQiEsnH.png" group-title="MEXICO-LOCAL",MEX-Televisa Monterrey (W) [Geo-bloc](1080)
-http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/87781
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Piedras Negras (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/MNqBa1f.png" group-title="MEXICO-LOCAL",MEX-Televisa Piedras Negras (W) [Geo-bloc](720)
-http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/87784
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Puebla (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/2dqF5S8.jpg" group-title="MEXICO-LOCAL",MEX-Televisa Puebla (W) [Geo-bloc](720)
-http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/87785
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Quintana Roo (W) [Geo-bloc](1080)" tvg-logo="https://i.ibb.co/W6mQCTV/Channels4-profile-9.jpg" group-title="MEXICO-LOCAL",MEX-Televisa Quintana Roo (W) [Geo-bloc](1080)
-http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/87787
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Saltillo (W) [Geo-bloc](1080)" tvg-logo="https://i.ibb.co/Zhm2BDD/Vc-NGCKrw-400x400.jpg" group-title="MEXICO-LOCAL",MEX-Televisa Saltillo (W) [Geo-bloc](1080)
-http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/87788
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Sinaloa (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/nZ9HE94.png" group-title="MEXICO-LOCAL",MEX-Televisa Sinaloa (W) [Geo-bloc](720)
-http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/87790
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Sonora (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/dlV2qX9.png" group-title="MEXICO-LOCAL",MEX-Televisa Sonora (W) [Geo-bloc](720)
-http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/87791
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Tijuana (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/GWk6lTX.png" group-title="MEXICO-LOCAL",MEX-Televisa Tijuana (W) [Geo-bloc](1080)
-http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/87792
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Veracruz (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/7UsilfH.png" group-title="MEXICO-LOCAL",MEX-Televisa Veracruz (W) [Geo-bloc](720)
-http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/87793
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Yucatán (W) [Geo-bloc](720)" tvg-logo="https://i.ibb.co/sm8Wnwn/IMG-20230724-113929.jpg" group-title="MEXICO-LOCAL",MEX-Televisa Yucatán (W) [Geo-bloc](720)
-http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/87795
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Zacatecas (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/vkT4zq7.png" group-title="MEXICO-LOCAL",MEX-Televisa Zacatecas (W) [Geo-bloc](720)
-http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/87796
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Tlaxcala Televisión (W) [Geo-bloc](SD)" tvg-logo="https://i.imgur.com/5vaEhfy.png" group-title="MEXICO-LOCAL",MEX-Tlaxcala Televisión (W) [Geo-bloc](SD)
-http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/87797
-#EXTINF:-1 tvg-id="" tvg-name="MEX-TRC Televisión (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/W4xwCdl.png" group-title="MEXICO-LOCAL",MEX-TRC Televisión (W) [Geo-bloc](720)
-http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/87798
-#EXTINF:-1 tvg-id="" tvg-name="MEX-TUDN (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="MEXICO-LOCAL",MEX-TUDN (W) [Geo-bloc](720)
-http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/87799
-#EXTINF:-1 tvg-id="" tvg-name="MEX-TV Azteca Noreste (Info7 Monterrey) (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/aGup2ag.png" group-title="MEXICO-LOCAL",MEX-TV Azteca Noreste (Info7 Monterrey) (W) [Geo-bloc](720)
-http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/87801
-#EXTINF:-1 tvg-id="" tvg-name="MEX-TV Cuatro 4.1 (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="MEXICO-LOCAL",MEX-TV Cuatro 4.1 (W) [Geo-bloc](1080)
-http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/87802
-#EXTINF:-1 tvg-id="" tvg-name="MEX-TV Cuatro 4.2 (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="MEXICO-LOCAL",MEX-TV Cuatro 4.2 (W) [Geo-bloc](1080)
-http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/87803
-#EXTINF:-1 tvg-id="" tvg-name="MEX-TV Daja (W) [Geo-bloc](1080)" tvg-logo="https://dajatv.com/wp-content/uploads/2021/09/logo_daja_2.png" group-title="MEXICO-LOCAL",MEX-TV Daja (W) [Geo-bloc](1080)
-http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/87804
-#EXTINF:-1 tvg-id="" tvg-name="MEX-TV Guanajuato (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/HbnCZSF.png" group-title="MEXICO-LOCAL",MEX-TV Guanajuato (W) [Geo-bloc](720)
-http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/87805
-#EXTINF:-1 tvg-id="" tvg-name="MEX-TV Independencia (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/kuyQvUP.png" group-title="MEXICO-LOCAL",MEX-TV Independencia (W) [Geo-bloc](1080)
-http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/87806
-#EXTINF:-1 tvg-id="" tvg-name="MEX-TV Libertad (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/yvbhH8c.png" group-title="MEXICO-LOCAL",MEX-TV Libertad (W) [Geo-bloc](720)
-http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/87807
-#EXTINF:-1 tvg-id="" tvg-name="MEX-TV Lobo Durango (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/q9p1Spj.png" group-title="MEXICO-LOCAL",MEX-TV Lobo Durango (W) [Geo-bloc](720)
-http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/87808
-#EXTINF:-1 tvg-id="" tvg-name="MEX-TV Mar La Paz (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="MEXICO-LOCAL",MEX-TV Mar La Paz (W) [Geo-bloc](1080)
-http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/87809
-#EXTINF:-1 tvg-id="" tvg-name="MEX-TV Mar Puerto Vallarta (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="MEXICO-LOCAL",MEX-TV Mar Puerto Vallarta (W) [Geo-bloc](1080)
-http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/87810
-#EXTINF:-1 tvg-id="" tvg-name="MEX-TV Nuevo León Canal 28 (XHMNL-TDT) (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/9qL4LJF.png" group-title="MEXICO-LOCAL",MEX-TV Nuevo León Canal 28 (XHMNL-TDT) (W) [Geo-bloc](720)
-http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/87811
-#EXTINF:-1 tvg-id="" tvg-name="MEX-TV UJAT (XHUJAT-TDT) (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/4demWOi.png" group-title="MEXICO-LOCAL",MEX-TV UJAT (XHUJAT-TDT) (W) [Geo-bloc](720)
-http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/87812
+#EXTINF:-1 tvg-id="" tvg-name="ARG-America (M)(1080)" tvg-logo="http://23.153.216.121:25461/images/3962e7152b4d19c9f2dc71b8c3829545.png" group-title="ARGENTINA",ARG-America (M)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/84851
+#EXTINF:-1 tvg-id="" tvg-name="ARG-America (TV)(720)" tvg-logo="http://23.153.216.121:25461/images/3962e7152b4d19c9f2dc71b8c3829545.png" group-title="ARGENTINA",ARG-America (TV)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/7928
 #EXTINF:-1 tvg-id="" tvg-name="MEX-EstrellaTV" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="MEXICO-LOCAL",MEX-EstrellaTV
 http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/87711
 #EXTINF:-1 tvg-id="Telemundo.(KXNU-LD).Laredo,.Texas.us" tvg-name="NOV-Telemundo (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo (M)(1080)
@@ -519,3 +461,349 @@ http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/7945
 http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/84858
 #EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (TV)(1080)
 http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/7946
+#EXTINF:-1 tvg-id="Canal.13.de.Argentina.(El.Trece).ar" tvg-name="CINE - A&E (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png" group-title="CANALES-ENTRETENIMIENTO",CINE - A&E (L)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9614
+#EXTINF:-1 tvg-id="A.and.E.(Argentina).(A.and.E).ar" tvg-name="CINE - A&E (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png" group-title="CANALES-ENTRETENIMIENTO",CINE - A&E (M)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9615
+#EXTINF:-1 tvg-id="A&E.co" tvg-name="CINE - A&E (Z)(1080)" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png" group-title="CANALES-ENTRETENIMIENTO",CINE - A&E (Z)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9616
+#EXTINF:-1 tvg-id="" tvg-name="CINE - AXN (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png" group-title="CANALES-ENTRETENIMIENTO",CINE - AXN (L)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9622
+#EXTINF:-1 tvg-id="" tvg-name="CINE - AXN (M)(720)" tvg-logo="http://tv.proyectox.vip:8080/images/eccbc87e4b5ce2fe28308fd9f2a7baf3.png" group-title="CANALES-ENTRETENIMIENTO",CINE - AXN (M)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9623
+#EXTINF:-1 tvg-id="AXN.co" tvg-name="CINE - AXN (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png" group-title="CANALES-ENTRETENIMIENTO",CINE - AXN (TV)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9624
+#EXTINF:-1 tvg-id="" tvg-name="CINE - AXN (Z)(1080)" tvg-logo="https://i.dlpng.com/static/png/400902_preview.png" group-title="CANALES-ENTRETENIMIENTO",CINE - AXN (Z)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9625
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO (M)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9666
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO (TV)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9668
+#EXTINF:-1 tvg-id="HBO.Latin.America.(West).(HBO).mx" tvg-name="CINE - HBO (M)(720)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO (M)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9667
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="CINE - HBO (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO (TV)(SD)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9669
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO (Z)" tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/hbo-logo-01-g.jpg" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO (Z)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9670
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO 2 (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO 2 (T)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9673
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO 2 (Z)(1080)" tvg-logo="https://www.shopfortaleza.com.br/wp-content/uploads/2019/02/HBO2.jpg" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO 2 (Z)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9675
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO 2 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO 2 (L)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9671
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO 2 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO 2 (TV)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9674
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Family (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Family (L)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9676
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Family (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Family (T)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9678
+#EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.mx" tvg-name="CINE - HBO Family (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Family (TV)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9679
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Family (Z)(1080)" tvg-logo="https://d144mzi0q5mijx.cloudfront.net/img/H/B/HBO-Family.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Family (Z)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9681
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Family (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Family (TV)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9680
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Family. (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Family. (TV)(SD)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9677
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Mundi (L)(720)" tvg-logo="https://1.bp.blogspot.com/-oN7wX127j3Q/Xw8lq7qqpSI/AAAAAAAAAWA/gTwoVU0sXXsbMIDKd7I6ojgR-28dars6ACLcBGAsYHQ/w200-h200/hbomundi.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Mundi (L)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9682
+#EXTINF:-1 tvg-id="Canal.HBO.Mundi.mx" tvg-name="CINE - HBO Mundi (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-oN7wX127j3Q/Xw8lq7qqpSI/AAAAAAAAAWA/gTwoVU0sXXsbMIDKd7I6ojgR-28dars6ACLcBGAsYHQ/w200-h200/hbomundi.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Mundi (TV)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9683
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Mundi (Z)(720)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddoicif-5c26565c-0b8a-4e12-ab2c-3445915f66e2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InB(Z)(720)GgiOiJcL2ZcLzdhNmEzMWJjLTUyNzYtNGJkMS1iMjVjLTVkMjI5OTkwNjUxY1wvZGRvaWNpZi01YzI2NTY1Yy0wYjhhLTRlMTItYWIyYy0zNDQ1OTE1ZjY2ZTIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.8hppAoC3nmeoQdtyGR04J948j3F_OEtAjUmB0pF7bD8" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Mundi (Z)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9684
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Plus (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Plus (M)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9685
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Plus (M)(SD) [Dual Audio]" tvg-logo="http://tv.proyectox.vip:8080/images/34173cb38f07f89ddbebc2ac9128303f.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Plus (M)(SD) [Dual Audio]
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9686
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Plus (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Plus (TV)(SD)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9687
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Plus (Z)(1080)" tvg-logo="http://cineparallevar.mx/admin/wp-content/uploads/2017/10/copypasteimage-4.jpg" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Plus (Z)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9688
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO POP (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-ZCqUx5e0L-4/XkN9ArS4SuI/AAAAAAAABWU/IICrJNBTYNMVKKru6mbn52W8fShz0eoggCLcBGAsYHQ/s200/67.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO POP (M)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9689
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO POP (Z)(720) -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVnMHcQQbV1arQqL1aXSdsPQjQOS1BoB_zOB1rOphseF5cNjelO7wA6blvVo9lA8b6N8E&usqp=CAU" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO POP (Z)(720) -
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9691
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO POP. (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-ZCqUx5e0L-4/XkN9ArS4SuI/AAAAAAAABWU/IICrJNBTYNMVKKru6mbn52W8fShz0eoggCLcBGAsYHQ/s200/67.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO POP. (TV)(SD)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9690
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Signature (M)(720)" tvg-logo="https://1.bp.blogspot.com/-U60Pby9cnqI/Xw8ovhvpzuI/AAAAAAAAAWY/iU_CaOeTilQPEcKEGo7-rJ0MbA_sDb8SgCLcBGAsYHQ/w200-h200/SIGNATURE.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Signature (M)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9692
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Signature (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-jsXerJmFHK0/Xas8qIXagZI/AAAAAAAAAaE/c3OP25KYkFUA2IGufDn-M7eyR0JPdSkXgCLcBGAsYHQ/s200/31.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Signature (TV)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9693
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Signature (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-ZqLiBW9RJWA/X6DeXyrPj0I/AAAAAAAAKiI/Q_7ZpvOFmV4ThYcFBDlkUBXJegmG4CPVACLcBGAsYHQ/w680/hbo%2Bsignature.jpg" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Signature (Z)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9694
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Signature Dual Audio (L)(720)" tvg-logo="https://1.bp.blogspot.com/-U60Pby9cnqI/Xw8ovhvpzuI/AAAAAAAAAWY/iU_CaOeTilQPEcKEGo7-rJ0MbA_sDb8SgCLcBGAsYHQ/w200-h200/SIGNATURE.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Signature Dual Audio (L)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9695
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO SUR (Z)" tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/hbo-logo-01-g.jpg" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO SUR (Z)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9696
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Xtream (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Xtream (TV)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9697
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Xtreme (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Xtreme (M)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9698
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Xtreme (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Xtreme (TV)(SD)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9700
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Xtreme (Z)(720)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddpgt7p-e56bd6a5-5392-4dba-b2c2-18df39490d48.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Xtreme (Z)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9701
+#EXTINF:-1 tvg-id="HBO.Xtreme.Panamericano.(HBOXTR).mx" tvg-name="CINE - HBO Xtreme. (M)(720)" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Xtreme. (M)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9699
+#EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.mx" tvg-name="CINE - HBO. 2 (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO. 2 (TV)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9672
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Cine Latino (L)(720)" tvg-logo="https://1.bp.blogspot.com/-3-EvoMrQo-M/XaokZPxvp-I/AAAAAAAAAV8/wiPsHTnn5TQPaAOxfW6h00GSoQA1UvGgwCLcBGAsYHQ/s200/17.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Cine Latino (L)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9626
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Cine Latino (Z)" tvg-logo="http://127.0.0.1/" group-title="CANALES-ENTRETENIMIENTO",CINE - Cine Latino (Z)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9627
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Cinecanal (L)(720)" tvg-logo="https://1.bp.blogspot.com/-ZvhVOTsSTzg/XaokZ4XKSPI/AAAAAAAAAWI/MsjCS3r3rQop2YtmW8uC0_gyZU5WsAgqACLcBGAsYHQ/s200/4.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Cinecanal (L)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9628
+#EXTINF:-1 tvg-id="AdultSwim.co" tvg-name="CINE - CineCanal (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-ZvhVOTsSTzg/XaokZ4XKSPI/AAAAAAAAAWI/MsjCS3r3rQop2YtmW8uC0_gyZU5WsAgqACLcBGAsYHQ/s200/4.png" group-title="CANALES-ENTRETENIMIENTO",CINE - CineCanal (TV)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9629
+#EXTINF:-1 tvg-id="Cinecanal.co" tvg-name="CINE - CineCanal (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-ZvhVOTsSTzg/XaokZ4XKSPI/AAAAAAAAAWI/MsjCS3r3rQop2YtmW8uC0_gyZU5WsAgqACLcBGAsYHQ/s200/4.png" group-title="CANALES-ENTRETENIMIENTO",CINE - CineCanal (TV)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9630
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Cinecanal (Z)(1080)" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Cinecanal (Z)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9631
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Cinema Dinamita (Z)(720)" tvg-logo="https://payload.cargocollective.com/1/18/598638/11690943/cd1_895.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Cinema Dinamita (Z)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9632
+#EXTINF:-1 tvg-id="Cinemax.(Mexico).(CINEMAX).mx" tvg-name="CINE - Cinemax (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-SWgMvQVmNFs/XatKBoFk9XI/AAAAAAAAAcE/iIZCNfcElxsfxcj0hGdLxHZ0l7D7wRJ6wCLcBGAsYHQ/s200/43.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Cinemax (M)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9633
+#EXTINF:-1 tvg-id="Cinemax.co" tvg-name="CINE - Cinemax (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-SWgMvQVmNFs/XatKBoFk9XI/AAAAAAAAAcE/iIZCNfcElxsfxcj0hGdLxHZ0l7D7wRJ6wCLcBGAsYHQ/s200/43.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Cinemax (TV)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9634
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Cinemax (Z)(1080)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTapWv0ZtvCDDJbWxrh_B-9xTzIpgcamrL0Hl7QU6_hzmT9YorrLtKqi1KOf99Rdj2fjZU&usqp=CAU" group-title="CANALES-ENTRETENIMIENTO",CINE - Cinemax (Z)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9635
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Comedy Central (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-EGNc3XiW2mg/Xaoka4Z2TQI/AAAAAAAAAWU/WzeyBpAFtHw2hkqTpQi6FZCazB0eVIlHACLcBGAsYHQ/s200/7.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Comedy Central (L)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9636
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Comedy Central (M)(SD)" tvg-logo="http://tv.proyectox.vip:8080/images/8f14e45fceea167a5a36dedd4bea2543.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Comedy Central (M)(SD)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9637
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Paramount (Z)(720) -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU0Jlpo6Q-pz4sRAKzNcgMkA_A75_A6yPVSA&usqp=CAU" group-title="CANALES-ENTRETENIMIENTO",CINE - Paramount (Z)(720) -
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9705
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Paramount Channel. (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-hN1LIpeBxmo/XatGnSfXE2I/AAAAAAAAAbY/oEcqLYx31rQATVggy6N5l3sK2D6BMQ1MgCLcBGAsYHQ/s200/40.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Paramount Channel. (TV)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9708
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Paramount Network (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-hN1LIpeBxmo/XatGnSfXE2I/AAAAAAAAAbY/oEcqLYx31rQATVggy6N5l3sK2D6BMQ1MgCLcBGAsYHQ/s200/40.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Paramount Network (M)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9707
+#EXTINF:-1 tvg-id="" tvg-name="CINE - TNT (L)(720)" tvg-logo="https://1.bp.blogspot.com/-gvPayEmPc-0/XaqYSotqp-I/AAAAAAAAAY4/4YmafnkAwdkT2YrPdajCmQ-5WJj4en0-wCLcBGAsYHQ/s200/26.png" group-title="CANALES-ENTRETENIMIENTO",CINE - TNT (L)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9742
+#EXTINF:-1 tvg-id="" tvg-name="CINE - TNT (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-gvPayEmPc-0/XaqYSotqp-I/AAAAAAAAAY4/4YmafnkAwdkT2YrPdajCmQ-5WJj4en0-wCLcBGAsYHQ/s200/26.png" group-title="CANALES-ENTRETENIMIENTO",CINE - TNT (M)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9743
+#EXTINF:-1 tvg-id="" tvg-name="CINE - TNT (M)(720)" tvg-logo="https://1.bp.blogspot.com/-gvPayEmPc-0/XaqYSotqp-I/AAAAAAAAAY4/4YmafnkAwdkT2YrPdajCmQ-5WJj4en0-wCLcBGAsYHQ/s200/26.png" group-title="CANALES-ENTRETENIMIENTO",CINE - TNT (M)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9744
+#EXTINF:-1 tvg-id="TNT.co" tvg-name="CINE - TNT (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-gvPayEmPc-0/XaqYSotqp-I/AAAAAAAAAY4/4YmafnkAwdkT2YrPdajCmQ-5WJj4en0-wCLcBGAsYHQ/s200/26.png" group-title="CANALES-ENTRETENIMIENTO",CINE - TNT (TV)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9745
+#EXTINF:-1 tvg-id="" tvg-name="CINE - TNT (Z)(720)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41SnZkqVXQL.png" group-title="CANALES-ENTRETENIMIENTO",CINE - TNT (Z)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9746
+#EXTINF:-1 tvg-id="" tvg-name="CINE - TNT Novelas  (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-GuBKhe6BjNU/XaqbhYUEY9I/AAAAAAAAZU/GoNTclP8BQYz3LWW1FRbP0e_zV7-V_bNACLcBGAsYHQ/s200/28.png" group-title="CANALES-ENTRETENIMIENTO",CINE - TNT Novelas  (M)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9747
+#EXTINF:-1 tvg-id="" tvg-name="CINE - TNT nOVELAS (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-GuBKhe6BjNU/XaqbhYUEY9I/AAAAAAAAAZU/GoNTclP8BQYz3LWW1FRbP0e_zV7-V_bNACLcBGAsYHQ/s200/28.png" group-title="CANALES-ENTRETENIMIENTO",CINE - TNT nOVELAS (M)(SD)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9737
+#EXTINF:-1 tvg-id="" tvg-name="CINE - TNT Series (L)(720)" tvg-logo="https://1.bp.blogspot.com/-RU1QI0P40Bk/XaqXTmeUMsI/AAAAAAAAAYo/mKi7kYCtzykrjx76Ft-YMnk17IS3OdK0QCLcBGAsYHQ/s200/25.png" group-title="CANALES-ENTRETENIMIENTO",CINE - TNT Series (L)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9748
+#EXTINF:-1 tvg-id="" tvg-name="CINE - TNT Series (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-RU1QI0P40Bk/XaqXTmeUMsI/AAAAAAAAAYo/mKi7kYCtzykrjx76Ft-YMnk17IS3OdK0QCLcBGAsYHQ/s200/25.png" group-title="CANALES-ENTRETENIMIENTO",CINE - TNT Series (M)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9749
+#EXTINF:-1 tvg-id="" tvg-name="CINE - TNT Series (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-RU1QI0P40Bk/XaqXTmeUMsI/AAAAAAAAAYo/mKi7kYCtzykrjx76Ft-YMnk17IS3OdK0QCLcBGAsYHQ/s200/25.png" group-title="CANALES-ENTRETENIMIENTO",CINE - TNT Series (TV)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9750
+#EXTINF:-1 tvg-id="" tvg-name="CINE - TNT Series (Z)(720)." tvg-logo="https://1.bp.blogspot.com/-RU1QI0P40Bk/XaqXTmeUMsI/AAAAAAAAAYo/mKi7kYCtzykrjx76Ft-YMnk17IS3OdK0QCLcBGAsYHQ/s200/25.png" group-title="CANALES-ENTRETENIMIENTO",CINE - TNT Series (Z)(720).
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9751
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Channel (L)(720)" tvg-logo="https://1.bp.blogspot.com/-wIjU7SeLay0/XatoZA--t0I/AAAAAAAAAec/HbZ16hL1yKohaQDAxLTlqls-Sd6OVf2LQCLcBGAsYHQ/s200/51.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Channel (L)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9753
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Channel (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-wIjU7SeLay0/XatoZA--t0I/AAAAAAAAAec/HbZ16hL1yKohaQDAxLTlqls-Sd6OVf2LQCLcBGAsYHQ/s200/51.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Channel (M)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9754
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Channel (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-wIjU7SeLay0/XatoZA--t0I/AAAAAAAAAec/HbZ16hL1yKohaQDAxLTlqls-Sd6OVf2LQCLcBGAsYHQ/s200/51.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Channel (M)(SD)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9755
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Cinema (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Cinema (L)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9756
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Cinema (M)(1080) [Dual Audio]" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Cinema (M)(1080) [Dual Audio]
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9757
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Cinema (Z)(1080)" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Cinema (Z)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9758
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Comedy (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-SoNWrnF8TnQ/YmxO2XzcUnI/AAAAAAAADg0/nXRD_Ja3KYoO4SJyp2gqQkeFYeWBqt1xwCNcBGAsYHQ/w200-h200/1651265240279800-54.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Comedy (TV)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9759
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Comedy (Z)(720)" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Comedy (Z)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9760
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Crime (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Crime (L)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9761
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Crime (M)(720)" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Crime (M)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9762
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Crime (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Crime (TV)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9763
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Crime (Z)(720)" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Crime (Z)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9764
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Premier (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-LG2ri7fQLfc/YgMWEH-ycuI/AAAAAAAADNo/ASe9pUx6JxMEHmZuDP8fnteyPsU8ZBGigCNcBGAsYHQ/w200-h200/1644369421908968-0.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Premier (L)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9765
+#EXTINF:-1 tvg-id="Universal.Channel.(Mexico).(UNIVERS).mx" tvg-name="CINE - Universal Premier (M)(1080) [Dual Audio]" tvg-logo="https://lh3.googleusercontent.com/-LG2ri7fQLfc/YgMWEH-ycuI/AAAAAAAADNo/ASe9pUx6JxMEHmZuDP8fnteyPsU8ZBGigCNcBGAsYHQ/w200-h200/1644369421908968-0.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Premier (M)(1080) [Dual Audio]
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9766
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Premier (T)(720)" tvg-logo="https://lh3.googleusercontent.com/-LG2ri7fQLfc/YgMWEH-ycuI/AAAAAAAADNo/ASe9pUx6JxMEHmZuDP8fnteyPsU8ZBGigCNcBGAsYHQ/w200-h200/1644369421908968-0.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Premier (T)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9767
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Premiere Norte (Z)(720)" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Premiere Norte (Z)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9768
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Premiere Sur (Z)(720)" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Premiere Sur (Z)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9769
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Reality (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-jrUcCNjGjiA/YgMWDP_MqhI/AAAAAAAADNk/hSVW-HGIAE8x-ESHmjGqeoP3TZYwU1V9wCNcBGAsYHQ/w200-h200/1644369417411612-1.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Reality (L)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9770
+#EXTINF:-1 tvg-id="Universal.TV.co" tvg-name="CINE - Universal Reality (M)(1080)" tvg-logo="https://lh3.googleusercontent.com/-jrUcCNjGjiA/YgMWDP_MqhI/AAAAAAAADNk/hSVW-HGIAE8x-ESHmjGqeoP3TZYwU1V9wCNcBGAsYHQ/w200-h200/1644369417411612-1.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Reality (M)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9771
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Reality (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-jrUcCNjGjiA/YgMWDP_MqhI/AAAAAAAADNk/hSVW-HGIAE8x-ESHmjGqeoP3TZYwU1V9wCNcBGAsYHQ/w200-h200/1644369417411612-1.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Reality (TV)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9772
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Reality (Z)(720)" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Reality (Z)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9773
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Warner Channel (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-FfuoassQMwg/XaqRIDyHsII/AAAAAAAAAXI/jd8OpoO8C20tOoSbCOmLgf-lG87ZA8V5gCLcBGAsYHQ/s200/18.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Warner Channel (L)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9774
+#EXTINF:-1 tvg-id="Warner.Channel.co" tvg-name="CINE - Warner Channel (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-FfuoassQMwg/XaqRIDyHsII/AAAAAAAAAXI/jd8OpoO8C20tOoSbCOmLgf-lG87ZA8V5gCLcBGAsYHQ/s200/18.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Warner Channel (TV)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9776
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Warner Channel (Z)(1080)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Warner_Channel_Shield_2000.png/revision/latest/scale-to-width-down/250?cb=20200117133843&path-prefix=es" group-title="CANALES-ENTRETENIMIENTO",CINE - Warner Channel (Z)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9777
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Warner Channel Dual Audio (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-FfuoassQMwg/XaqRIDyHsII/AAAAAAAAAXI/jd8OpoO8C20tOoSbCOmLgf-lG87ZA8V5gCLcBGAsYHQ/s200/18.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Warner Channel Dual Audio (M)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9775
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Wobi TV (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-eewIYgEehoo/Xmv1VpJFO8I/AAAAAAAABZ4/BPjBSNwzMQQW68jCaM2IoppQQe4HWATJgCLcBGAsYHQ/s200/72.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Wobi TV (TV)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9778
+#EXTINF:-1 tvg-id="" tvg-name="CINE -HBO Xtreme - Dual (L)(720)" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="CANALES-ENTRETENIMIENTO",CINE -HBO Xtreme - Dual (L)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9779
+#EXTINF:-1 tvg-id="" tvg-name="CINE - De Pelicula (M)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/f7177163c833dff4b38fc8d2872f1ec6.png" group-title="CANALES-ENTRETENIMIENTO",CINE - De Pelicula (M)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9638
+#EXTINF:-1 tvg-id="" tvg-name="CINE - De Pelicula Plus (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-p0k4fKEUr58/XatKxE50PxI/AAAAAAAAAcM/jvKKEeW_T-8c-q7zmdG1CuyLiD4B1T0WQCLcBGAsYHQ/s200/44.png" group-title="CANALES-ENTRETENIMIENTO",CINE - De Pelicula Plus (M)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9639
+#EXTINF:-1 tvg-id="" tvg-name="CINE - De Pelicula Plus (Z)" tvg-logo="https://static.wixstatic.com/media/281e2a_52ed141254f542599d3f8eabdd34d672~mv2.png/v1/fit/w_463%2Ch_189%2Cal_c/file.png" group-title="CANALES-ENTRETENIMIENTO",CINE - De Pelicula Plus (Z)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9640
+#EXTINF:-1 tvg-id="" tvg-name="CINE - De Peliculas Clasico (Z)(1080)" tvg-logo="https://static.wixstatic.com/media/281e2a_52ed141254f542599d3f8eabdd34d672~mv2.png/v1/fit/w_463%2Ch_189%2Cal_c/file.png" group-title="CANALES-ENTRETENIMIENTO",CINE - De Peliculas Clasico (Z)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9641
+#EXTINF:-1 tvg-id="" tvg-name="CINE - De Película (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-p0k4fKEUr58/XatKxE50PxI/AAAAAAAAAcM/jvKKEeW_T-8c-q7zmdG1CuyLiD4B1T0WQCLcBGAsYHQ/s200/44.png" group-title="CANALES-ENTRETENIMIENTO",CINE - De Película (TV)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9642
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Golden (M)(720)" tvg-logo="https://1.bp.blogspot.com/-Bh76OnxXsM0/XatOPMpUwGI/AAAAAAAAAdI/Q5opFPrspk8mExeK-MKi4lptcYKK8LlqwCLcBGAsYHQ/s200/47.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Golden (M)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9656
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Golden (Z)(1080)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="CANALES-ENTRETENIMIENTO",CINE - Golden (Z)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9657
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Golden Edge (M)(720)" tvg-logo="https://1.bp.blogspot.com/-a_dgujjjSt4/XatPMFS5hlI/AAAAAAAAAdQ/P_h_eb7MZV4sgYDwZ_0tNV2XDn3iFsn4QCLcBGAsYHQ/s200/48.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Golden Edge (M)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9658
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Golden Edge (Z)(1080)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Golden_Edge_2016.png/revision/latest/scale-to-width-down/310?cb=20191215195803&path-prefix=es" group-title="CANALES-ENTRETENIMIENTO",CINE - Golden Edge (Z)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9659
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Golden Plus (L)(720)" tvg-logo="https://1.bp.blogspot.com/-xAsbQLg2Jh4/XatB0liBxTI/AAAAAAAAAaw/0DJSM8f-dGYbfmZhsUXXGokODQRxIrpXwCLcBGAsYHQ/s200/35.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Golden Plus (L)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9660
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Golden Plus (M)(1080) [Dual Audio]" tvg-logo="https://1.bp.blogspot.com/-xAsbQLg2Jh4/XatB0liBxTI/AAAAAAAAAaw/0DJSM8f-dGYbfmZhsUXXGokODQRxIrpXwCLcBGAsYHQ/s200/35.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Golden Plus (M)(1080) [Dual Audio]
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9661
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Golden Plus (Z)(1080) -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzfPAfYQMBjlLveOOYfg-4RSj7VSTmctWclQ&usqp=CAU" group-title="CANALES-ENTRETENIMIENTO",CINE - Golden Plus (Z)(1080) -
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9662
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Golden Premier (Z)(720)" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-(Z)(720)_m.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Golden Premier (Z)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9663
+#EXTINF:-1 tvg-id="Canal.Golden.Premier.mx" tvg-name="CINE - Golden Premiere (M)(1080) [Dual Audio]" tvg-logo="https://1.bp.blogspot.com/-j59YyvcAhO4/XatB1WwVKKI/AAAAAAAAAa0/DMlvXZYGuHgvfLb_ggo3sXcUkoeGcGVaQCLcBGAsYHQ/s200/36.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Golden Premiere (M)(1080) [Dual Audio]
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9664
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Golden Premiere 2 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-j59YyvcAhO4/XatB1WwVKKI/AAAAAAAAAa0/DMlvXZYGuHgvfLb_ggo3sXcUkoeGcGVaQCLcBGAsYHQ/s200/36.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Golden Premiere 2 (TV)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9665
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 1" tvg-logo="http://live.detodotvplay.com:8080/images/nulSsJO1HjtWmXnGvVQLKVVsT9SBFMZ2egBEu1e7ANjec5xXfqRvHlG1BRCE7KN8jhTtbE1jwDvq0Ep2-pccvQWN1sjXBDxP8xutJ8AvUok.png" group-title="EVENTOS PPV MUNDIAL",ES | DAZN 1
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/94464
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 2 HD (L)" tvg-logo="http://live.detodotvplay.com:8080/images/kS9zs_PQ3NKANBoyhKJl-WV_7LqI9qQN_ZMv5_Aiqdk3ymMyiQq-eRUmhwraSKO1n5tFgnMOtKNDn1an7O419E2PCIR7yQ-YveZjdVSVSmo.png" group-title="EVENTOS PPV MUNDIAL",ES | DAZN 2 HD (L)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/94465
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN F1 (L)" tvg-logo="https://logos.xbots.com.mx/307521.png" group-title="EVENTOS PPV MUNDIAL",ES | DAZN F1 (L)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/94466
+#EXTINF:-1 tvg-id="" tvg-name="ES | Dazn La Liga  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png" group-title="EVENTOS PPV MUNDIAL",ES | Dazn La Liga  HD
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/94467
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn La Liga 1 (TV)(1080)" tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/DAZN_La_Liga.png" group-title="EVENTOS PPV MUNDIAL",ES: Dazn La Liga 1 (TV)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/103708
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn La Liga 1 (TV)(720)" tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/DAZN_La_Liga.png" group-title="EVENTOS PPV MUNDIAL",ES: Dazn La Liga 1 (TV)(720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/103707
+#EXTINF:-1 tvg-id="" tvg-name="ES: Liga Hypermotion 2 (TV)" tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/LaLiga_Hypermotion.png" group-title="EVENTOS PPV MUNDIAL",ES: Liga Hypermotion 2 (TV)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/103705
+#EXTINF:-1 tvg-id="" tvg-name="ES: Liga Hypermotion 3 (TV)" tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/LaLiga_Hypermotion.png" group-title="EVENTOS PPV MUNDIAL",ES: Liga Hypermotion 3 (TV)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/103706
+#EXTINF:-1 tvg-id="" tvg-name="ES: Liga Hypermotion (TV)" tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/LaLiga_Hypermotion.png" group-title="EVENTOS PPV MUNDIAL",ES: Liga Hypermotion (TV)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/103704
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga (TV)(Fibra Multi-Comentaristas)" tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/LaLiga.png" group-title="EVENTOS PPV MUNDIAL",ES: M. LaLiga (TV)(Fibra Multi-Comentaristas)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/103696
+#EXTINF:-1 tvg-id="LALIGA.TV.BAR.es" tvg-name="ES: M. LaLiga (TV)(1080)" tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/LaLiga.png" group-title="EVENTOS PPV MUNDIAL",ES: M. LaLiga (TV)(1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/103698
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga (TV) (4K)" tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/LaLiga.png" group-title="EVENTOS PPV MUNDIAL",ES: M. LaLiga (TV) (4K)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/103697
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 2 FHD (Solo Eventos)" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1460.png" group-title="EVENTOS PPV MUNDIAL",SP: ES: M. Liga de Campeones 2 FHD (Solo Eventos)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/95771
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 3 FHD (Solo Eventos)" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" group-title="EVENTOS PPV MUNDIAL",SP: ES: M. Liga de Campeones 3 FHD (Solo Eventos)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/95774
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 4 FHD (Solo Eventos)" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" group-title="EVENTOS PPV MUNDIAL",SP: ES: M. Liga de Campeones 4 FHD (Solo Eventos)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/95776
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 5 SD (Solo Eventos)" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_5.png" group-title="EVENTOS PPV MUNDIAL",SP: ES: M. Liga de Campeones 5 SD (Solo Eventos)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/95777
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 6 (Solo Eventos)" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-6-1551.png" group-title="EVENTOS PPV MUNDIAL",SP: ES: M. Liga de Campeones 6 (Solo Eventos)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/95778
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 7 (Solo Eventos)" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_7.png" group-title="EVENTOS PPV MUNDIAL",SP: ES: M. Liga de Campeones 7 (Solo Eventos)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/95779
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 8 (Solo Eventos)" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_8.png" group-title="EVENTOS PPV MUNDIAL",SP: ES: M. Liga de Campeones 8 (Solo Eventos)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/95780
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones FHD (Fibra Multi-Comentaristas)" tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/M_Liga_de_Campeones.png" group-title="EVENTOS PPV MUNDIAL",SP: ES: M. Liga de Campeones FHD (Fibra Multi-Comentaristas)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/95766
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones FHD (HEVC)" tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/M_Liga_de_Campeones.png" group-title="EVENTOS PPV MUNDIAL",SP: ES: M. Liga de Campeones FHD (HEVC)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/95768
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones FHD (Orange)" tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/M_Liga_de_Campeones.png" group-title="EVENTOS PPV MUNDIAL",SP: ES: M. Liga de Campeones FHD (Orange)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/95767
+#EXTINF:-1 tvg-id="" tvg-name="Sublime Gracia TV | AR" tvg-logo="https://cdn.m3u.cl/logo/1003_Sublime_Gracia_TV.png" group-title="CANALES-RELIGIOSOS",Sublime Gracia TV | AR
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/88013
+#EXTINF:-1 tvg-id="" tvg-name="SUMtv Latino (1080p)" tvg-logo="https://i.imgur.com/W8RLk5w.png" group-title="CANALES-RELIGIOSOS",SUMtv Latino (1080p)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/87979
+#EXTINF:-1 tvg-id="" tvg-name="WC 2026 16:00 Ecuador Vs. Venezuela (e)(1080)(ECDF)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1200px-2026_FIFA_World_Cup_emblem.svg.png" group-title="Eliminatorias Mundial 2026",WC 2026 16:00 Ecuador Vs. Venezuela (e)(1080)(ECDF)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112652
+#EXTINF:-1 tvg-id="" tvg-name="WC 2026 16:00 Ecuador Vs. Venezuela (e)(720)(ECDF)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1200px-2026_FIFA_World_Cup_emblem.svg.png" group-title="Eliminatorias Mundial 2026",WC 2026 16:00 Ecuador Vs. Venezuela (e)(720)(ECDF)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112653
+#EXTINF:-1 tvg-id="" tvg-name="WC 2026 16:00 Ecuador Vs. Venezuela (1080)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1200px-2026_FIFA_World_Cup_emblem.svg.png" group-title="Eliminatorias Mundial 2026",WC 2026 16:00 Ecuador Vs. Venezuela (1080)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112654
+#EXTINF:-1 tvg-id="" tvg-name="WC 2026 16:00 Ecuador Vs. Venezuela (720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1200px-2026_FIFA_World_Cup_emblem.svg.png" group-title="Eliminatorias Mundial 2026",WC 2026 16:00 Ecuador Vs. Venezuela (720)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112655
+#EXTINF:-1 tvg-id="" tvg-name="WC 2026 16:00 Ecuador vs Venezuela" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1200px-2026_FIFA_World_Cup_emblem.svg.png" group-title="Eliminatorias Mundial 2026",WC 2026 16:00 Ecuador vs Venezuela
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112692
+#EXTINF:-1 tvg-id="" tvg-name="WC 2026 18:30 Uruguay Vs. Argentina (1080)(AUF)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1200px-2026_FIFA_World_Cup_emblem.svg.png" group-title="Eliminatorias Mundial 2026",WC 2026 18:30 Uruguay Vs. Argentina (1080)(AUF)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112656
+#EXTINF:-1 tvg-id="" tvg-name="WC 2026 18:30 Uruguay Vs. Argentina (e)(720)(AUF)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1200px-2026_FIFA_World_Cup_emblem.svg.png" group-title="Eliminatorias Mundial 2026",WC 2026 18:30 Uruguay Vs. Argentina (e)(720)(AUF)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112657
+#EXTINF:-1 tvg-id="" tvg-name="WC 2026 18:30 Uruguay vs Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1200px-2026_FIFA_World_Cup_emblem.svg.png" group-title="Eliminatorias Mundial 2026",WC 2026 18:30 Uruguay vs Argentina
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112693
+#EXTINF:-1 tvg-id="" tvg-name="WC 2026 18:30 Uruguay Vs. Argentina (M)(1080)(TYC)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1200px-2026_FIFA_World_Cup_emblem.svg.png" group-title="Eliminatorias Mundial 2026",WC 2026 18:30 Uruguay Vs. Argentina (M)(1080)(TYC)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112658
+#EXTINF:-1 tvg-id="" tvg-name="WC 2026 18:30 Uruguay Vs. Argentina (TV)(720)(TYC)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1200px-2026_FIFA_World_Cup_emblem.svg.png" group-title="Eliminatorias Mundial 2026",WC 2026 18:30 Uruguay Vs. Argentina (TV)(720)(TYC)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112659
+#EXTINF:-1 tvg-id="" tvg-name="Premier Padel-2025" tvg-logo="https://www.padelnetwork.com/icons/lg/premier.gif" group-title="EVENTOS PPV",Premier Padel-2025
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112660
+#EXTINF:-1 tvg-id="" tvg-name="06:55 AM | BOTSWANA VS ALGERIA (ROUND 5 GROUP G)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1200px-2026_FIFA_World_Cup_emblem.svg.png" group-title="EVENTOS PPV",06:55 AM | BOTSWANA VS ALGERIA (ROUND 5 GROUP G)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112679
+#EXTINF:-1 tvg-id="" tvg-name="WC 2026 06:55 AM | EQUATORIAL GUINEA VS SãO TOMé AND PRíNCIPE (ROUND 5 GROUP H)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1200px-2026_FIFA_World_Cup_emblem.svg.png" group-title="Eliminatorias Mundial 2026",WC 2026 06:55 AM | EQUATORIAL GUINEA VS SãO TOMé AND PRíNCIPE (ROUND 5 GROUP H)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112680
+#EXTINF:-1 tvg-id="" tvg-name="WC 2026 09:55 AM | BURKINA FASO VS DJIBOUTI (ROUND 5 GROUP A)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1200px-2026_FIFA_World_Cup_emblem.svg.png" group-title="Eliminatorias Mundial 2026",WC 2026 09:55 AM | BURKINA FASO VS DJIBOUTI (ROUND 5 GROUP A)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112681
+#EXTINF:-1 tvg-id="" tvg-name="WC 2026 09:55 AM | RWANDA VS NIGERIA (ROUND 5 GROUP C)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1200px-2026_FIFA_World_Cup_emblem.svg.png" group-title="Eliminatorias Mundial 2026",WC 2026 09:55 AM | RWANDA VS NIGERIA (ROUND 5 GROUP C)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112682
+#EXTINF:-1 tvg-id="" tvg-name="WC 2026 09:55 AM | SOUTH AFRICA VS LESOTHO (ROUND 5 GROUP C)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1200px-2026_FIFA_World_Cup_emblem.svg.png" group-title="Eliminatorias Mundial 2026",WC 2026 09:55 AM | SOUTH AFRICA VS LESOTHO (ROUND 5 GROUP C)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112683
+#EXTINF:-1 tvg-id="" tvg-name="WC 2026 09:55 AM | CONGO DR VS SOUTH SUDAN (ROUND 5 GROUP B)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1200px-2026_FIFA_World_Cup_emblem.svg.png" group-title="Eliminatorias Mundial 2026",WC 2026 09:55 AM | CONGO DR VS SOUTH SUDAN (ROUND 5 GROUP B)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112684
+#EXTINF:-1 tvg-id="" tvg-name="WC 2026 12:55 PM | BURUNDI VS COTE D'IVOIRE (ROUND 5 GROUP F)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1200px-2026_FIFA_World_Cup_emblem.svg.png" group-title="Eliminatorias Mundial 2026",WC 2026 12:55 PM | BURUNDI VS COTE D'IVOIRE (ROUND 5 GROUP F)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112685
+#EXTINF:-1 tvg-id="" tvg-name="WC 2026 12:55 PM | GHANA VS CHAD (ROUND 5 GROUP I)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1200px-2026_FIFA_World_Cup_emblem.svg.png" group-title="Eliminatorias Mundial 2026",WC 2026 12:55 PM | GHANA VS CHAD (ROUND 5 GROUP I)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112686
+#EXTINF:-1 tvg-id="" tvg-name="WC 2026 02:55 PM | GUINEA VS SOMALIA (ROUND 5 GROUP G)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1200px-2026_FIFA_World_Cup_emblem.svg.png" group-title="Eliminatorias Mundial 2026",WC 2026 02:55 PM | GUINEA VS SOMALIA (ROUND 5 GROUP G)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112687
+#EXTINF:-1 tvg-id="" tvg-name="WC 2026 02:55 PM | ETHIOPIA VS EGYPT (ROUND 5 GROUP A)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1200px-2026_FIFA_World_Cup_emblem.svg.png" group-title="Eliminatorias Mundial 2026",WC 2026 02:55 PM | ETHIOPIA VS EGYPT (ROUND 5 GROUP A)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112688
+#EXTINF:-1 tvg-id="" tvg-name="WC 2026 03:25 PM | NIGER VS MOROCCO (ROUND 5 GROUP E)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1200px-2026_FIFA_World_Cup_emblem.svg.png" group-title="Eliminatorias Mundial 2026",WC 2026 03:25 PM | NIGER VS MOROCCO (ROUND 5 GROUP E)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112689
+#EXTINF:-1 tvg-id="" tvg-name="WC 2026 13:45 England vs Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1200px-2026_FIFA_World_Cup_emblem.svg.png" group-title="Eliminatorias Mundial 2026",WC 2026 13:45 England vs Albania
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112690
+#EXTINF:-1 tvg-id="" tvg-name="WC 2026 13:45 Poland vs Lithuania" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1200px-2026_FIFA_World_Cup_emblem.svg.png" group-title="Eliminatorias Mundial 2026",WC 2026 13:45 Poland vs Lithuania
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112691
+#EXTINF:-1 tvg-id="" tvg-name="Gold Cup 14:00 Cuba vs Trinidad and Tobago" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Concacaf_Gold_Cup_2021.svg/1200px-Concacaf_Gold_Cup_2021.svg.png" group-title="EVENTOS PPV",Gold Cup 14:00 Cuba vs Trinidad and Tobago
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112694
+#EXTINF:-1 tvg-id="" tvg-name="Gold Cup 17:00 Bermuda vs Honduras" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Concacaf_Gold_Cup_2021.svg/1200px-Concacaf_Gold_Cup_2021.svg.png" group-title="EVENTOS PPV",Gold Cup 17:00 Bermuda vs Honduras
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112695
+#EXTINF:-1 tvg-id="" tvg-name="Gold Cup 17:00 Saint Vincent and the Grenadines vs Jamaica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Concacaf_Gold_Cup_2021.svg/1200px-Concacaf_Gold_Cup_2021.svg.png" group-title="EVENTOS PPV",Gold Cup 17:00 Saint Vincent and the Grenadines vs Jamaica
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112696
+#EXTINF:-1 tvg-id="" tvg-name="Gold Cup 18:00 Guadeloupe vs Nicaragua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Concacaf_Gold_Cup_2021.svg/1200px-Concacaf_Gold_Cup_2021.svg.png" group-title="EVENTOS PPV",Gold Cup 18:00 Guadeloupe vs Nicaragua
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112697
+#EXTINF:-1 tvg-id="" tvg-name="Gold Cup 19:00 Guyana vs Guatemala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Concacaf_Gold_Cup_2021.svg/1200px-Concacaf_Gold_Cup_2021.svg.png" group-title="EVENTOS PPV",Gold Cup 19:00 Guyana vs Guatemala
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112698
+#EXTINF:-1 tvg-id="" tvg-name="Gold Cup 20:00 Belize vs Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Concacaf_Gold_Cup_2021.svg/1200px-Concacaf_Gold_Cup_2021.svg.png" group-title="EVENTOS PPV",Gold Cup 20:00 Belize vs Costa Rica
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112699
+#EXTINF:-1 tvg-id="" tvg-name="Expansión 19:00 Alebrijes de Oaxaca vs Tlaxcala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Liga_de_expansi%C3%B3n_MX.logopng.png/320px-Liga_de_expansi%C3%B3n_MX.logopng.png" group-title="EVENTOS PPV",Expansión 19:00 Alebrijes de Oaxaca vs Tlaxcala
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112700
+#EXTINF:-1 tvg-id="" tvg-name="Expansión 21:00 Tepatitlán vs CA La Paz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Liga_de_expansi%C3%B3n_MX.logopng.png/320px-Liga_de_expansi%C3%B3n_MX.logopng.png" group-title="EVENTOS PPV",Expansión 21:00 Tepatitlán vs CA La Paz
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112701
+#EXTINF:-1 tvg-id="" tvg-name="Femenil 21:00 Tijuana vs Mazatlán" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/f3ut8v1645305794.png" group-title="EVENTOS PPV",Femenil 21:00 Tijuana vs Mazatlán
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112702
+#EXTINF:-1 tvg-id="" tvg-name="8:00am Premier Padel | Premier Padel: Miami - Centre Court (Cuartos de Final)" tvg-logo="" group-title="EVENTOS PPV",8:00am Premier Padel | Premier Padel: Miami - Centre Court (Cuartos de Final)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112714
+#EXTINF:-1 tvg-id="" tvg-name="18:00 ATP/WTA: Miami Open" tvg-logo="" group-title="EVENTOS PPV",18:00 ATP/WTA: Miami Open
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112715
+#EXTINF:-1 tvg-id="" tvg-name="10:00am Premier Padel | Premier Padel: Miami - Secondary Court (Cuartos de Final)" tvg-logo="" group-title="EVENTOS PPV",10:00am Premier Padel | Premier Padel: Miami - Secondary Court (Cuartos de Final)
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112716
+#EXTINF:-1 tvg-id="" tvg-name="VARIOS | 20:30 CMLL" tvg-logo="http://mstrtv.com:25461/images/6d2a50b9cf5522b5a5c1a343db97fd54.jpg" group-title="EVENTOS PPV",VARIOS | 20:30 CMLL
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112717
+#EXTINF:-1 tvg-id="" tvg-name="VARIOS | 18:00 WWE SmackDown" tvg-logo="http://mstrtv.com:25461/images/cb6e7a40c198b41810ab80f72472c216.png" group-title="EVENTOS PPV",VARIOS | 18:00 WWE SmackDown
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/112718
