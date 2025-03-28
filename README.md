@@ -1,6 +1,16 @@
 #EXTM3U
-
-
+#EXTINF:-1 tvg-id="" tvg-name="MX | FOX DEPORTES ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_deportes-mediano.png" group-title="✅️LIGA MX",MX | FOX DEPORTES ᴴᴰ
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/179867
+#EXTINF:-1 tvg-id="I312.123582.schedulesdirect.org" tvg-name="MX | FOX SPORTS PREMIUM ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_premium_argentina-mediano.png" group-title="✅️LIGA MX",MX | FOX SPORTS PREMIUM ᴴᴰ
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/146173
+#EXTINF:-1 tvg-id="" tvg-name="DEP_SD | CLARO SPORTS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/claro_sports-mediano.png" group-title="DEPORTES PREMIUM | SD",DEP_SD | CLARO SPORTS
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/136449
+#EXTINF:-1 tvg-id="" tvg-name="DEP_HD | AZTECA DEPORTES ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png" group-title="DEPORTES PREMIUM | HD",DEP_HD | AZTECA DEPORTES ᴴᴰ
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/146533
+#EXTINF:-1 tvg-id="I464.75176.schedulesdirect.org" tvg-name="MX | T_UDN MX ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tudn-mediano.png" group-title="✅️LIGA MX",MX | T_UDN MX ᴴᴰ
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/153955
+#EXTINF:-1 tvg-id="" tvg-name="MX | T_UDN USA ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tudn-mediano.png" group-title="✅️LIGA MX",MX | T_UDN USA ᴴᴰ
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/153956
 #EXTINF:-1 tvg-id="" tvg-name="MX|  AZTECA UNO INTERNACIONAL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwfVc2u-YhRJY1lXoLcBYm5KkxBHOlrDvL1A&usqp=CAU" group-title="✅  MEXICO",MX|  AZTECA UNO INTERNACIONAL HD
 http://chve.lat:80/live/Edgar1234/Edgar1234/fcb5971f-bfea-4dbc-a749-7ea331f78f9a.m3u
 #EXTINF:-1 tvg-id="" tvg-name="MX| AZTECA UNO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx1JoRQKnpfK2CpDq6cXk9oHzjwpczUaC88Q&usqp=CAU" group-title="✅  MEXICO",MX| AZTECA UNO HD
@@ -29,30 +39,21 @@ http://chve.lat:80/live/Edgar1234/Edgar1234/a7e2a93a-b934-4720-b36b-049b2c7fcb83
 http://chve.lat:80/live/Edgar1234/Edgar1234/320e28c3-d535-42ac-bb3e-bd47226c5ae1.m3u
 #EXTINF:-1 tvg-id="" tvg-name="MX| GALA TV HD" tvg-logo="https://logopond.com/logos/b65f4139bec8707292f37b13d24c7081.png" group-title="✅  MEXICO",MX| GALA TV HD
 http://chve.lat:80/live/Edgar1234/Edgar1234/d987a882-02ff-4ed8-b030-dda97fc9f759.m3u
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION MCALLEN TEXAS HD*" tvg-logo="https://mirror.streamhubtv.ca:443/images/NmEhMm0roroG73QOxVrJalC9X6MJ19yE7kaakqU5OitgSLznyPq-dic1q5tNqqeFB7saoYx1bqCztxy6ghIW18Cu96kpkL7Dnb3uSnQytjY.png" group-title="⭕ UNIVISION PREMIUM",UNIVISION MCALLEN TEXAS HD*
-http://chve.lat:80/live/Edgar1234/Edgar1234/c3551f49-d265-4c28-ba83-cfccb649066e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION LOS ANGELES" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="⭕ UNIVISION PREMIUM",UNIVISION LOS ANGELES
-http://chve.lat:80/live/Edgar1234/Edgar1234/abdeeee6-e7d3-49ce-8c0b-58ef51d94a33.m3u
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION MIAMI" tvg-logo="https://mirror.streamhubtv.ca:443/images/4096c56849f389788f89575fa09fc03f.png" group-title="⭕ UNIVISION PREMIUM",UNIVISION MIAMI
-http://chve.lat:80/live/Edgar1234/Edgar1234/487dd5a2-6e19-49ef-a83b-fecb79572f9d.m3u
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION DENVER HD" tvg-logo="https://mirror.streamhubtv.ca:443/images/NmEhMm0roroG73QOxVrJalC9X6MJ19yE7kaakqU5OitgSLznyPq-dic1q5tNqqeFB7saoYx1bqCztxy6ghIW18Cu96kpkL7Dnb3uSnQytjY.png" group-title="⭕ UNIVISION PREMIUM",UNIVISION DENVER HD
-http://chve.lat:80/live/Edgar1234/Edgar1234/4b7a43bf-ebe9-4226-9122-0abb221110e2.m3u
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION CHICAGO" tvg-logo="https://mirror.streamhubtv.ca:443/images/4096c56849f389788f89575fa09fc03f.png" group-title="⭕ UNIVISION PREMIUM",UNIVISION CHICAGO
-http://chve.lat:80/live/Edgar1234/Edgar1234/4e122cb2-d2a9-437b-9d4b-25c111a2bf79.m3u
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION HOUSTON" tvg-logo="https://mirror.streamhubtv.ca:443/images/4096c56849f389788f89575fa09fc03f.png" group-title="⭕ UNIVISION PREMIUM",UNIVISION HOUSTON
-http://chve.lat:80/live/Edgar1234/Edgar1234/40dcbc08-4f03-47b1-a885-737ecbccd2ae.m3u
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION NEW YORK" tvg-logo="https://mirror.streamhubtv.ca:443/images/4096c56849f389788f89575fa09fc03f.png" group-title="⭕ UNIVISION PREMIUM",UNIVISION NEW YORK
-http://chve.lat:80/live/Edgar1234/Edgar1234/7aa273bf-d6cb-4f48-b16d-4c5ee790b966.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CLEVELAND HD" tvg-logo="https://mirror.streamhubtv.ca:443/images/4096c56849f389788f89575fa09fc03f.png" group-title="⭕ UNIVISION PREMIUM",CLEVELAND HD
-http://chve.lat:80/live/Edgar1234/Edgar1234/486b7eb3-9c56-4f66-b6bd-ae55707a4cf0.m3u
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION SAN ANTONIO HD" tvg-logo="https://mirror.streamhubtv.ca:443/images/4096c56849f389788f89575fa09fc03f.png" group-title="⭕ UNIVISION PREMIUM",UNIVISION SAN ANTONIO HD
-http://chve.lat:80/live/Edgar1234/Edgar1234/85257413-6907-4a53-87a4-00f97448ac6f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO | LOS ANGELES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="⭕ TELEMUNDO PREMIUM",TELEMUNDO | LOS ANGELES HD
-http://chve.lat:80/live/Edgar1234/Edgar1234/1583adab-683d-46eb-a42e-8e72f28b443e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO | TEXAS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR565jQBXhfYhCqL_GtSuSxMXViNhKqr7um0OBOjY1tOQ&s" group-title="⭕ TELEMUNDO PREMIUM",TELEMUNDO | TEXAS HD
-http://chve.lat:80/live/Edgar1234/Edgar1234/e8683005-a9a9-4305-867c-847a74fd2502.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO SAN FRANCISCO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="⭕ TELEMUNDO PREMIUM",TELEMUNDO SAN FRANCISCO
-http://chve.lat:80/live/Edgar1234/Edgar1234/4c9fd6ea-8685-4868-967c-f743ca8b48c2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="08 | TELEMUNDO INTERNACIONAL ᴴᴰ" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/231.png" group-title="ENTRETENIMIENTO",08 | TELEMUNDO INTERNACIONAL ᴴᴰ
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/150576
+#EXTINF:-1 tvg-id="" tvg-name="09 | TELEMUNDO INT" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/231.png" group-title="ENTRETENIMIENTO",09 | TELEMUNDO INT
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/150577
+#EXTINF:-1 tvg-id="" tvg-name="18 | VENEVISION PLUS ᴴᴰ" tvg-logo="https://www.veplusgo.com/wp-content/uploads/2019/05/Ve_Plus_white.png" group-title="ENTRETENIMIENTO",18 | VENEVISION PLUS ᴴᴰ
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/150591
+#EXTINF:-1 tvg-id="VE | VENEVISION" tvg-name="19 | VENEVISION ᴴᴰ" tvg-logo="https://w2-venevision-com.s3.amazonaws.com/public/media/seo/logo-venevision_600x600.png" group-title="ENTRETENIMIENTO",19 | VENEVISION ᴴᴰ
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/150592
+#EXTINF:-1 tvg-id="AR | AMERICA TV *HD" tvg-name="01 | AMERICA TV ARG" tvg-logo="" group-title="ARGENTINA FP",01 | AMERICA TV ARG
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/156406
+#EXTINF:-1 tvg-id="AR | AMERICA TV *FHD" tvg-name="02 | AMERICA TV ARG ᴴᴰ" tvg-logo="" group-title="ARGENTINA FP",02 | AMERICA TV ARG ᴴᴰ
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/156407
+#EXTINF:-1 tvg-id="" tvg-name="53 | ESTRELLA TV MIAMI ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/estrella_tv-mediano.png" group-title="ENTRETENIMIENTO",53 | ESTRELLA TV MIAMI ᴴᴰ
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/165168
+
 #EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="https://cn.i.cdn.ti-platform.com/content/1293/tooncast/showpage/ar/showlogo.ca8dd28c.png" group-title="⭕ INFANTILES PREMIUM",TOONCAST
 http://chve.lat:80/live/Edgar1234/Edgar1234/7918062d-37c2-45a2-980b-4165bcdadab7.m3u
 #EXTINF:-1 tvg-id="" tvg-name="NICK JR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="⭕ INFANTILES PREMIUM",NICK JR HD
@@ -313,6 +314,53 @@ http://chve.lat:80/live/Edgar1234/Edgar1234/be59b663-5049-4a57-b39d-97676f916b45
 http://chve.lat:80/live/Edgar1234/Edgar1234/5ab9c1ea-95bb-4d51-9726-0b70fac20c56.m3u
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 SD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/FOXSPORTS3.png" group-title="✅ DEPORTES PREMIUM HD - SD",FOX SPORTS 3 SD
 http://chve.lat:80/live/Edgar1234/Edgar1234/4813ad4c-72f5-49ba-807e-ceded1b3fb61.m3u
+#EXTINF:-1 tvg-id="FOX SPORTS 1 EC *HD" tvg-name="35 | FOX SPORTS ARG ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/640px-Fox_Sports_Argentina_2023.svg.png" group-title="PREMIUM ᴴᴰ",35 | FOX SPORTS ARG ᴴᴰ
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/227785
+#EXTINF:-1 tvg-id="I306.66365.schedulesdirect.org" tvg-name="LAT | ESPN 7 ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/504px-ESPN_7_logo.svg.png" group-title="✅️LATAM ᴴᴰ",LAT | ESPN 7 ᴴᴰ
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/227786
+#EXTINF:-1 tvg-id="FOX SPORTS 3 CO *FHD" tvg-name="37 | FOX SPORTS 3 ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="PREMIUM ᴴᴰ",37 | FOX SPORTS 3 ᴴᴰ
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/227787
+#EXTINF:-1 tvg-id="I251.19158.schedulesdirect.org" tvg-name="LAT | ESPN ᴴᴰ" tvg-logo="https://w7.pngwing.com/pngs/592/1001/png-transparent-espn-logo-the-walt-disney-company-television-american-broadcasting-company-hermes-miscellaneous-television-text.png" group-title="✅️LATAM ᴴᴰ",LAT | ESPN ᴴᴰ
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/227788
+#EXTINF:-1 tvg-id="I256.37747.schedulesdirect.org" tvg-name="39 | ESPN 2 ᴴᴰ" tvg-logo="https://www.pngitem.com/pimgs/m/556-5567132_espn-2-logo-png-transparent-png.png" group-title="PREMIUM ᴴᴰ",39 | ESPN 2 ᴴᴰ
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/227789
+#EXTINF:-1 tvg-id="I264.79049.schedulesdirect.org" tvg-name="40 | ESPN 3 ᴴᴰ" tvg-logo="https://w7.pngwing.com/pngs/20/364/png-transparent-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-sport.png" group-title="PREMIUM ᴴᴰ",40 | ESPN 3 ᴴᴰ
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/227790
+#EXTINF:-1 tvg-id="I259.30392.schedulesdirect.org" tvg-name="LAT | ESPN 5 ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="✅️LATAM ᴴᴰ",LAT | ESPN 5 ᴴᴰ
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/227791
+#EXTINF:-1 tvg-id="I261.121144.schedulesdirect.org" tvg-name="LAT | ESPN 6 ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/2560px-ESPN_6_logo.svg.png" group-title="✅️LATAM ᴴᴰ",LAT | ESPN 6 ᴴᴰ
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/227792
+#EXTINF:-1 tvg-id="" tvg-name="43 | 3CDF ᴴᴰ" tvg-logo="https://www.directv.com.ec/content/dam/public-sites/channels/655_EC.png" group-title="PREMIUM ᴴᴰ",43 | 3CDF ᴴᴰ
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/227793
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 *FHD" tvg-name="46 | DTVS ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_(2018).png/512px-DirecTV_Sports_Latin_America_(2018).png" group-title="PREMIUM ᴴᴰ",46 | DTVS ᴴᴰ
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/227797
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 2 *HD" tvg-name="47 | DTVS 2 ᴴᴰ" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1612.png" group-title="PREMIUM ᴴᴰ",47 | DTVS 2 ᴴᴰ
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/227798
+#EXTINF:-1 tvg-id="DIRECTV SPORTS + *FHD" tvg-name="48 | DTVS + ᴴᴰ" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1613.png" group-title="PREMIUM ᴴᴰ",48 | DTVS + ᴴᴰ
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/227799
+#EXTINF:-1 tvg-id="tycsports.us" tvg-name="49 | TYC SPORTS INT ᴴᴰ" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-cl-1246.png" group-title="PREMIUM ᴴᴰ",49 | TYC SPORTS INT ᴴᴰ
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/228150
+#EXTINF:-1 tvg-id="FOX SPORTS 1 AR *FHD" tvg-name="01 | FOX SPORTS ARG ᴴᴰ" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/605.png" group-title="PACK FOX SPORTS",01 | FOX SPORTS ARG ᴴᴰ
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/2570
+#EXTINF:-1 tvg-id="FOX SPORTS 2 AR *FHD" tvg-name="02 | FOX SPORTS 2 ARG ᴴᴰ" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1606.png" group-title="PACK FOX SPORTS",02 | FOX SPORTS 2 ARG ᴴᴰ
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/2676
+#EXTINF:-1 tvg-id="FOX SPORTS 3 AR *FHD" tvg-name="03 | FOX SPORTS 3 ARG ᴴᴰ" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1607.png" group-title="PACK FOX SPORTS",03 | FOX SPORTS 3 ARG ᴴᴰ
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/2677
+#EXTINF:-1 tvg-id="FOX SPORTS 1 MX *HQ" tvg-name="04 | FOX SPORTS MX ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports-mediano.png" group-title="PACK FOX SPORTS",04 | FOX SPORTS MX ᴴᴰ
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/132268
+#EXTINF:-1 tvg-id="FOX SPORTS 2 MX *HQ" tvg-name="05 | FOX SPORTS 2 MX ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_2-mediano.png" group-title="PACK FOX SPORTS",05 | FOX SPORTS 2 MX ᴴᴰ
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/132271
+#EXTINF:-1 tvg-id="Fox.Sports.3.(Cono.Norte).(FOXSP3).[202].cr" tvg-name="06 | FOX SPORTS 3 MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_3-mediano.png" group-title="PACK FOX SPORTS",06 | FOX SPORTS 3 MX
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/132272
+#EXTINF:-1 tvg-id="FOX SPORTS 3 MX *HQ" tvg-name="07 | FOX SPORTS PREMIUM MX ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_premium_argentina-mediano.png" group-title="PACK FOX SPORTS",07 | FOX SPORTS PREMIUM MX ᴴᴰ
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/132275
+#EXTINF:-1 tvg-id="FOX SPORTS 1 MX *FHD" tvg-name="08 | FOX SPORTS MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports-mediano.png" group-title="PACK FOX SPORTS",08 | FOX SPORTS MX
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/144283
+#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(Cono.Norte).(FOXSP2HD).pa" tvg-name="09 | FOX SPORTS 2 MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_2-mediano.png" group-title="PACK FOX SPORTS",09 | FOX SPORTS 2 MX
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/144284
+#EXTINF:-1 tvg-id="FOX SPORTS 3 MX *HD" tvg-name="10 | FOX SPORTS 3 MX HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_3-mediano.png" group-title="PACK FOX SPORTS",10 | FOX SPORTS 3 MX HD
+http://socketevolution.online:8080/albinsalazar/fBmexFYrNM/144285
+
 #EXTINF:-1 tvg-id="" tvg-name="CINE  | A&E HD" tvg-logo="https://i.ibb.co/MVkp7T8/AE.png" group-title="✅  CINE PREMIUM HD - SD",CINE  | A&E HD
 http://chve.lat:80/live/Edgar1234/Edgar1234/9758a3c6-9fed-4a69-8026-e7b1e1210c84.m3u
 #EXTINF:-1 tvg-id="" tvg-name="CINE  | A&E SD" tvg-logo="https://i.ibb.co/MVkp7T8/AE.png" group-title="✅  CINE PREMIUM HD - SD",CINE  | A&E SD
