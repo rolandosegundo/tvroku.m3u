@@ -23,6 +23,320 @@ http://norfujh.top:8080/live/Jonathan/12345678/58322.m3u8
 http://norfujh.top:8080/live/Jonathan/12345678/58323.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CH12" tvg-logo="" group-title="PPV",CH12
 http://norfujh.top:8080/live/Jonathan/12345678/58324.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIX Sports 1 HD" tvg-logo="http://zuiowy.net:8080/images/a6b8a304e4ad60a0f49a2b48e54cab30.png" group-title="VIX / TUDN",VIX Sports 1 HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/123680.m3u8
+#EXTINF:-1 tvg-id="cp24.ca" tvg-name="CA | CP24 News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CP24_black_logo.svg/1200px-CP24_black_logo.svg.png" group-title="Canada (Eng)",CA | CP24 News HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/123272.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOL | TIGO SPORTS 1" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ioy32l1623579346.png" group-title="Bolivia",BOL | TIGO SPORTS 1
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/123722.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Costa Rica | Canal 1 HD" tvg-logo="https://radiocostarica.net/sites/default/files/2024-01/canal-1-costa-rica.png" group-title="Costa Rica",Costa Rica | Canal 1 HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/123781.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG | 13 Max HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/13_Max_Televisi%C3%B3n_%28Logo_2024_-_2%29.png" group-title="Argentina",ARG | 13 Max HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/123782.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO | Enlace Television HD" tvg-logo="https://seeklogo.com/images/E/enlace-tv-logo-683F9F308A-seeklogo.com.png" group-title="Colombia",CO | Enlace Television HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/124463.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO | ATV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/800px-ATV_logo_2020.png" group-title="Colombia",CO | ATV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/124465.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO | Tele Islas Channel SD" tvg-logo="https://teleislas.gov.co/wp-content/uploads/2019/07/cropped-Teleislas_Logo.png" group-title="Colombia",CO | Tele Islas Channel SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/124600.m3u8
+#EXTINF:-1 tvg-id="unimas41ktfq.us" tvg-name="USA Latino | Unimas Albuquerque HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="USA - Latino",USA Latino | Unimas Albuquerque HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/124740.m3u8
+#EXTINF:-1 tvg-id="scrippsnews.us" tvg-name="USA | Scripps News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Scripps_News_logo.svg/1200px-Scripps_News_logo.svg.png" group-title="World News / Noticias",USA | Scripps News HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/124787.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA | ABC Miami News" tvg-logo="https://situ.nyc/img/OWp6Z2dzQnRZNzdGbGpibjlSdW5QQT09/situ-wxy-abc-news-brooklyn-lab-charter-schools-design-covid-reopening.png" group-title="News",USA | ABC Miami News
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/124788.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA | CBS News Pittsburgh" tvg-logo="https://logonoid.com/images/cbs-news-logo.png" group-title="News",USA | CBS News Pittsburgh
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/124793.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | Television Catolica SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/TVCA_El_Salvador_2015.png" group-title="El Salvador",EL SALVADOR | Television Catolica SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/124794.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | El Camino TV SD" tvg-logo="https://doavub8d2uzrx.cloudfront.net/media/images/venues/iglesia-camino-de-santidad/avatars/d3ba5902-6e6.png" group-title="El Salvador",EL SALVADOR | El Camino TV SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/124795.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | Canal TRV HD" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/TRV-El-Salvador-en-vivo-Online.png" group-title="El Salvador",EL SALVADOR | Canal TRV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/124796.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="USA | News 12 Connecticut HD" tvg-logo="https://e7.pngegg.com/pngimages/976/309/png-clipart-pinktie-org-connecticut-rockland-county-new-york-news-12-networks-news-12-long-island-others-text-logo.png" group-title="News",USA | News 12 Connecticut HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/124965.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Venezuela | VIVE TV SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Vivetv2003.png" group-title="Venezuela",Venezuela | VIVE TV SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/124969.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Venezuela | TVO SD" tvg-logo="https://lh3.googleusercontent.com/-6OPNiK4b5mA/Vh-kcZIOU7I/AAAAAAAAJ80/eb5LLYX5Z4A/s400-Ic42/logo%252520de%252520TVO%2525202015-actual.png" group-title="Venezuela",Venezuela | TVO SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/124970.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Venezuela | TAM TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png" group-title="Venezuela",Venezuela | TAM TV SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/124971.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA Latino | Canela TV HD" tvg-logo="https://comunicate.ec/wp-content/uploads/2022/04/canelatv.png" group-title="USA - Latino",USA Latino | Canela TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/124985.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Onda Digital TV HD" tvg-logo="https://www.ondadigital.pe/imgs/ondadigital.png" group-title="Peru",Peru | Onda Digital TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/124987.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Venezuela | Vepaco TV SD" tvg-logo="https://vepaco.com/wp-content/uploads/2022/09/empresa-lider_senales.png" group-title="Venezuela",Venezuela | Vepaco TV SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/124988.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA Latino | Canela Cinema HD" tvg-logo="https://seeklogo.com/images/C/canela-media-logo-8F1D4D393C-seeklogo.com.png" group-title="USA - Latino",USA Latino | Canela Cinema HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/124992.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Top Latino TV SD" tvg-logo="https://toplatino.net/players/latinotv/estamosarriba.png" group-title="Peru",Peru | Top Latino TV SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/124993.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA Latino | Combate Global TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CG_logo_final.svg/800px-CG_logo_final.svg.png" group-title="USA - Latino",USA Latino | Combate Global TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/124994.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG | Canal 9 Multivision HD Salta" tvg-logo="https://iconape.com/wp-content/png_logo_vector/elnueve-ls83-tv-canal-9-logo.png" group-title="Argentina",ARG | Canal 9 Multivision HD Salta
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/124995.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA Latino | Canela Music HD" tvg-logo="https://www.marilumeza.com/wp-content/uploads/2021/10/Canela-900.png" group-title="USA - Latino",USA Latino | Canela Music HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/124996.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Venezuela | Movie Fe HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3438-640x360-FFFFFF.jpg" group-title="Venezuela",Venezuela | Movie Fe HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/124998.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG | Chacra TV SD" tvg-logo="https://www.revistachacra.com.ar/files/image/13/13469/57519faf73582.png" group-title="Argentina",ARG | Chacra TV SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/124999.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | TVS Retro SD" tvg-logo="https://static.wixstatic.com/media/7acae1_1045e40ee9f9492ea5f0fbac4ae32d7d~mv2.png/v1/fill/w_480,h_480,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/tvs.png" group-title="Guatemala",GUATEMALA | TVS Retro SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG | Canal 10 HD Mar del Plata" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/Canal_10_Mar_del_Plata_%28Logo_2021%29.png" group-title="Argentina",ARG | Canal 10 HD Mar del Plata
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG | Canal 7 HD JUJUY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Canal_Siete_Jujuy_%28Logo_2020%29.png" group-title="Argentina",ARG | Canal 7 HD JUJUY
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125004.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG | Canal 9 Televida HD Mendoza" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Canal_9_Televida_%28Logo_navide%C3%B1o_-_2015%29.png" group-title="Argentina",ARG | Canal 9 Televida HD Mendoza
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Costa Rica | Telefides HD" tvg-logo="https://www.canartel.org/assets/img/asociados/telefides.png" group-title="Religion",Costa Rica | Telefides HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mexico | TV Mar HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/TV_MAR_LOGO.jpg/991px-TV_MAR_LOGO.jpg" group-title="Mexico",Mexico | TV Mar HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mexico | Canal 10 HD Cancun" tvg-logo="http://zuihaode.site:25461/images/01fe8a478b40dee818c7451a08715498.png" group-title="Mexico",Mexico | Canal 10 HD Cancun
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125170.m3u8
+#EXTINF:-1 tvg-id="xwwh.mx" tvg-name="Mexico | Telemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Telemax_2022.png" group-title="Mexico",Mexico | Telemax HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mexico | SIPSE TV SD Merida" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Grupo_SIPSE.png" group-title="Mexico",Mexico | SIPSE TV SD Merida
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125172.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mexico | Canal 15 SD Coahuila" tvg-logo="https://encrypted-tbn0.gstatic.com/images" group-title="Mexico",Mexico | Canal 15 SD Coahuila
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mexico | Canal 24 TV HD Zacatecas" tvg-logo="https://encrypted-tbn0.gstatic.com/images" group-title="Mexico",Mexico | Canal 24 TV HD Zacatecas
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mexico | Canal 28 HD Nuevo Leon" tvg-logo="https://i.pinimg.com/originals/c9/ab/76/c9ab76f232997123662d945587d0e0a8.png" group-title="Mexico",Mexico | Canal 28 HD Nuevo Leon
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mexico | Canal B15 HD Zacatecas" tvg-logo="https://b15.com.mx/wp-content/uploads/2024/02/B15-Zacatecas.png" group-title="Mexico",Mexico | Canal B15 HD Zacatecas
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mexico | Movired HD Fresnillo" tvg-logo="https://companieslogo.com/img/orig/FNLPF-385538ea.png" group-title="Mexico",Mexico | Movired HD Fresnillo
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mexico | TRC Television HD" tvg-logo="https://www.texasrefinery.com.mx/imagenes/logos/logo_trc.png" group-title="Mexico",Mexico | TRC Television HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125229.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mexico | Canal 2 TVP HD" tvg-logo="https://seeklogo.com/images/T/TVP_2-logo-AD2070BF5C-seeklogo.com.png" group-title="Mexico",Mexico | Canal 2 TVP HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125230.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mexico | SMRTV SD" tvg-logo="https://seeklogo.com/images/S/smrt-corporation-logo-16110DEBF0-seeklogo.com.png" group-title="Mexico",Mexico | SMRTV SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125231.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mexico | Jalisco TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Jalisco-TV_logotype.png/1200px-Jalisco-TV_logotype.png" group-title="Mexico",Mexico | Jalisco TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mexico | RCG Television SD" tvg-logo="https://seeklogo.com/images/R/rcg-radio-logo-1147ACD939-seeklogo.com.png" group-title="Mexico",Mexico | RCG Television SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125234.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mexico | Canal Once.3 HD" tvg-logo="https://canalonce.mx/REST/data/images/logoonce3-transparent.png" group-title="Mexico",Mexico | Canal Once.3 HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | Canal 2 HD San Antonio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Canal2cl1998.png" group-title="Chile",CHILE | Canal 2 HD San Antonio
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125238.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | Canal Iquique HD" tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/6446b847439ad2000962cf25/mediaLibrary/photo/5df7f890-0f0d-49ab-9c69-43c8cd499850-medium-standard-q100.png" group-title="Chile",CHILE | Canal Iquique HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125239.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | Canal Nuevo Tiempo HD" tvg-logo="https://www.nuevotiempo.cl/wp-content/uploads/2023/01/favicon.png" group-title="Chile",CHILE | Canal Nuevo Tiempo HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125240.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | TeleAngol TV SD" tvg-logo="https://cdn.rudo.video/assets/teleangol/global_fbd03cb88596ff4b56d08b86887ccfd430171028.png" group-title="Chile",CHILE | TeleAngol TV SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125241.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | ITV Patagonia SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/ITV_Patagonia_2021.png" group-title="Chile",CHILE | ITV Patagonia SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | Restaurando Vidas TV SD" tvg-logo="https://i.ibb.co/CzmMf10/rv.png" group-title="Chile",CHILE | Restaurando Vidas TV SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | Gracia TV SD" tvg-logo="https://www.graciatv.com/wp-content/uploads/2024/08/IMAGEN-DESTACADA-EN-APP-ANDROID.png" group-title="Chile",CHILE | Gracia TV SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | Canal VTV SD Valle" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Valle_Television.png" group-title="Chile",CHILE | Canal VTV SD Valle
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125252.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | Bio Bio TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Canal_9_B%C3%ADo_B%C3%ADo_Televisi%C3%B3n_-_2012_logo.png/1200px-Canal_9_B%C3%ADo_B%C3%ADo_Televisi%C3%B3n_-_2012_logo.png" group-title="Chile",CHILE | Bio Bio TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125253.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG | Canal 13 HD Jujuy" tvg-logo="https://seeklogo.com/images/C/Canal_Trece_Argentina-logo-3B15B7321D-seeklogo.com.png" group-title="Argentina",ARG | Canal 13 HD Jujuy
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125259.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | Telerama SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Telerama.png" group-title="Ecuador",ECUADOR | Telerama SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125290.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | Ecotel TV SD" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/72/50/2a/72502a7b-926e-6c49-c8ef-fe3233b5ca43/source/512x512bb.jpg" group-title="Ecuador",ECUADOR | Ecotel TV SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Ribereña TV HD" tvg-logo="https://pbs.twimg.com/profile_images/1488283614/logotwitter_400x400.jpg" group-title="Peru",Peru | Ribereña TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125301.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Autentica TV HD" tvg-logo="https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png" group-title="Peru",Peru | Autentica TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125302.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Controversia TV HD" tvg-logo="https://www.nuevotiempo.org/wp-content/uploads/sites/6/2020/01/logo_controversia.png" group-title="Peru",Peru | Controversia TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125320.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Genios TV HD" tvg-logo="https://pbs.twimg.com/profile_images/1049853039622934528/hh8xl0hr_400x400.jpg" group-title="Peru",Peru | Genios TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125322.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Hechicera TV HD" tvg-logo="https://pbs.twimg.com/profile_images/644914188570243072/PVfpRUlh_400x400.jpg" group-title="Peru",Peru | Hechicera TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Double C TV HD" tvg-logo="" group-title="Peru",Peru | Double C TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125324.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | NorSelva TV HD" tvg-logo="" group-title="Peru",Peru | NorSelva TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125325.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Cultura 24 TV HD" tvg-logo="" group-title="Peru",Peru | Cultura 24 TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125326.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Master TV SD" tvg-logo="https://somosmastertv.com/assets/img/logo.jpg" group-title="Peru",Peru | Master TV SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125327.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Cusco TV HD" tvg-logo="https://www.tvenlineaoficial.com/wp-content/uploads/2024/03/logo-tv-en-linea-cusco.jpg" group-title="Peru",Peru | Cusco TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Oasis RTV SD" tvg-logo="https://oasisradiotv.com/wp-content/uploads/2024/07/00000001.png" group-title="Peru",Peru | Oasis RTV SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125329.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Planeta TV HD" tvg-logo="https://seeklogo.com/images/P/Planeta_tv-logo-486774FFCE-seeklogo.com.png" group-title="Peru",Peru | Planeta TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125331.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Cosmos TV HD Trujillo" tvg-logo="https://fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Peru",Peru | Cosmos TV HD Trujillo
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125334.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Region TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPC_CFTkJLaoAQVOnWYXzLrKJWUX0DH4mQEQ&s" group-title="Peru",Peru | Region TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125336.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | TeleColor TV HD" tvg-logo="https://telecolor.com/wp-content/uploads/2023/10/LOGO-TELECOLOR_Mesa-de-trabajo-1-copia-909x1024.png" group-title="Peru",Peru | TeleColor TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125337.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | RTV Total SD" tvg-logo="https://rtvtotal.pe/img/tvonline.jpg" group-title="Peru",Peru | RTV Total SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125339.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | San Juanera TV HD" tvg-logo="https://sanjuaneratv.pe/wp-content/uploads/2021/10/LOGO1.png" group-title="Peru",Peru | San Juanera TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125340.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Conecta2 TV HD" tvg-logo="https://grupovierci.brightspotcdn.com/dims4/default/fda42c5/2147483647/strip/true/crop/1056x440+72+0/resize/1440x600!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3c%2Fbc%2F1458fa944aadad37c53980528dd0%2Fconectados-latele.png" group-title="Peru",Peru | Conecta2 TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125341.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Bella Asuncion TV HD" tvg-logo="https://www.tvbellaasuncion.com/wp-content/uploads/2021/04/fb.jpg" group-title="Peru",Peru | Bella Asuncion TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125342.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PR | Retro Channel SD" tvg-logo="https://attachment.tapatalk-cdn.com/48241/202308/0_071084afa62bd61bf6647df2ba1ba475.png" group-title="Puerto Rico",PR | Retro Channel SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG | TeleCinco SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_Telecinco.svg/1925px-Logo_Telecinco.svg.png" group-title="Argentina",ARG | TeleCinco SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125362.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Identidad TV HD" tvg-logo="https://png.pngtree.com/png-clipart/20230806/original/pngtree-tv-logo-design-concept-company-elegant-multimedia-vector-picture-image_9946314.png" group-title="Peru",Peru | Identidad TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125367.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Nativa TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png" group-title="Peru",Peru | Nativa TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125369.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Mega TV SD Arequipa" tvg-logo="https://i.pinimg.com/736x/b6/79/7f/b6797f2c953e2335527b341c4d2a3d6e.jpg" group-title="Peru",Peru | Mega TV SD Arequipa
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125370.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Antares TV HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d2dd665cad0adf6b5b30cb30b70cb79f.webp" group-title="Peru",Peru | Antares TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125372.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Trivu TV HD" tvg-logo="https://i.ytimg.com/vi/yC_S3XuHu7E/maxresdefault.jpg" group-title="Peru",Peru | Trivu TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125373.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Super Canal TV HD" tvg-logo="https://supercanal.com.pe/wp-content/uploads/2023/03/logoheader.png" group-title="Peru",Peru | Super Canal TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125376.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Sol TV HD" tvg-logo="" group-title="Peru",Peru | Sol TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125377.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | USMP TV HD" tvg-logo="https://cdn.usmptv.pe/files/2023/05/05/MINIATURA-AL-D%C3%8DA-PREMIO-CREATIVIDAD.jpg" group-title="Peru",Peru | USMP TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125378.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Uranio TV HD" tvg-logo="" group-title="Peru",Peru | Uranio TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125379.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Karibeña TV HD" tvg-logo="https://i1.sndcdn.com/artworks-000083668145-xmmpjo-t500x500.jpg" group-title="Peru",Peru | Karibeña TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125380.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | JN19 TV HD" tvg-logo="" group-title="Peru",Peru | JN19 TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125438.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG | Canal 4 HD Jujuy" tvg-logo="https://w7.pngwing.com/pngs/364/653/png-transparent-channel-4-jujuy-television-channel-m3u-http-live-streaming-others-television-m3u-symbol.png" group-title="Argentina",ARG | Canal 4 HD Jujuy
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125442.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG | Canal E HD " tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png" group-title="Argentina",ARG | Canal E HD 
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125443.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG | Canal U SD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cba-24n_m.png" group-title="Argentina",ARG | Canal U SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125446.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG | Canal 10 SD Junin" tvg-logo="https://staticia.nocookie.net/logopedia/images/5/59/Canal_10_Jun%C3%ADn_%28Logo_2022_-_2%29.png" group-title="Argentina",ARG | Canal 10 SD Junin
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125448.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG | NET TV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/NETTV2018.png" group-title="Argentina",ARG | NET TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125449.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG | PAKA PAKA" tvg-logo="https://seeklogo.com/images/P/pakapaka-logo-241EAA6AF5-seeklogo.com.png" group-title="Argentina",ARG | PAKA PAKA
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125450.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG | Canal 11 HD Lapacho" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Lapacho_Canal_11_%28Logo_Vertical_-_2008%29.png" group-title="Argentina",ARG | Canal 11 HD Lapacho
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125452.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | Oromar TV SD OPC 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/OromarTV_2010.png" group-title="Ecuador",ECUADOR | Oromar TV SD OPC 2
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125468.m3u8
+#EXTINF:-1 tvg-id="univision41wxtv.us" tvg-name="USA Latino | Univision New York HD OPC 2" tvg-logo="https://static.wikia.nocookie.net/ultimatepopculture/images/0/0a/Logo_Univision_2019.png" group-title="USA - Latino",USA Latino | Univision New York HD OPC 2
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125469.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Costa Rica | Telefides / EWTN HD" tvg-logo="http://zuihaode.site:25461/images/23126ca36316098a76f6646e74cbb1c8.jpg" group-title="Costa Rica",Costa Rica | Telefides / EWTN HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125470.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY | VIVO TV HD" tvg-logo="https://logowik.com/content/uploads/images/vivo-tv9531.logowik.com.webp" group-title="Uruguay",URUGUAY | VIVO TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125749.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA | Global News HD Toronto" tvg-logo="http://zuihaode.site:25461/images/047c1922c6f4a8fb32158326193cb6ca.png" group-title="Canada (Eng)",CA | Global News HD Toronto
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125757.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA Latino | Tribuna TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/TV_Tribuna_logo.png" group-title="USA - Latino",USA Latino | Tribuna TV SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125774.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA Latino | Estrella News HD" tvg-logo="https://estrellamedia.com/wp-content/uploads/2023/03/NoticieroEstrellaTV.png" group-title="USA - Latino",USA Latino | Estrella News HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125776.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA Latino | Estrella Games HD" tvg-logo="https://estrellamedia.com/wp-content/uploads/2023/03/2.png" group-title="USA - Latino",USA Latino | Estrella Games HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125777.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Costa Rica | Soy Plancha TV HD" tvg-logo="https://soyplancha.tv/wp-content/uploads/2023/03/cropped-SOY-PLANCHA-LOGO-TV-2019.png" group-title="Costa Rica",Costa Rica | Soy Plancha TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125837.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Costa Rica | Canal Puerto TV" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/WHvAHgNuds.png" group-title="Costa Rica",Costa Rica | Canal Puerto TV
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125838.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Costa Rica | Los Santos TV SD" tvg-logo="https://lossantosdigital.com/wp-content/uploads/2020/11/cropped-logos-06.png" group-title="Costa Rica",Costa Rica | Los Santos TV SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125839.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Costa Rica | Canal 3 HD Guatuso" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bandera_de_Guatuso_%28Costa_Rica%29.svg/1280px-Bandera_de_Guatuso_%28Costa_Rica%29.svg.png" group-title="Costa Rica",Costa Rica | Canal 3 HD Guatuso
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125840.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA | AfroLand TV HD" tvg-logo="https://www.afrolandtv.com/themes/custom/alt/afrolandtv/logo.png" group-title="USA - Entertainment",USA | AfroLand TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125860.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | Cine Kids SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Cine%2B_Kids.png" group-title="Ecuador",ECUADOR | Cine Kids SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125927.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | Todo Cine TV HD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/73be1aaf-1271-4293-b670-918edbee693e/TodoCine-_Vertical_Default_Art_Fernando_Frade.jpg" group-title="Ecuador",ECUADOR | Todo Cine TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125928.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | Novelas Turcas TV HD" tvg-logo="https://i.pinimg.com/564x/59/7a/7c/597a7c042ac0623e9cbe32a8f913acc1.jpg" group-title="Ecuador",ECUADOR | Novelas Turcas TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125929.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | Novelas Inolvidables TV SD" tvg-logo="https://mx.salvat.com/Content/CategoryImages/3d4c680a-8696-4e07-bf6c-768ff4b3a0c8.png" group-title="Ecuador",ECUADOR | Novelas Inolvidables TV SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125930.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | Puruwa TV SD" tvg-logo="https://i.ibb.co/9wvrZTp/puwa.png" group-title="Ecuador",ECUADOR | Puruwa TV SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125931.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | Planeta TV HD" tvg-logo="https://seeklogo.com/images/P/Planeta_tv-logo-486774FFCE-seeklogo.com.png" group-title="Ecuador",ECUADOR | Planeta TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/125932.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mexico | La Casa Del Jaripeo TV HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bbb7c897139939a109430f3db134f1b9.webp" group-title="Mexico",Mexico | La Casa Del Jaripeo TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/126025.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | TV Catolica SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/TVCA_El_Salvador_2015.png" group-title="El Salvador",EL SALVADOR | TV Catolica SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/126026.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PR | ACS Network TV SD" tvg-logo="https://i0.wp.com/www.acsnetwork.tv/wp-content/uploads/2023/05/acs-network-tv-icon-new.png?fit=1024%2C768&ssl=1" group-title="Puerto Rico",PR | ACS Network TV SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/126047.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PR | MasTV SD" tvg-logo="https://mastvproducciones.net.co/wp-content/uploads/2022/11/logo-M@STVCANAL3.png" group-title="Puerto Rico",PR | MasTV SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/126049.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mexico | Canal 7 SLP TV HD" tvg-logo="https://canal7slp.tv/2024/wp-content/uploads/2024/10/LOGO-RESERVA.jpg" group-title="Mexico",Mexico | Canal 7 SLP TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/126383.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Venezuela | Corazon Llanero TV SD" tvg-logo="https://corazonllanero.com/wp-content/uploads/2023/11/logo-web-768x563.png" group-title="Venezuela",Venezuela | Corazon Llanero TV SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/126421.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Venezuela | Panavision TV SD" tvg-logo="https://seeklogo.com/images/P/panavision-logo-479DB5F498-seeklogo.com.png" group-title="Venezuela",Venezuela | Panavision TV SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/126422.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Venezuela | TLT TV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Logo_TELET.png" group-title="Venezuela",Venezuela | TLT TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/126423.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Venezuela | Tves TV HD" tvg-logo="https://seeklogo.com/images/T/Televisora_venezolana_Social_TVES-logo-D07DCE00D6-seeklogo.com.png" group-title="Venezuela",Venezuela | Tves TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/126424.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Venezuela | Ve Plus SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Ve_Plus_2017.png" group-title="Venezuela",Venezuela | Ve Plus SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/126425.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Venezuela | ShowVen TV SD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_07/large.ShowVen.png.221a82e8fbfb30c38f77f1d10e8a400a.png" group-title="Venezuela",Venezuela | ShowVen TV SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/126427.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY | Canal Once Punta del Este" tvg-logo="https://pbs.twimg.com/profile_images/1689370505340432385/sW0IjLDB_400x400.jpg" group-title="Uruguay",URUGUAY | Canal Once Punta del Este
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/126507.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY | La Red TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/LogoLaRed2018.png/189px-LogoLaRed2018.png" group-title="Uruguay",URUGUAY | La Red TV SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/126508.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NICARAGUA | TicaVision TV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgry5uwlMRjd691ymd9Gxmc6G18OD544H3sJL4KIoWTwxwmsKJFLRqCqi1dro3we8RFfAwyIKdiaMNJQF13OOdcbFde5jOYx_00OXxkGhIG4Tp1ae2Tnr1fa3tRkKzQZ0hPwyb1XMCSv2s/w1200-h630-p-k-no-nu/TicaVisionenvivo.png" group-title="Nicaragua",NICARAGUA | TicaVision TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/126602.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NICARAGUA | WTV HD" tvg-logo="https://vectorflags.s3.amazonaws.com/flags/ni-wave-01.png" group-title="Nicaragua",NICARAGUA | WTV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/126603.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA | RT News HD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="World News / Noticias",USA | RT News HD ENG
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/126848.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY | ProSieben TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/ProSieben_logo.svg/1200px-ProSieben_logo.svg.png" group-title="Internacionales / International",GERMANY | ProSieben TV
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/127501.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Costa Rica | Opa TV HD" tvg-logo="https://ncrnoticias.com/wp-content/uploads/2023/06/Copia-de-imagen-adjunta-817.png" group-title="Costa Rica",Costa Rica | Opa TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/127722.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Costa Rica | Canal 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png" group-title="Costa Rica",Costa Rica | Canal 2 SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/127723.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Costa Rica | Canal 17 Nosara TV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHgt1DzOPJW3-LifjXv6QqmXp3ym0vwtwfLMLcawywIzUOfq8wlx1JcZDRqwxoB5I-54CegRe7MQ_0llubYFY_Ek4SDYgsKMOVbz-Wx_Wbcxo6NXtWo55J2EBHlZEyQniLo2gv6BTD_3_9ns_ESUaExmIgqA8wCKE2p9hFE1_uG5sUUcOomRUbmsag__6x/w1200-h630-p-k-no-nu/CANAL%2017.png" group-title="Costa Rica",Costa Rica | Canal 17 Nosara TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/127724.m3u8
+#EXTINF:-1 tvg-id="newsnation.us" tvg-name="USA | News Nation HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/NewsNation_logo.svg/1280px-NewsNation_logo.svg.png" group-title="News",USA | News Nation HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/127793.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | CHV HD Opc 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chilevisi%C3%B3n_%282018-%29.png/640px-Chilevisi%C3%B3n_%282018-%29.png" group-title="Chile",CHILE | CHV HD Opc 3
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/127852.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY | Tele 8 SD Mercedes" tvg-logo="https://pbs.twimg.com/profile_images/1855401395/Comp_PNG_400x400.png" group-title="Uruguay",URUGUAY | Tele 8 SD Mercedes
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/128232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deportes HD | ESPN CARIBE" tvg-logo="https://themenschonabench.com/wp-content/uploads/2014/05/ESPN-Logo.png" group-title="Deportes HD / Sports (Lat)",Deportes HD | ESPN CARIBE
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/129014.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AF| SuperSport 1 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png" group-title="SuperSports",AF| SuperSport 1 FHD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/129015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AF| SuperSport 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png" group-title="SuperSports",AF| SuperSport 2 HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/129016.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AF| SuperSport 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png" group-title="SuperSports",AF| SuperSport 3 HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/129017.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AF| SuperSport 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png" group-title="SuperSports",AF| SuperSport 4 HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/129018.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AF| SuperSport 5 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png" group-title="SuperSports",AF| SuperSport 5 HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/129019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine | Universal Premier HD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.dd093e77a73e1cc71ccb2e3b7983d187.png" group-title="Cine en Español",Cine | Universal Premier HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/129451.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine | STAR SERIES HD" tvg-logo="https://images.seeklogo.com/logo-png/52/1/star-series-logo-png_seeklogo-520562.png" group-title="Cine en Español",Cine | STAR SERIES HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/129453.m3u8
+#EXTINF:-1 tvg-id="ballysportsmidwest.us" tvg-name="USA | Bally Sports Midwest" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/FDSN_app_icon.png" group-title="Sports",USA | Bally Sports Midwest
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/129596.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAR | EWTN" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/ewtn-logo.png" group-title="Religion",CAR | EWTN
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/130019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA | Maria + Vision - Eng." tvg-logo="https://static.wixstatic.com/media/d095db_047bb273a8d14a7d9fe3ae7a806c3a67~mv2.png/v1/fit/w_2500,h_1330,al_c/d095db_047bb273a8d14a7d9fe3ae7a806c3a67~mv2.png" group-title="Religion",USA | Maria + Vision - Eng.
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/130058.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Canal N SD OPC. 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="Peru",Peru | Canal N SD OPC. 3
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/130499.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA Latino | ESTRELLA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/9/99/20200205000404%21Estrella_TV_-_2020_logo.png" group-title="USA - Latino",USA Latino | ESTRELLA TV
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/130541.m3u8
+#EXTINF:-1 tvg-id="nbatv.us" tvg-name="NBA TV" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="NBA",NBA TV
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/130903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | DEPORTES TVC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/TVCdeportes2002.png" group-title="Honduras",HONDURAS | DEPORTES TVC
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/131050.m3u8
 #EXTINF:-1 tvg-id="elsupercanal.gt" tvg-name="GUATELAMA | Canal 3" tvg-logo="https://seeklogo.com/images/C/canal-3-el-super-canal-logo-26F5EF2804-seeklogo.com.png" group-title="Guatemala",GUATELAMA | Canal 3
 http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/348.m3u8
 #EXTINF:-1 tvg-id="aztecaguatemala.gt" tvg-name="GUATEMALA | Azteca HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Logotipo_de_TV_Azteca.png" group-title="Guatemala",GUATEMALA | Azteca HD
