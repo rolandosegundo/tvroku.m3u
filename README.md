@@ -1,734 +1,623 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Las Estrellas (L)(720)" tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png" group-title="MEXICO",MEX-Las Estrellas (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/87579.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Las Estrellas (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png" group-title="MEXICO",MEX-Las Estrellas (M)(SD)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/87578.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Imagen TV (L)(720)" tvg-logo="https://1.bp.blogspot.com/-6DGj3EE5_5E/Xm60PTxOCXI/AAAAAAAABmg/m1B-y-CiE-U0Fxwxnvt5OV7nklSDRbsEgCLcBGAsYHQ/s200/43.png" group-title="MEXICO",MEX-Imagen TV (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/87616.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Imagen TV (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-6DGj3EE5_5E/Xm60PTxOCXI/AAAAAAAABmg/m1B-y-CiE-U0Fxwxnvt5OV7nklSDRbsEgCLcBGAsYHQ/s200/43.png" group-title="MEXICO",MEX-Imagen TV (M)(SD)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/87615.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Monterrey (L)(SD)" tvg-logo="https://1.bp.blogspot.com/-OXCQ1Od1dUM/Xm5mzH9uszI/AAAAAAAABdQ/plWLCcO44SEliyJkdO1zd_3BU_Z0ElUSgCLcBGAsYHQ/s200/1.png" group-title="MEXICO",MEX-Televisa Monterrey (L)(SD)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/87605.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 5 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png" group-title="MEXICO",MEX-Canal 5 (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/87598.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 5 (L)(SD)" tvg-logo="https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png" group-title="MEXICO",MEX-Canal 5 (L)(SD)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/87597.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca 7 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png" group-title="MEXICO",MEX-Azteca 7 (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/87572.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca 7 (L)(SD)" tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png" group-title="MEXICO",MEX-Azteca 7 (L)(SD)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/87571.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca 7 (M)(720)" tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png" group-title="MEXICO",MEX-Azteca 7 (M)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/87569.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca 7 (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png" group-title="MEXICO",MEX-Azteca 7 (M)(SD)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/87570.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca Deportes (L)(720)" tvg-logo="https://i.postimg.cc/sx2Qs4zp/Azteca-Deportes.png" group-title="MEXICO",MEX-Azteca Deportes (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/87574.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca Deportes (L)(SD)" tvg-logo="https://i.postimg.cc/sx2Qs4zp/Azteca-Deportes.png" group-title="MEXICO",MEX-Azteca Deportes (L)(SD)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/87573.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca UNO (L)(720)" tvg-logo="https://1.bp.blogspot.com/-rCbIcWgf8KM/Xm54--dqL2I/AAAAAAAABjA/WfovYd6uNOMJFVGwof8uwuxEN4lHorZ_gCLcBGAsYHQ/s200/30.png" group-title="MEXICO",MEX-Azteca UNO (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/87576.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca Uno (M)(720)" tvg-logo="https://1.bp.blogspot.com/-rCbIcWgf8KM/Xm54--dqL2I/AAAAAAAABjA/WfovYd6uNOMJFVGwof8uwuxEN4lHorZ_gCLcBGAsYHQ/s200/30.png" group-title="MEXICO",MEX-Azteca Uno (M)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/87593.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NOV-Univision 14 - San Francisco (T)(720)" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png" group-title="CANALES-NOVELAS",NOV-Univision 14 - San Francisco (T)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/67010.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NOV-Univision (T)(720)" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png" group-title="CANALES-NOVELAS",NOV-Univision (T)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/67009.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NOV-UNIMáS (WFUT-New York NY) (M)(720)" tvg-logo="https://1.bp.blogspot.com/-Jsf5T1tyaT0/Xz86K8Fi9aI/AAAAAAAABJs/dC669Vkn_ecmmwo9N72w5p_a3GVwE5eaQCLcBGAsYHQ/w200-h200/4%2Bunimas.png" group-title="CANALES-NOVELAS",NOV-UNIMáS (WFUT-New York NY) (M)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8388.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NOV-Unicable (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-R4850qWMRRM/Xz8-484rEaI/AAAAAAAABK0/gZWnuvKx8ss-Gdc8vGOdQY0PlY8-hVr3wCLcBGAsYHQ/w200-h200/8%2BUnicable.png" group-title="CANALES-NOVELAS",NOV-Unicable (L)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8381.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Fresno (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Fresno (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8349.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Houston (T)(720)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Houston (T)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8350.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NOV-Universo (T)(720)" tvg-logo="https://1.bp.blogspot.com/-I5coVQh61s8/XzNOnK_MruI/AAAAAAAAAtg/FXnVyaZkKrso3K6ppfYzk9omGs-ttSgXQCLcBGAsYHQ/w200-h200/53%2BUniverso%2Btv.png" group-title="CANALES-NOVELAS",NOV-Universo (T)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/67008.m3u8
-#EXTINF:-1 tvg-id="Caracol.co" tvg-name="COL-Caracol (M) (SD)" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" group-title="COLOMBIA",COL-Caracol (M) (SD)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8481.m3u8
-#EXTINF:-1 tvg-id="Caracol.co" tvg-name="COL-Caracol (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" group-title="COLOMBIA",COL-Caracol (TV)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8483.m3u8
-#EXTINF:-1 tvg-id="RCN.co" tvg-name="COL-RCN (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-vf2zeK5YmVU/XbDQxAqJTcI/AAAAAAAAAok/zLMf6Az3QDMWdLZqgmVSEk-K9zwh31GDACLcBGAsYHQ/s200/16.png" group-title="COLOMBIA",COL-RCN (L)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/84350.m3u8
-#EXTINF:-1 tvg-id="RCN.co" tvg-name="COL-RCN (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-vf2zeK5YmVU/XbDQxAqJTcI/AAAAAAAAAok/zLMf6Az3QDMWdLZqgmVSEk-K9zwh31GDACLcBGAsYHQ/s200/16.png" group-title="COLOMBIA",COL-RCN (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8491.m3u8
-
-EXTINF:-1 tvg-id="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec" tvg-name="ECU-Ecuavisa Quito (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-A77n66o-FQI/XjcBYqkTzXI/AAAAAAAABBU/uhcdf-8Bmp4WjMiaUtm0f_O5MxQi1KeiACLcBGAsYHQ/s200/1.png" group-title="ECUADOR",ECU-Ecuavisa Quito (e)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8629.m3u8
-#EXTINF:-1 tvg-id="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec" tvg-name="ECU-Ecuavisa Quito (e)(720)" tvg-logo="https://1.bp.blogspot.com/-A77n66o-FQI/XjcBYqkTzXI/AAAAAAAABBU/uhcdf-8Bmp4WjMiaUtm0f_O5MxQi1KeiACLcBGAsYHQ/s200/1.png" group-title="ECUADOR",ECU-Ecuavisa Quito (e)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8630.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CU-Tele Rebelde (Z)" tvg-logo="http://swedtv.vip/logos/LAT_centroamerica/cub_tele_rebelde.png" group-title="CUBA",CU-Tele Rebelde (Z)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/10081.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CU-Cubavision Internacional (TV)" tvg-logo="http://swedtv.vip/logos/LAT_centroamerica/cuba_vision_internacional.png" group-title="CUBA",CU-Cubavision Internacional (TV)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/10078.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CR-Teletica (T)(720)" tvg-logo="http://l3d.us:8080/images/a595b6beed22d68dbd6dfff91bc6b34f.png" group-title="COSTARICA",CR-Teletica (T)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8128.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CR-Teletica 7 (L)(1080)" tvg-logo="" group-title="COSTARICA",CR-Teletica 7 (L)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8129.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PAN-Next TV 21 (M)" tvg-logo="https://1.bp.blogspot.com/-RpUWzVVQZxI/Xw82mHIaXAI/AAAAAAAAAXo/O_0jZdrvoVc1aihYzO8J2m9ZzL9fBCoNQCLcBGAsYHQ/w200-h200/Nex%2BTV%2BPanama.png" group-title="PANAMA",PAN-Next TV 21 (M)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8415.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PAN-RPC 4 (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-M0m5mwEpo4Q/Xw82m-p33YI/AAAAAAAAAX0/4zcQUq2dIFQyEPVsIXwXYcRZNNJtOTKxgCLcBGAsYHQ/w200-h200/RPC%2BPanama.png" group-title="PANAMA",PAN-RPC 4 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8416.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PAN-RPC 4(M)(720)" tvg-logo="https://1.bp.blogspot.com/-M0m5mwEpo4Q/Xw82m-p33YI/AAAAAAAAAX0/4zcQUq2dIFQyEPVsIXwXYcRZNNJtOTKxgCLcBGAsYHQ/w200-h200/RPC%2BPanama.png" group-title="PANAMA",PAN-RPC 4(M)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8417.m3u8
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8422.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PAN-Telemetro 13 (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-KZV6uLpQCYc/Xw82njDaj6I/AAAAAAAAAX8/R_7_0gMPhaYHVwkWqlXqpALj5Im6wCPBQCLcBGAsYHQ/w200-h200/Telemetro%2BPanama.png" group-title="PANAMA",PAN-Telemetro 13 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8423.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PAN-TV MAX 9 (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-92TZBJpaNkA/Xw82oH62IkI/AAAAAAAAAYA/s7m9Q5bSvAkWrIYRRAt6H7nxNg09zwKTACLcBGAsYHQ/w200-h200/Tv%2BMax%2BPanama.png" group-title="PANAMA",PAN-TV MAX 9 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8427.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PAN-tv Max 9 (M)(720)" tvg-logo="http://tv.proyectox.vip:8080/images/525319cc304f3446c4445ae7f3862f65.png" group-title="PANAMA",PAN-tv Max 9 (M)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8428.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PAN-TVN (TV)(720)" tvg-logo="http://www.tvdigital.digital:80/images/17894e775a8cd48b0e1ffd7f11dd26d8.png" group-title="PANAMA",PAN-TVN (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8429.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PAN-TVN Canal 2 (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-3pqhezYHcgs/Xw82omLWsXI/AAAAAAAAAYE/XKdrQHuEbkYBuDn-ZoDVmxG_JQIGUYZwACLcBGAsYHQ/w200-h200/Tvn%2BPanama.png" group-title="PANAMA",PAN-TVN Canal 2 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8430.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PAN-TVN Canal 2 (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-3pqhezYHcgs/Xw82omLWsXI/AAAAAAAAAYE/XKdrQHuEbkYBuDn-ZoDVmxG_JQIGUYZwACLcBGAsYHQ/w200-h200/Tvn%2BPanama.png" group-title="PANAMA",PAN-TVN Canal 2 (T)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8431.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PER-America (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-bKiI31EDp2U/Xw_BmpCazvI/AAAAAAAAAZo/u2LRHhgCGJwV7gqwsqFFV3yFwyuBWZaFwCLcBGAsYHQ/w200-h200/America%2BTv.png" group-title="PERU",PER-America (L)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8433.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PER-America tv (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-bKiI31EDp2U/Xw_BmpCazvI/AAAAAAAAAZo/u2LRHhgCGJwV7gqwsqFFV3yFwyuBWZaFwCLcBGAsYHQ/w200-h200/America%2BTv.png" group-title="PERU",PER-America tv (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8434.m3u8
-#EXTINF:-1 tvg-id="AMERICA.TELEVISION.HD.(America.HD).pe" tvg-name="PER-America TV (T)(720)" tvg-logo="" group-title="PERU",PER-America TV (T)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/74885.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PER-America TV (Z)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/c62160d1863936012a4e8d55af0026c7.png" group-title="PERU",PER-America TV (Z)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8435.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="URU-VTV (L)(720)" tvg-logo="https://1.bp.blogspot.com/-6L57k7oliDQ/X2phWjJbVXI/AAAAAAAABcQ/uFSEO9qK9IcDzukHAtM7z6WT3XORGOAuwCLcBGAsYHQ/w200-h200/28VTV.png" group-title="URUGUAY",URU-VTV (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8534.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="URU-VTV (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-6L57k7oliDQ/X2phWjJbVXI/AAAAAAAABcQ/uFSEO9qK9IcDzukHAtM7z6WT3XORGOAuwCLcBGAsYHQ/w200-h200/28VTV.png" group-title="URUGUAY",URU-VTV (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8535.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="URU-VTV (M)(720)" tvg-logo="https://1.bp.blogspot.com/-6L57k7oliDQ/X2phWjJbVXI/AAAAAAAABcQ/uFSEO9qK9IcDzukHAtM7z6WT3XORGOAuwCLcBGAsYHQ/w200-h200/28VTV.png" group-title="URUGUAY",URU-VTV (M)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8536.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="URU-VTV (T)(720)" tvg-logo="https://1.bp.blogspot.com/-6L57k7oliDQ/X2phWjJbVXI/AAAAAAAABcQ/uFSEO9qK9IcDzukHAtM7z6WT3XORGOAuwCLcBGAsYHQ/w200-h200/28VTV.png" group-title="URUGUAY",URU-VTV (T)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8538.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="URU-VTV Plus (L)(720)" tvg-logo="https://1.bp.blogspot.com/-9Z1GdBPiRbo/X2phWG5IWlI/AAAAAAAABcM/nZWo_pYbpRoOHexB0GEJdLzmDiXNA6nGwCLcBGAsYHQ/w200-h200/27VTV%2B%252B.png" group-title="URUGUAY",URU-VTV Plus (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8539.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="URU-VTV Plus (T)(720)" tvg-logo="https://1.bp.blogspot.com/-9Z1GdBPiRbo/X2phWG5IWlI/AAAAAAAABcM/nZWo_pYbpRoOHexB0GEJdLzmDiXNA6nGwCLcBGAsYHQ/w200-h200/27VTV%2B%252B.png" group-title="URUGUAY",URU-VTV Plus (T)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8541.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="URU-VTV Plus (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-9Z1GdBPiRbo/X2phWG5IWlI/AAAAAAAABcM/nZWo_pYbpRoOHexB0GEJdLzmDiXNA6nGwCLcBGAsYHQ/w200-h200/27VTV%2B%252B.png" group-title="URUGUAY",URU-VTV Plus (TV)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8542.m3u8
-#EXTINF:-1 tvg-id="VTV.+.HD.uy" tvg-name="URU-VTV Plus (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-9Z1GdBPiRbo/X2phWG5IWlI/AAAAAAAABcM/nZWo_pYbpRoOHexB0GEJdLzmDiXNA6nGwCLcBGAsYHQ/w200-h200/27VTV%2B%252B.png" group-title="URUGUAY",URU-VTV Plus (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8543.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="URU-VTV Plus (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-9Z1GdBPiRbo/X2phWG5IWlI/AAAAAAAABcM/nZWo_pYbpRoOHexB0GEJdLzmDiXNA6nGwCLcBGAsYHQ/w200-h200/27VTV%2B%252B.png" group-title="URUGUAY",URU-VTV Plus (Z)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8540.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VEN-Venevision (Z)(720)" tvg-logo="http://tv.proyectox.vip:8080/images/73aaf358f23a64d0d44fbf27178a810f.png" group-title="VENEZUELA",VEN-Venevision (Z)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/13022.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VEN-Venevision Plus (Z)(720)" tvg-logo="http://tv.proyectox.vip:8080/images/1326cd843f3b7c4380fc2f32de061dc8.png" group-title="VENEZUELA",VEN-Venevision Plus (Z)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/13023.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Venevision (W)" tvg-logo="" group-title="VENEZUELA",Venevision (W)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/95292.m3u8
-
-#EXTINF:-1 tvg-id="Tu.Deportes.Network.(TUDN).U.S..HDTV.(TUDNHD).us" tvg-name="DEPORTES - TUDN - MEX (M)(720)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="CANALES-DEPORTES",DEPORTES - TUDN - MEX (M)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9603.m3u8
-#EXTINF:-1 tvg-id="Tu.Deportes.Network.(TUDN).U.S..HDTV.(TUDNHD).us" tvg-name="DEPORTES - TUDN - MEX (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="CANALES-DEPORTES",DEPORTES - TUDN - MEX (Z)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9604.m3u8
-#EXTINF:-1 tvg-id="TUDN.us" tvg-name="DEPORTES - TUDN - USA (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="CANALES-DEPORTES",DEPORTES - TUDN - USA (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9605.m3u8
-#EXTINF:-1 tvg-id="Tu.Deportes.Network.(TUDN).U.S..HDTV.(TUDNHD).us" tvg-name="DEPORTES - TUDN - USA (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="CANALES-DEPORTES",DEPORTES - TUDN - USA (Z)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9606.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UK | S-Ky Sports Bundesliga" tvg-logo="https://www.bundesliga-international.com/wordpress/wp-content/uploads/2021/08/Sky_Sports_PRIMARY_RGB-1024x219.png" group-title="CANALES-DEPORTES",UK | S-Ky Sports Bundesliga
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/110681.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEX-TVC Deportes (L)(720)" tvg-logo="https://i.postimg.cc/4x1DhDhb/tvc-deportes1.png" group-title="MEXICO",MEX-TVC Deportes (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/87610.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEX-TVC Deportes (L)(SD)" tvg-logo="https://i.postimg.cc/4x1DhDhb/tvc-deportes1.png" group-title="MEXICO",MEX-TVC Deportes (L)(SD)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/87609.m3u8
-#EXTINF:-1 tvg-id="ESPN.co" tvg-name="DEPORTES - Espn 1 COL (PM)(1080)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 COL (PM)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9516.m3u8
-#EXTINF:-1 tvg-id="ESPN.co" tvg-name="DEPORTES - Espn 1 COL (e)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 COL (e)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9517.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Espn 1 CHI (PM)(1080)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 CHI (PM)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/99538.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Espn 1 CHI (PM)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 CHI (PM)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/99539.m3u8
-#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - Espn 1 ARG (T)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 ARG (T)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9520.m3u8
-#EXTINF:-1 tvg-id="ESPN.2.co" tvg-name="DEPORTES - Espn 1 ARG (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 ARG (TV)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9521.m3u8
-#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - Espn 1 ARG (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 ARG (Z)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9522.m3u8
-#EXTINF:-1 tvg-id="ESPN.(Mexico).(ESPMX).mx" tvg-name="DEPORTES - Espn 1 MEX (L)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 MEX (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9523.m3u8
-#EXTINF:-1 tvg-id="ESPN.(Mexico).(ESPMX).mx" tvg-name="DEPORTES - Espn 1 MEX (PM)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 MEX (PM)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9524.m3u8
-#EXTINF:-1 tvg-id="ESPN.(Mexico).(ESPMX).mx" tvg-name="DEPORTES - Espn 1 MEX (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 MEX (T)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9525.m3u8
-#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - Espn 2 ARG (e)(720)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 2 ARG (e)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9526.m3u8
-#EXTINF:-1 tvg-id="ESPN.Latin.South.Sur.(ESPNS).ar" tvg-name="DEPORTES - Espn 2 ARG (PM)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/1679091c5a880faf6fb5e6087eb1b2dc.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 2 ARG (PM)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9527.m3u8
-#EXTINF:-1 tvg-id="ESPN.Latin.South.Sur.(ESPNS).ar" tvg-name="DEPORTES - Espn 2 ARG (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 2 ARG (Z)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9528.m3u8
-#EXTINF:-1 tvg-id="ESPN.2.co" tvg-name="DEPORTES - Espn 2 COL (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 2 COL (TV)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9529.m3u8
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DEPORTES - Espn 2 MEX (L)(720)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 2 MEX (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9530.m3u8
-#EXTINF:-1 tvg-id="ESPN.2.Latin.North.(Mexico).(ESPN2M).mx" tvg-name="DEPORTES - Espn 2 MEX (TV)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/1679091c5a880faf6fb5e6087eb1b2dc.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 2 MEX (TV)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9531.m3u8
-#EXTINF:-1 tvg-id="ESPN.3.HDTV.South.(Latin.America).(ESPN3HD).ar" tvg-name="DEPORTES - Espn 3 ARG (L)(720)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 3 ARG (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9533.m3u8
-#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - Espn 3 ARG (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 3 ARG (Z)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9534.m3u8
-#EXTINF:-1 tvg-id="ESPN.3.HDTV.South.(Latin.America).(ESPN3HD).ar" tvg-name="DEPORTES - Espn 3 COL (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 3 COL (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9532.m3u8
-#EXTINF:-1 tvg-id="ESPN.3.HDTV.North.(Latin.America).(ESPN3HD).mx" tvg-name="DEPORTES - Espn 3 MEX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 3 MEX (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9535.m3u8
-#EXTINF:-1 tvg-id="ESPN.3.North.(Latin.America).(ESPN3).mx" tvg-name="DEPORTES - Espn 3 MEX (M)(720)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 3 MEX (M)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9536.m3u8
-#EXTINF:-1 tvg-id="ESPN.4.Latin.America.HDTV.(Southern.Feed.-.Premium).(ESPN4).ar" tvg-name="DEPORTES - Espn 4 (T)(720)" tvg-logo="https://i.postimg.cc/FF6fT894/Espn4.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 4 (T)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9538.m3u8
-#EXTINF:-1 tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).mx" tvg-name="DEPORTES - Espn 4 MEX (M)(1080)" tvg-logo="https://i.postimg.cc/FF6fT894/Espn4.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 4 MEX (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9537.m3u8
-#EXTINF:-1 tvg-id="ESPN.5.co" tvg-name="DEPORTES - Espn 5 (M)(1080)" tvg-logo="https://i.postimg.cc/CKNknVHr/Proyecto-X-21.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 5 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9539.m3u8
-#EXTINF:-1 tvg-id="ESPN.5.co" tvg-name="DEPORTES - Espn 5 (TV)(720)" tvg-logo="https://i.postimg.cc/CKNknVHr/Proyecto-X-21.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 5 (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9540.m3u8
-#EXTINF:-1 tvg-id="ESPN.6.HD.co" tvg-name="DEPORTES - Espn 6 (Z)(720)" tvg-logo="https://i.postimg.cc/XJYFwDsj/Proyecto-X-19.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 6 (Z)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9541.m3u8
-#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.Latin.America.(FOXSP2HD).ar" tvg-name="DEPORTES - ESPN 7 (e)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/6512bd43d9caa6e02c990b0a82652dca.png" group-title="CANALES-DEPORTES",DEPORTES - ESPN 7 (e)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9573.m3u8
-#EXTINF:-1 tvg-id="Fox.Sports.2.Latin.America.(Cono.Sur).(FOXSP2).ar" tvg-name="DEPORTES - ESPN 7 (e)(720)" tvg-logo="https://1.bp.blogspot.com/-AJ5Rf2Jtldk/Xajps0BEM3I/AAAAAAAAASY/QhwqT65Cbtcfnva5b_ZG03mAgWevuOQ3wCLcBGAsYHQ/s200/11.png" group-title="CANALES-DEPORTES",DEPORTES - ESPN 7 (e)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9574.m3u8
-#EXTINF:-1 tvg-id="ESPN.7.HD.co" tvg-name="DEPORTES - Espn 7 (PM)(720)" tvg-logo="https://i.postimg.cc/6pCdwZ7X/Proyecto-X-20.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 7 (PM)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9543.m3u8
-#EXTINF:-1 tvg-id="ESPN.Deportes.HDTV.(EDEPHD).us" tvg-name="DEPORTES - Espn Deportes (MEX) (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-vSV4gemywH8/Xay_akC3pjI/AAAAAAAAAkk/QhiScGYRuK0gmoHsOkqUAy5v1AijHvCwgCLcBGAsYHQ/s200/9.png" group-title="CANALES-DEPORTES",DEPORTES - Espn Deportes (MEX) (Z)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9544.m3u8
-#EXTINF:-1 tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).mx" tvg-name="DEPORTES - Espn Deportes MEX (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="CANALES-DEPORTES",DEPORTES - Espn Deportes MEX (M)(SD)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9548.m3u8
-#EXTINF:-1 tvg-id="ESPN.Extra.Latin.America.HDTV.(Feed.A).(ESPNXTRA).ar" tvg-name="DEPORTES - Espn Extra ARG (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="CANALES-DEPORTES",DEPORTES - Espn Extra ARG (L)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9545.m3u8
-#EXTINF:-1 tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).mx" tvg-name="DEPORTES - Espn Extra MEX (L)(720)" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="CANALES-DEPORTES",DEPORTES - Espn Extra MEX (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9547.m3u8
-#EXTINF:-1 tvg-id="ESPN.PREMIUM.ar" tvg-name="DEPORTES - ESPN Premium ARG (L)(SD)" tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png" group-title="CANALES-DEPORTES",DEPORTES - ESPN Premium ARG (L)(SD)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9549.m3u8
-#EXTINF:-1 tvg-id="ESPN.Extra.Latin.America.HDTV.(Feed.A).(ESPNXTRA).ar" tvg-name="DEPORTES - Espn Premium ARG (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="CANALES-DEPORTES",DEPORTES - Espn Premium ARG (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9546.m3u8
-#EXTINF:-1 tvg-id="ESPN.PREMIUM.ar" tvg-name="DEPORTES - ESPN Premium ARG (TV)(1080)" tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png" group-title="CANALES-DEPORTES",DEPORTES - ESPN Premium ARG (TV)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9550.m3u8
-#EXTINF:-1 tvg-id="beIN.Sports.HDTV.(English).(beIn).us" tvg-name="DEPORTES - beIN Sport USA (M)(720)" tvg-logo="https://1.bp.blogspot.com/-bwERD1EYUso/XjHTaAko5tI/AAAAAAAAA-M/MpTKAtCF0rUt9cvpn-Chpk3PKth9aEWJwCLcBGAsYHQ/s200/33.png" group-title="CANALES-DEPORTES",DEPORTES - beIN Sport USA (M)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9551.m3u8
-#EXTINF:-1 tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us" tvg-name="DEPORTES - beIN Sports Xtra Ñ (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-ZKORTNZ8Szo/Ydx2UQH0MaI/AAAAAAAACfI/KuHHd0WsnfInxBXCju3l_xrCzRyVBQASwCNcBGAsYHQ/w200-h200/1641838155930717-1.png" group-title="CANALES-DEPORTES",DEPORTES - beIN Sports Xtra Ñ (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9552.m3u8
-#EXTINF:-1 tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us" tvg-name="DEPORTES - beIN Sports Ñ (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-T4UnDWGyhb0/Xay_YgqwzVI/AAAAAAAAAkE/mta3F4p2leUOXJzzGQQWIW0Jjxw2uLYHACLcBGAsYHQ/s200/17.png" group-title="CANALES-DEPORTES",DEPORTES - beIN Sports Ñ (T)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9553.m3u8
-#EXTINF:-1 tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us" tvg-name="DEPORTES - beIN Sports Ñ (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-T4UnDWGyhb0/Xay_YgqwzVI/AAAAAAAAAkE/mta3F4p2leUOXJzzGQQWIW0Jjxw2uLYHACLcBGAsYHQ/s200/17.png" group-title="CANALES-DEPORTES",DEPORTES - beIN Sports Ñ (TV)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9554.m3u8
-#EXTINF:-1 tvg-id="Fox.Deportes.en.Español.HDTV.(U.S.).(FXDEHD).us" tvg-name="DEPORTES - Fox Deportes (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-ZrLBW7y8kKE/Xay_YpKJ9bI/AAAAAAAAAkA/-UNQCYuie0glvhjIFsMXPDS6qVX5QlsCwCLcBGAsYHQ/s200/16.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Deportes (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9571.m3u8
-#EXTINF:-1 tvg-id="QVC3.(QVC3).us" tvg-name="DEPORTES - FOX DEPORTES (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-ZrLBW7y8kKE/Xay_YpKJ9bI/AAAAAAAAAkA/-UNQCYuie0glvhjIFsMXPDS6qVX5QlsCwCLcBGAsYHQ/s200/16.png" group-title="CANALES-DEPORTES",DEPORTES - FOX DEPORTES (Z)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9572.m3u8
-#EXTINF:-1 tvg-id="Fox.Sports.Argentina.(Cono.Sur).(FOXSP).ar" tvg-name="DEPORTES - Fox Sports 1 ARG (L)(720)" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 1 ARG (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9575.m3u8
-#EXTINF:-1 tvg-id="Fox.Sports.Argentina.(Cono.Sur).(FOXSP).ar" tvg-name="DEPORTES - Fox Sports 1 ARG (M)(720)" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 1 ARG (M)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9576.m3u8
-#EXTINF:-1 tvg-id="FOX.Sports.2.HD(FSP2HD).co" tvg-name="DEPORTES - Fox Sports 1 COL (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-HGq7a6Cg1qA/XajpshDNjUI/AAAAAAAAASQ/jP319jFgSyI-F1U-VFhe0ooc7RY_Mkn2ACLcBGAsYHQ/s200/10.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 1 COL (TV)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9577.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Fox Sports 1 LAT (Z)(1080)" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 1 LAT (Z)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9578.m3u8
-#EXTINF:-1 tvg-id="Fox.Sports.Latin.America.HDTV.(Cono.Norte).(FOXSPHD).mx" tvg-name="DEPORTES - Fox Sports 1 MEX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 1 MEX (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9579.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Fox Sports 2  LAT (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-AJ5Rf2Jtldk/Xajps0BEM3I/AAAAAAAAASY/QhwqT65Cbtcfnva5b_ZG03mAgWevuOQ3wCLcBGAsYHQ/s200/11.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2  LAT (Z)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9580.m3u8
-#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - Fox Sports 2 ARG (L)(SD)" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2 ARG (L)(SD)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9581.m3u8
-#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.Latin.America.(FOXSP2HD).ar" tvg-name="DEPORTES - Fox Sports 2 ARG (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2 ARG (T)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9582.m3u8
-#EXTINF:-1 tvg-id="FOX.Sports.2.HD(FSP2HD).co" tvg-name="DEPORTES - Fox Sports 2 COL (TV)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/c81e728d9d4c2f636f067f89cc14862c.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2 COL (TV)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9583.m3u8
-#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(Cono.Norte).(FOXSP2HD).mx" tvg-name="DEPORTES - Fox Sports 2 MEX (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/c81e728d9d4c2f636f067f89cc14862c.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2 MEX (L)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9584.m3u8
-#EXTINF:-1 tvg-id="Fox.Sports.2.(Cono.Norte).(FOXSP2).mx" tvg-name="DEPORTES - Fox Sports 2 MEX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2 MEX (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9585.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Fox Sports 2 MX (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-AJ5Rf2Jtldk/Xajps0BEM3I/AAAAAAAAASY/QhwqT65Cbtcfnva5b_ZG03mAgWevuOQ3wCLcBGAsYHQ/s200/11.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2 MX (Z)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9586.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Fox Sports 3 (Z)(1080)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 3 (Z)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9587.m3u8
-#EXTINF:-1 tvg-id="Fox.Sports.3.HDTV.(Cono.Sur).(FOXSP3HD).ar" tvg-name="DEPORTES - Fox Sports 3 ARG (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 3 ARG (T)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9588.m3u8
-#EXTINF:-1 tvg-id="FOX.Sports.3.HD(FXS3HD).co" tvg-name="DEPORTES - Fox Sports 3 ARG (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 3 ARG (TV)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9589.m3u8
-#EXTINF:-1 tvg-id="FOX.Sports.3.HD(FXS3HD).co" tvg-name="DEPORTES - Fox Sports 3 COL (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 3 COL (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9590.m3u8
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DEPORTES - Fox Sports 3 MEX (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 3 MEX (M)(SD)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9591.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Fox Sports 3 MX (Z)(1080)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 3 MX (Z)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9592.m3u8
-#EXTINF:-1 tvg-id="FOX.Sports.Premium.MEXICO.mx" tvg-name="DEPORTES - Fox Sports Premium MX (L)(720)" tvg-logo="https://i.postimg.cc/SsSNFqg1/Proyectox-fox-premium.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports Premium MX (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9593.m3u8
-#EXTINF:-1 tvg-id="Tu.Deportes.Network.(TUDN).U.S..HDTV.(TUDNHD).us" tvg-name="DEPORTES - TUDN - MEX (M)(720)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="CANALES-DEPORTES",DEPORTES - TUDN - MEX (M)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9603.m3u8
-#EXTINF:-1 tvg-id="Tu.Deportes.Network.(TUDN).U.S..HDTV.(TUDNHD).us" tvg-name="DEPORTES - TUDN - MEX (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="CANALES-DEPORTES",DEPORTES - TUDN - MEX (Z)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9604.m3u8
-#EXTINF:-1 tvg-id="TUDN.us" tvg-name="DEPORTES - TUDN - USA (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="CANALES-DEPORTES",DEPORTES - TUDN - USA (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9605.m3u8
-#EXTINF:-1 tvg-id="Tu.Deportes.Network.(TUDN).U.S..HDTV.(TUDNHD).us" tvg-name="DEPORTES - TUDN - USA (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="CANALES-DEPORTES",DEPORTES - TUDN - USA (Z)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9606.m3u8
-#EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-name="DEPORTES - Directv Sports + (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-dxZyXXWvJDs/Yqp2MbCoR6I/AAAAAAAADpo/seuq6KMCveEvoqmHXCpW5Z9W3fS7qtHyQCNcBGAsYHQ/w200-h200/1655338543433516-0.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports + (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9557.m3u8
-#EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-name="DEPORTES - Directv Sports + (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-WZoevRCibrQ/XazFPI2G7nI/AAAAAAAAAlQ/Tm2GHOyjZuIjYxYN8ynbjF34iTCRQZzSQCLcBGAsYHQ/s200/18.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports + (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9558.m3u8
-#EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-name="DEPORTES - Directv Sports + (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-dxZyXXWvJDs/Yqp2MbCoR6I/AAAAAAAADpo/seuq6KMCveEvoqmHXCpW5Z9W3fS7qtHyQCNcBGAsYHQ/w200-h200/1655338543433516-0.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports + (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9559.m3u8
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-name="DEPORTES - Directv Sports 1 (ARG) (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 1 (ARG) (TV)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9560.m3u8
-#EXTINF:-1 tvg-id="Fox.Sports.Chile.cl" tvg-name="DEPORTES - Directv Sports 1 CHI (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 1 CHI (e)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9561.m3u8
-#EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-name="DEPORTES - Directv Sports 1 ECU (e)(1080)" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 1 ECU (e)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9562.m3u8
-#EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-name="DEPORTES - Directv Sports 1 ECU (e)(720)" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 1 ECU (e)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9563.m3u8
-#EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp" tvg-name="DEPORTES - Directv Sports 2 (e)(1080)" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 2 (e)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9564.m3u8
-#EXTINF:-1 tvg-id="DSPORTS.2.(DTS2).co" tvg-name="DEPORTES - Directv Sports 2 (e)(720)" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 2 (e)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9565.m3u8
-#EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp" tvg-name="DEPORTES - Directv Sports 2 (Z)(720)" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 2 (Z)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9567.m3u8
-#EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp" tvg-name="DEPORTES - Directv Sports 2 ARG (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 2 ARG (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9566.m3u8
-#EXTINF:-1 tvg-id="DSPORTS.Fight(DTSFHD).co" tvg-name="DEPORTES - Directv Sports Fight (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-LvUS6dp9vwM/Yqp4uneH-jI/AAAAAAAADp0/LjXyQj4JDQEfHChtmDP-s3UklHIsEpTWQCNcBGAsYHQ/w200-h200/1655339191039165-0.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports Fight (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9568.m3u8
-#EXTINF:-1 tvg-id="DSports.Motor.dtvsp" tvg-name="DEPORTES - Directv Sports Motors (TV)(720)" tvg-logo="https://i.postimg.cc/4N481KNM/Dsports-Motors.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports Motors (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9569.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Claro Sports (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png" group-title="CANALES-DEPORTES",DEPORTES - Claro Sports (Z)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9555.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Claro Sports 2 (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png" group-title="CANALES-DEPORTES",DEPORTES - Claro Sports 2 (Z)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9556.m3u8
-#EXTINF:-1 tvg-id="The.Fight.Network.(United.States).(TFN).us" tvg-name="DEPORTES - Fight BOX  (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-trZC8_-fPrc/X2kBptXt-QI/AAAAAAAABZY/ebjwHb5BxW4LLF_iJltMKJ-mVQHv4gqbgCLcBGAsYHQ/w200-h200/Fight%2Bbox.png" group-title="CANALES-DEPORTES",DEPORTES - Fight BOX  (TV)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9570.m3u8
-#EXTINF:-1 tvg-id="GOL.TV.uy" tvg-name="DEPORTES - Gol TV ES (M)(720)" tvg-logo="https://1.bp.blogspot.com/-tAUwJtdvbyo/XzSE6JkSizI/AAAAAAAAA6Q/_piNFBzgsDIwr6cAbeqS3cteFcgInfjvACLcBGAsYHQ/w200-h200/128%2BGOL%2BTV.png" group-title="CANALES-DEPORTES",DEPORTES - Gol TV ES (M)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9594.m3u8
-#EXTINF:-1 tvg-id="Gol.TV.USA.us" tvg-name="DEPORTES - Gol TV Internacional (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-tAUwJtdvbyo/XzSE6JkSizI/AAAAAAAAA6Q/_piNFBzgsDIwr6cAbeqS3cteFcgInfjvACLcBGAsYHQ/w200-h200/128%2BGOL%2BTV.png" group-title="CANALES-DEPORTES",DEPORTES - Gol TV Internacional (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9595.m3u8
-#EXTINF:-1 tvg-id="IndiePlex.HDTV.(INDIEHD).us" tvg-name="DEPORTES - Golf Latin America (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" group-title="CANALES-DEPORTES",DEPORTES - Golf Latin America (M)(SD)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9596.m3u8
-#EXTINF:-1 tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-name="DEPORTES - Golf Latin MEX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" group-title="CANALES-DEPORTES",DEPORTES - Golf Latin MEX (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9597.m3u8
-#EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-name="DEPORTES - NBA U (M)(720)" tvg-logo="https://1.bp.blogspot.com/-ri_Nr0yAHbc/XhA3NrtQMlI/AAAAAAAAA7g/POn3E9DM87w21_EvZWEi5D-YQCNLepdiACLcBGAsYHQ/s200/29.png" group-title="CANALES-DEPORTES",DEPORTES - NBA U (M)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9598.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Sky sports (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-x_CIVSy5Fzg/YkytpLNmlVI/AAAAAAAADek/5sv89DCrHMofx0iph8leofRZIbMQZHyEACNcBGAsYHQ/w200-h200/1649192355948000-0.png" group-title="CANALES-DEPORTES",DEPORTES - Sky sports (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9599.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - SKY Sports Bundesliga (Z)" tvg-logo="https://i.postimg.cc/HLzWrYdb/Proyectox-sky-sports.png" group-title="CANALES-DEPORTES",DEPORTES - SKY Sports Bundesliga (Z)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9600.m3u8
-#EXTINF:-1 tvg-id="beIN.SPORTS.CONNECT.LaLiga.(BEIN3-I).us" tvg-name="DEPORTES - SKY Sports La liga (TV)(720)" tvg-logo="https://i.postimg.cc/HxqZ8WFB/Sky-sports-proyectox.png" group-title="CANALES-DEPORTES",DEPORTES - SKY Sports La liga (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9601.m3u8
-#EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="DEPORTES - Tennis Channel (L)(720)" tvg-logo="https://1.bp.blogspot.com/-UHbphuMzTLI/Xjb-ajdIv1I/AAAAAAAABA0/W2Dhehq7thsNNu92yKs9orPOD9LLYaddACLcBGAsYHQ/s200/34.png" group-title="CANALES-DEPORTES",DEPORTES - Tennis Channel (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9602.m3u8
-#EXTINF:-1 tvg-id="Canal.TVC.Deportes.mx" tvg-name="DEPORTES - TVC Deportes (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-fpt6Sm7APZ4/Xay_XGDKQ5I/AAAAAAAAAjw/--9czPX3msMJpPDjQcQx7FqDjyNMyPJfQCLcBGAsYHQ/s200/12.png" group-title="CANALES-DEPORTES",DEPORTES - TVC Deportes (L)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9607.m3u8
-#EXTINF:-1 tvg-id="Torneos.y.Competencias.HDTV.(TYCHD).ar" tvg-name="DEPORTES - TyC Sports INT (T)(720)" tvg-logo="https://1.bp.blogspot.com/-clt7G_R4DNw/Xg-MJOM_YMI/AAAAAAAAA6A/ulOuWvu97K0QvGGyHNHcANUkSMGPeRLGQCLcBGAsYHQ/s200/23.png" group-title="CANALES-DEPORTES",DEPORTES - TyC Sports INT (T)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9608.m3u8
-#EXTINF:-1 tvg-id="Torneos.y.Competencias.HDTV.(TYCHD).ar" tvg-name="DEPORTES - TyC Sports INT (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-clt7G_R4DNw/Xg-MJOM_YMI/AAAAAAAAA6A/ulOuWvu97K0QvGGyHNHcANUkSMGPeRLGQCLcBGAsYHQ/s200/23.png" group-title="CANALES-DEPORTES",DEPORTES - TyC Sports INT (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9609.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - UFC (L)(720)" tvg-logo="https://1.bp.blogspot.com/-T4uG5FYIDek/XhA6fXlKRQI/AAAAAAAAA8U/xRyQIitNaVsNGYmrK2TVTPJKiCITuGGoACLcBGAsYHQ/s200/32.png" group-title="CANALES-DEPORTES",DEPORTES - UFC (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9610.m3u8
-#EXTINF:-1 tvg-id="SCRNACT.ScreenPix.Action.us" tvg-name="DEPORTES - UFC Fight PASS (T)(720)" tvg-logo="https://1.bp.blogspot.com/-T4uG5FYIDek/XhA6fXlKRQI/AAAAAAAAA8U/xRyQIitNaVsNGYmrK2TVTPJKiCITuGGoACLcBGAsYHQ/s200/32.png" group-title="CANALES-DEPORTES",DEPORTES - UFC Fight PASS (T)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9611.m3u8
-#EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="DEPORTES - WWE  (T)(720)" tvg-logo="https://lh3.googleusercontent.com/-Br7dLua2HYc/YkjfrZ9IdzI/AAAAAAAADd8/uFaZ9I5FrckfSZ22_0RaaH-63zhw_TpOQCNcBGAsYHQ/w200-h200/1648943020342945-0.png" group-title="CANALES-DEPORTES",DEPORTES - WWE  (T)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9612.m3u8
-#EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="DEPORTES - WWE (M)(720)" tvg-logo="https://lh3.googleusercontent.com/-Br7dLua2HYc/YkjfrZ9IdzI/AAAAAAAADd8/uFaZ9I5FrckfSZ22_0RaaH-63zhw_TpOQCNcBGAsYHQ/w200-h200/1648943020342945-0.png" group-title="CANALES-DEPORTES",DEPORTES - WWE (M)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9613.m3u8
-#EXTINF:-1 tvg-id="Win.Sports.Premium.HD(Win+HD).co" tvg-name="COL PPV 1 - (1080)" tvg-logo="https://i.postimg.cc/0jbbYF3T/PPV1.png" group-title="COLOMBIA",COL PPV 1 - (1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8476.m3u8
-#EXTINF:-1 tvg-id="Win.Sports+.co" tvg-name="COL-WinSports + (L)(720)" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png" group-title="COLOMBIA",COL-WinSports + (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8510.m3u8
-#EXTINF:-1 tvg-id="Win.Sports.Premium(Win+).co" tvg-name="COL-WinSports + (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png" group-title="COLOMBIA",COL-WinSports + (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8511.m3u8
-#EXTINF:-1 tvg-id="Win.Sports+.co" tvg-name="COL-WinSports + (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png" group-title="COLOMBIA",COL-WinSports + (TV)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8512.m3u8
-#EXTINF:-1 tvg-id="Win.Sports.Premium.HD(Win+HD).co" tvg-name="COL-Winsport + (T)(720)" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png" group-title="COLOMBIA",COL-Winsport + (T)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/84897.m3u8
-#EXTINF:-1 tvg-id="Win.Sports.co" tvg-name="COL-WinSports (L)(720)" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png" group-title="COLOMBIA",COL-WinSports (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8505.m3u8
-#EXTINF:-1 tvg-id="Win.Sports.co" tvg-name="COL-WinSports (L)(SD)" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png" group-title="COLOMBIA",COL-WinSports (L)(SD)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8506.m3u8
-#EXTINF:-1 tvg-id="Win.Sports.co" tvg-name="COL-WinSports (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png" group-title="COLOMBIA",COL-WinSports (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8507.m3u8
-#EXTINF:-1 tvg-id="Win.Sports.co" tvg-name="COL-WinSports (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png" group-title="COLOMBIA",COL-WinSports (M)(SD)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8508.m3u8
-#EXTINF:-1 tvg-id="Win.Sports.co" tvg-name="COL-Winsports (T)(720)" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png" group-title="COLOMBIA",COL-Winsports (T)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/84896.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA-Fox Deportes (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/1280px-FOX_Deportes_logo.svg.png" group-title="USA-SPORTS",USA-Fox Deportes (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/10813.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA-FS1 (L)(720)" tvg-logo="https://www.clipartmax.com/png/full/233-2332507_fox-Sports-fs1-logo-white.png" group-title="USA-SPORTS",USA-FS1 (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/10814.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA-FS2 (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="USA-SPORTS",USA-FS2 (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/10815.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 01 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 01 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8586.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 02 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 02 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8587.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 03 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 03 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8588.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 04 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 04 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8589.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 05 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 05 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8590.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 06 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 06 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8591.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 07 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 07 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8592.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 08 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 08 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8593.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 09 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 09 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8594.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 10 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 10 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8595.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 11 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 11 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8596.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 12 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 12 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8597.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 13 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 13 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8598.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 14 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 14 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8599.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 15 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 15 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8600.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 16 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 16 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8601.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 17 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 17 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8602.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 18 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 18 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8603.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 19 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 19 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8604.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 20 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 20 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8605.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 21 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 21 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8606.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 22 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 22 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8607.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 23 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 23 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8608.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 24 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 24 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8609.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 25 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 25 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8610.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 26 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 26 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8611.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 27 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 27 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8612.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 28 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 28 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8613.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 29 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 29 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8614.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 30 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 30 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8615.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 31 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 31 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8616.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 32 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 32 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8617.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 33 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 33 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8618.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 34 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 34 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8619.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 35 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 35 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8620.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 36 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 36 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8621.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV-Cinema 37 (M)(1080)" tvg-logo="" group-title="*****CINEMA ESTELAR*****",CINEMA PPV-Cinema 37 (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/8622.m3u8
-#EXTINF:-1 tvg-id="Canal.13.de.Argentina.(El.Trece).ar" tvg-name="CINE - A&E (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png" group-title="CANALES-ENTRETENIMIENTO",CINE - A&E (L)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9614.m3u8
-#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="CINE - A&E (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png" group-title="CANALES-ENTRETENIMIENTO",CINE - A&E (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9615.m3u8
-#EXTINF:-1 tvg-id="A&E.co" tvg-name="CINE - A&E (Z)(1080)" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png" group-title="CANALES-ENTRETENIMIENTO",CINE - A&E (Z)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9616.m3u8
-#EXTINF:-1 tvg-id="M+.Cine.Español.es" tvg-name="CINE - A3 Cine INT (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-NB9rkT-lYkM/Xw8qxPOt_nI/AAAAAAAAAWw/NIIAJUpL29cJdLEkeRfNyS527x8nxiX5ACLcBGAsYHQ/w200-h200/A3%2BCine.png" group-title="CANALES-ENTRETENIMIENTO",CINE - A3 Cine INT (TV)(SD)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9617.m3u8
-#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="CINE - A3 Series (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-nYXXZBWn3K8/Xbf03udfliI/AAAAAAAAAuQ/TbR_EaUFPp4owroSxx09nXC7CHvvW1q0ACLcBGAsYHQ/s200/58.png" group-title="CANALES-ENTRETENIMIENTO",CINE - A3 Series (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9618.m3u8
-#EXTINF:-1 tvg-id="AMC.HD.co" tvg-name="CINE - AMC (L)(720)" tvg-logo="https://1.bp.blogspot.com/-FwlH6QzpV-8/XaokZRCO07I/AAAAAAAAAWA/2fjkTYGqsp03aenYpNBo2pChRQ6T485_ACLcBGAsYHQ/s200/2.png" group-title="CANALES-ENTRETENIMIENTO",CINE - AMC (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9619.m3u8
-#EXTINF:-1 tvg-id="AMC.HD.co" tvg-name="CINE - AMC (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-FwlH6QzpV-8/XaokZRCO07I/AAAAAAAAAWA/2fjkTYGqsp03aenYpNBo2pChRQ6T485_ACLcBGAsYHQ/s200/2.png" group-title="CANALES-ENTRETENIMIENTO",CINE - AMC (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9620.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - AMC (Z)(1080)" tvg-logo="https://www.carlost.net/wp-content/uploads/2014/08/Logo-AMC.jpg" group-title="CANALES-ENTRETENIMIENTO",CINE - AMC (Z)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9621.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - AXN (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png" group-title="CANALES-ENTRETENIMIENTO",CINE - AXN (L)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9622.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - AXN (M)(720)" tvg-logo="http://tv.proyectox.vip:8080/images/eccbc87e4b5ce2fe28308fd9f2a7baf3.png" group-title="CANALES-ENTRETENIMIENTO",CINE - AXN (M)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9623.m3u8
-#EXTINF:-1 tvg-id="AXN.co" tvg-name="CINE - AXN (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png" group-title="CANALES-ENTRETENIMIENTO",CINE - AXN (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9624.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - AXN (Z)(1080)" tvg-logo="https://i.dlpng.com/static/png/400902_preview.png" group-title="CANALES-ENTRETENIMIENTO",CINE - AXN (Z)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9625.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9666.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO (TV)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9668.m3u8
-#EXTINF:-1 tvg-id="HBO.Latin.America.(West).(HBO).mx" tvg-name="CINE - HBO (M)(720)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO (M)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9667.m3u8
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="CINE - HBO (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO (TV)(SD)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9669.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO (Z)" tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/hbo-logo-01-g.jpg" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO (Z)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9670.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO 2 (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO 2 (T)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9673.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO 2 (Z)(1080)" tvg-logo="https://www.shopfortaleza.com.br/wp-content/uploads/2019/02/HBO2.jpg" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO 2 (Z)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9675.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO 2 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO 2 (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9671.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO 2 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO 2 (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9674.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Family (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Family (L)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9676.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Family (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Family (T)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9678.m3u8
-#EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.mx" tvg-name="CINE - HBO Family (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Family (TV)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9679.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Family (Z)(1080)" tvg-logo="https://d144mzi0q5mijx.cloudfront.net/img/H/B/HBO-Family.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Family (Z)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9681.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Family (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Family (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9680.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Family. (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Family. (TV)(SD)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9677.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Mundi (L)(720)" tvg-logo="https://1.bp.blogspot.com/-oN7wX127j3Q/Xw8lq7qqpSI/AAAAAAAAAWA/gTwoVU0sXXsbMIDKd7I6ojgR-28dars6ACLcBGAsYHQ/w200-h200/hbomundi.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Mundi (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9682.m3u8
-#EXTINF:-1 tvg-id="Canal.HBO.Mundi.mx" tvg-name="CINE - HBO Mundi (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-oN7wX127j3Q/Xw8lq7qqpSI/AAAAAAAAAWA/gTwoVU0sXXsbMIDKd7I6ojgR-28dars6ACLcBGAsYHQ/w200-h200/hbomundi.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Mundi (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9683.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Mundi (Z)(720)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddoicif-5c26565c-0b8a-4e12-ab2c-3445915f66e2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InB(Z)(720)GgiOiJcL2ZcLzdhNmEzMWJjLTUyNzYtNGJkMS1iMjVjLTVkMjI5OTkwNjUxY1wvZGRvaWNpZi01YzI2NTY1Yy0wYjhhLTRlMTItYWIyYy0zNDQ1OTE1ZjY2ZTIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.8hppAoC3nmeoQdtyGR04J948j3F_OEtAjUmB0pF7bD8" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Mundi (Z)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9684.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Plus (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Plus (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9685.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Plus (M)(SD) [Dual Audio]" tvg-logo="http://tv.proyectox.vip:8080/images/34173cb38f07f89ddbebc2ac9128303f.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Plus (M)(SD) [Dual Audio]
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9686.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Plus (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Plus (TV)(SD)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9687.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Plus (Z)(1080)" tvg-logo="http://cineparallevar.mx/admin/wp-content/uploads/2017/10/copypasteimage-4.jpg" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Plus (Z)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9688.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO POP (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-ZCqUx5e0L-4/XkN9ArS4SuI/AAAAAAAABWU/IICrJNBTYNMVKKru6mbn52W8fShz0eoggCLcBGAsYHQ/s200/67.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO POP (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9689.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO POP (Z)(720) -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVnMHcQQbV1arQqL1aXSdsPQjQOS1BoB_zOB1rOphseF5cNjelO7wA6blvVo9lA8b6N8E&usqp=CAU" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO POP (Z)(720) -
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9691.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO POP. (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-ZCqUx5e0L-4/XkN9ArS4SuI/AAAAAAAABWU/IICrJNBTYNMVKKru6mbn52W8fShz0eoggCLcBGAsYHQ/s200/67.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO POP. (TV)(SD)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9690.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Signature (M)(720)" tvg-logo="https://1.bp.blogspot.com/-U60Pby9cnqI/Xw8ovhvpzuI/AAAAAAAAAWY/iU_CaOeTilQPEcKEGo7-rJ0MbA_sDb8SgCLcBGAsYHQ/w200-h200/SIGNATURE.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Signature (M)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9692.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Signature (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-jsXerJmFHK0/Xas8qIXagZI/AAAAAAAAAaE/c3OP25KYkFUA2IGufDn-M7eyR0JPdSkXgCLcBGAsYHQ/s200/31.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Signature (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9693.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Signature (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-ZqLiBW9RJWA/X6DeXyrPj0I/AAAAAAAAKiI/Q_7ZpvOFmV4ThYcFBDlkUBXJegmG4CPVACLcBGAsYHQ/w680/hbo%2Bsignature.jpg" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Signature (Z)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9694.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Signature Dual Audio (L)(720)" tvg-logo="https://1.bp.blogspot.com/-U60Pby9cnqI/Xw8ovhvpzuI/AAAAAAAAAWY/iU_CaOeTilQPEcKEGo7-rJ0MbA_sDb8SgCLcBGAsYHQ/w200-h200/SIGNATURE.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Signature Dual Audio (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9695.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO SUR (Z)" tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/hbo-logo-01-g.jpg" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO SUR (Z)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9696.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Xtream (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Xtream (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9697.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Xtreme (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Xtreme (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9698.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Xtreme (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Xtreme (TV)(SD)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9700.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Xtreme (Z)(720)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddpgt7p-e56bd6a5-5392-4dba-b2c2-18df39490d48.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Xtreme (Z)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9701.m3u8
-#EXTINF:-1 tvg-id="HBO.Xtreme.Panamericano.(HBOXTR).mx" tvg-name="CINE - HBO Xtreme. (M)(720)" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Xtreme. (M)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9699.m3u8
-#EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.mx" tvg-name="CINE - HBO. 2 (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO. 2 (TV)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9672.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Cine Latino (L)(720)" tvg-logo="https://1.bp.blogspot.com/-3-EvoMrQo-M/XaokZPxvp-I/AAAAAAAAAV8/wiPsHTnn5TQPaAOxfW6h00GSoQA1UvGgwCLcBGAsYHQ/s200/17.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Cine Latino (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9626.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Cine Latino (Z)" tvg-logo="http://127.0.0.1/" group-title="CANALES-ENTRETENIMIENTO",CINE - Cine Latino (Z)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9627.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Cinecanal (L)(720)" tvg-logo="https://1.bp.blogspot.com/-ZvhVOTsSTzg/XaokZ4XKSPI/AAAAAAAAAWI/MsjCS3r3rQop2YtmW8uC0_gyZU5WsAgqACLcBGAsYHQ/s200/4.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Cinecanal (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9628.m3u8
-#EXTINF:-1 tvg-id="AdultSwim.co" tvg-name="CINE - CineCanal (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-ZvhVOTsSTzg/XaokZ4XKSPI/AAAAAAAAAWI/MsjCS3r3rQop2YtmW8uC0_gyZU5WsAgqACLcBGAsYHQ/s200/4.png" group-title="CANALES-ENTRETENIMIENTO",CINE - CineCanal (TV)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9629.m3u8
-#EXTINF:-1 tvg-id="Cinecanal.co" tvg-name="CINE - CineCanal (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-ZvhVOTsSTzg/XaokZ4XKSPI/AAAAAAAAAWI/MsjCS3r3rQop2YtmW8uC0_gyZU5WsAgqACLcBGAsYHQ/s200/4.png" group-title="CANALES-ENTRETENIMIENTO",CINE - CineCanal (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9630.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Cinecanal (Z)(1080)" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Cinecanal (Z)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9631.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Cinema Dinamita (Z)(720)" tvg-logo="https://payload.cargocollective.com/1/18/598638/11690943/cd1_895.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Cinema Dinamita (Z)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9632.m3u8
-#EXTINF:-1 tvg-id="Cinemax.(Mexico).(CINEMAX).mx" tvg-name="CINE - Cinemax (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-SWgMvQVmNFs/XatKBoFk9XI/AAAAAAAAAcE/iIZCNfcElxsfxcj0hGdLxHZ0l7D7wRJ6wCLcBGAsYHQ/s200/43.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Cinemax (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9633.m3u8
-#EXTINF:-1 tvg-id="Cinemax.co" tvg-name="CINE - Cinemax (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-SWgMvQVmNFs/XatKBoFk9XI/AAAAAAAAAcE/iIZCNfcElxsfxcj0hGdLxHZ0l7D7wRJ6wCLcBGAsYHQ/s200/43.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Cinemax (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9634.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Cinemax (Z)(1080)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTapWv0ZtvCDDJbWxrh_B-9xTzIpgcamrL0Hl7QU6_hzmT9YorrLtKqi1KOf99Rdj2fjZU&usqp=CAU" group-title="CANALES-ENTRETENIMIENTO",CINE - Cinemax (Z)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9635.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Comedy Central (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-EGNc3XiW2mg/Xaoka4Z2TQI/AAAAAAAAAWU/WzeyBpAFtHw2hkqTpQi6FZCazB0eVIlHACLcBGAsYHQ/s200/7.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Comedy Central (L)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9636.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Comedy Central (M)(SD)" tvg-logo="http://tv.proyectox.vip:8080/images/8f14e45fceea167a5a36dedd4bea2543.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Comedy Central (M)(SD)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9637.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Paramount (Z)(720) -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU0Jlpo6Q-pz4sRAKzNcgMkA_A75_A6yPVSA&usqp=CAU" group-title="CANALES-ENTRETENIMIENTO",CINE - Paramount (Z)(720) -
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9705.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Paramount Channel. (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-hN1LIpeBxmo/XatGnSfXE2I/AAAAAAAAAbY/oEcqLYx31rQATVggy6N5l3sK2D6BMQ1MgCLcBGAsYHQ/s200/40.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Paramount Channel. (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9708.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Paramount Network (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-hN1LIpeBxmo/XatGnSfXE2I/AAAAAAAAAbY/oEcqLYx31rQATVggy6N5l3sK2D6BMQ1MgCLcBGAsYHQ/s200/40.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Paramount Network (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9707.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - TNT (L)(720)" tvg-logo="https://1.bp.blogspot.com/-gvPayEmPc-0/XaqYSotqp-I/AAAAAAAAAY4/4YmafnkAwdkT2YrPdajCmQ-5WJj4en0-wCLcBGAsYHQ/s200/26.png" group-title="CANALES-ENTRETENIMIENTO",CINE - TNT (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9742.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - TNT (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-gvPayEmPc-0/XaqYSotqp-I/AAAAAAAAAY4/4YmafnkAwdkT2YrPdajCmQ-5WJj4en0-wCLcBGAsYHQ/s200/26.png" group-title="CANALES-ENTRETENIMIENTO",CINE - TNT (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9743.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - TNT (M)(720)" tvg-logo="https://1.bp.blogspot.com/-gvPayEmPc-0/XaqYSotqp-I/AAAAAAAAAY4/4YmafnkAwdkT2YrPdajCmQ-5WJj4en0-wCLcBGAsYHQ/s200/26.png" group-title="CANALES-ENTRETENIMIENTO",CINE - TNT (M)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9744.m3u8
-#EXTINF:-1 tvg-id="TNT.co" tvg-name="CINE - TNT (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-gvPayEmPc-0/XaqYSotqp-I/AAAAAAAAAY4/4YmafnkAwdkT2YrPdajCmQ-5WJj4en0-wCLcBGAsYHQ/s200/26.png" group-title="CANALES-ENTRETENIMIENTO",CINE - TNT (TV)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9745.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - TNT (Z)(720)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41SnZkqVXQL.png" group-title="CANALES-ENTRETENIMIENTO",CINE - TNT (Z)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9746.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - TNT Novelas  (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-GuBKhe6BjNU/XaqbhYUEY9I/AAAAAAAAZU/GoNTclP8BQYz3LWW1FRbP0e_zV7-V_bNACLcBGAsYHQ/s200/28.png" group-title="CANALES-ENTRETENIMIENTO",CINE - TNT Novelas  (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9747.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - TNT nOVELAS (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-GuBKhe6BjNU/XaqbhYUEY9I/AAAAAAAAAZU/GoNTclP8BQYz3LWW1FRbP0e_zV7-V_bNACLcBGAsYHQ/s200/28.png" group-title="CANALES-ENTRETENIMIENTO",CINE - TNT nOVELAS (M)(SD)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9737.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - TNT Series (L)(720)" tvg-logo="https://1.bp.blogspot.com/-RU1QI0P40Bk/XaqXTmeUMsI/AAAAAAAAAYo/mKi7kYCtzykrjx76Ft-YMnk17IS3OdK0QCLcBGAsYHQ/s200/25.png" group-title="CANALES-ENTRETENIMIENTO",CINE - TNT Series (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9748.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - TNT Series (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-RU1QI0P40Bk/XaqXTmeUMsI/AAAAAAAAAYo/mKi7kYCtzykrjx76Ft-YMnk17IS3OdK0QCLcBGAsYHQ/s200/25.png" group-title="CANALES-ENTRETENIMIENTO",CINE - TNT Series (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9749.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - TNT Series (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-RU1QI0P40Bk/XaqXTmeUMsI/AAAAAAAAAYo/mKi7kYCtzykrjx76Ft-YMnk17IS3OdK0QCLcBGAsYHQ/s200/25.png" group-title="CANALES-ENTRETENIMIENTO",CINE - TNT Series (TV)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9750.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - TNT Series (Z)(720)." tvg-logo="https://1.bp.blogspot.com/-RU1QI0P40Bk/XaqXTmeUMsI/AAAAAAAAAYo/mKi7kYCtzykrjx76Ft-YMnk17IS3OdK0QCLcBGAsYHQ/s200/25.png" group-title="CANALES-ENTRETENIMIENTO",CINE - TNT Series (Z)(720).
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9751.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Channel (L)(720)" tvg-logo="https://1.bp.blogspot.com/-wIjU7SeLay0/XatoZA--t0I/AAAAAAAAAec/HbZ16hL1yKohaQDAxLTlqls-Sd6OVf2LQCLcBGAsYHQ/s200/51.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Channel (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9753.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Channel (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-wIjU7SeLay0/XatoZA--t0I/AAAAAAAAAec/HbZ16hL1yKohaQDAxLTlqls-Sd6OVf2LQCLcBGAsYHQ/s200/51.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Channel (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9754.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Channel (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-wIjU7SeLay0/XatoZA--t0I/AAAAAAAAAec/HbZ16hL1yKohaQDAxLTlqls-Sd6OVf2LQCLcBGAsYHQ/s200/51.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Channel (M)(SD)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9755.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Cinema (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Cinema (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9756.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Cinema (M)(1080) [Dual Audio]" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Cinema (M)(1080) [Dual Audio]
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9757.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Cinema (Z)(1080)" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Cinema (Z)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9758.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Comedy (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-SoNWrnF8TnQ/YmxO2XzcUnI/AAAAAAAADg0/nXRD_Ja3KYoO4SJyp2gqQkeFYeWBqt1xwCNcBGAsYHQ/w200-h200/1651265240279800-54.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Comedy (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9759.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Comedy (Z)(720)" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Comedy (Z)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9760.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Crime (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Crime (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9761.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Crime (M)(720)" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Crime (M)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9762.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Crime (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Crime (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9763.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Crime (Z)(720)" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Crime (Z)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9764.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Premier (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-LG2ri7fQLfc/YgMWEH-ycuI/AAAAAAAADNo/ASe9pUx6JxMEHmZuDP8fnteyPsU8ZBGigCNcBGAsYHQ/w200-h200/1644369421908968-0.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Premier (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9765.m3u8
-#EXTINF:-1 tvg-id="Universal.Channel.(Mexico).(UNIVERS).mx" tvg-name="CINE - Universal Premier (M)(1080) [Dual Audio]" tvg-logo="https://lh3.googleusercontent.com/-LG2ri7fQLfc/YgMWEH-ycuI/AAAAAAAADNo/ASe9pUx6JxMEHmZuDP8fnteyPsU8ZBGigCNcBGAsYHQ/w200-h200/1644369421908968-0.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Premier (M)(1080) [Dual Audio]
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9766.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Premier (T)(720)" tvg-logo="https://lh3.googleusercontent.com/-LG2ri7fQLfc/YgMWEH-ycuI/AAAAAAAADNo/ASe9pUx6JxMEHmZuDP8fnteyPsU8ZBGigCNcBGAsYHQ/w200-h200/1644369421908968-0.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Premier (T)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9767.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Premiere Norte (Z)(720)" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Premiere Norte (Z)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9768.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Premiere Sur (Z)(720)" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Premiere Sur (Z)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9769.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Reality (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-jrUcCNjGjiA/YgMWDP_MqhI/AAAAAAAADNk/hSVW-HGIAE8x-ESHmjGqeoP3TZYwU1V9wCNcBGAsYHQ/w200-h200/1644369417411612-1.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Reality (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9770.m3u8
-#EXTINF:-1 tvg-id="Universal.TV.co" tvg-name="CINE - Universal Reality (M)(1080)" tvg-logo="https://lh3.googleusercontent.com/-jrUcCNjGjiA/YgMWDP_MqhI/AAAAAAAADNk/hSVW-HGIAE8x-ESHmjGqeoP3TZYwU1V9wCNcBGAsYHQ/w200-h200/1644369417411612-1.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Reality (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9771.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Reality (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-jrUcCNjGjiA/YgMWDP_MqhI/AAAAAAAADNk/hSVW-HGIAE8x-ESHmjGqeoP3TZYwU1V9wCNcBGAsYHQ/w200-h200/1644369417411612-1.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Reality (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9772.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Reality (Z)(720)" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Reality (Z)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9773.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Warner Channel (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-FfuoassQMwg/XaqRIDyHsII/AAAAAAAAAXI/jd8OpoO8C20tOoSbCOmLgf-lG87ZA8V5gCLcBGAsYHQ/s200/18.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Warner Channel (L)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9774.m3u8
-#EXTINF:-1 tvg-id="Warner.Channel.co" tvg-name="CINE - Warner Channel (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-FfuoassQMwg/XaqRIDyHsII/AAAAAAAAAXI/jd8OpoO8C20tOoSbCOmLgf-lG87ZA8V5gCLcBGAsYHQ/s200/18.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Warner Channel (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9776.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Warner Channel (Z)(1080)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Warner_Channel_Shield_2000.png/revision/latest/scale-to-width-down/250?cb=20200117133843&path-prefix=es" group-title="CANALES-ENTRETENIMIENTO",CINE - Warner Channel (Z)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9777.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Warner Channel Dual Audio (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-FfuoassQMwg/XaqRIDyHsII/AAAAAAAAAXI/jd8OpoO8C20tOoSbCOmLgf-lG87ZA8V5gCLcBGAsYHQ/s200/18.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Warner Channel Dual Audio (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9775.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Wobi TV (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-eewIYgEehoo/Xmv1VpJFO8I/AAAAAAAABZ4/BPjBSNwzMQQW68jCaM2IoppQQe4HWATJgCLcBGAsYHQ/s200/72.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Wobi TV (TV)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9778.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE -HBO Xtreme - Dual (L)(720)" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="CANALES-ENTRETENIMIENTO",CINE -HBO Xtreme - Dual (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9779.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - De Pelicula (M)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/f7177163c833dff4b38fc8d2872f1ec6.png" group-title="CANALES-ENTRETENIMIENTO",CINE - De Pelicula (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9638.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - De Pelicula Plus (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-p0k4fKEUr58/XatKxE50PxI/AAAAAAAAAcM/jvKKEeW_T-8c-q7zmdG1CuyLiD4B1T0WQCLcBGAsYHQ/s200/44.png" group-title="CANALES-ENTRETENIMIENTO",CINE - De Pelicula Plus (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9639.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - De Pelicula Plus (Z)" tvg-logo="https://static.wixstatic.com/media/281e2a_52ed141254f542599d3f8eabdd34d672~mv2.png/v1/fit/w_463%2Ch_189%2Cal_c/file.png" group-title="CANALES-ENTRETENIMIENTO",CINE - De Pelicula Plus (Z)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9640.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - De Peliculas Clasico (Z)(1080)" tvg-logo="https://static.wixstatic.com/media/281e2a_52ed141254f542599d3f8eabdd34d672~mv2.png/v1/fit/w_463%2Ch_189%2Cal_c/file.png" group-title="CANALES-ENTRETENIMIENTO",CINE - De Peliculas Clasico (Z)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9641.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - De Película (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-p0k4fKEUr58/XatKxE50PxI/AAAAAAAAAcM/jvKKEeW_T-8c-q7zmdG1CuyLiD4B1T0WQCLcBGAsYHQ/s200/44.png" group-title="CANALES-ENTRETENIMIENTO",CINE - De Película (TV)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9642.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - FX (L)(720)" tvg-logo="https://1.bp.blogspot.com/-MUjPzmbITqs/XatNGMM5_FI/AAAAAAAAAc0/KlUpHFhNkGMPz9cyXVoNYm_yJ-RU4LMSwCLcBGAsYHQ/s200/46.png" group-title="CANALES-ENTRETENIMIENTO",CINE - FX (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9652.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - FX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-MUjPzmbITqs/XatNGMM5_FI/AAAAAAAAAc0/KlUpHFhNkGMPz9cyXVoNYm_yJ-RU4LMSwCLcBGAsYHQ/s200/46.png" group-title="CANALES-ENTRETENIMIENTO",CINE - FX (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9653.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - FX (Z)(1080)" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/07/fx.jpg" group-title="CANALES-ENTRETENIMIENTO",CINE - FX (Z)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9654.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - FX MEX (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-MUjPzmbITqs/XatNGMM5_FI/AAAAAAAAAc0/KlUpHFhNkGMPz9cyXVoNYm_yJ-RU4LMSwCLcBGAsYHQ/s200/46.png" group-title="CANALES-ENTRETENIMIENTO",CINE - FX MEX (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9655.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Golden (M)(720)" tvg-logo="https://1.bp.blogspot.com/-Bh76OnxXsM0/XatOPMpUwGI/AAAAAAAAAdI/Q5opFPrspk8mExeK-MKi4lptcYKK8LlqwCLcBGAsYHQ/s200/47.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Golden (M)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9656.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Golden (Z)(1080)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="CANALES-ENTRETENIMIENTO",CINE - Golden (Z)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9657.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Golden Edge (M)(720)" tvg-logo="https://1.bp.blogspot.com/-a_dgujjjSt4/XatPMFS5hlI/AAAAAAAAAdQ/P_h_eb7MZV4sgYDwZ_0tNV2XDn3iFsn4QCLcBGAsYHQ/s200/48.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Golden Edge (M)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9658.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Golden Edge (Z)(1080)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Golden_Edge_2016.png/revision/latest/scale-to-width-down/310?cb=20191215195803&path-prefix=es" group-title="CANALES-ENTRETENIMIENTO",CINE - Golden Edge (Z)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9659.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Golden Plus (L)(720)" tvg-logo="https://1.bp.blogspot.com/-xAsbQLg2Jh4/XatB0liBxTI/AAAAAAAAAaw/0DJSM8f-dGYbfmZhsUXXGokODQRxIrpXwCLcBGAsYHQ/s200/35.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Golden Plus (L)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9660.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Golden Plus (M)(1080) [Dual Audio]" tvg-logo="https://1.bp.blogspot.com/-xAsbQLg2Jh4/XatB0liBxTI/AAAAAAAAAaw/0DJSM8f-dGYbfmZhsUXXGokODQRxIrpXwCLcBGAsYHQ/s200/35.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Golden Plus (M)(1080) [Dual Audio]
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9661.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Golden Plus (Z)(1080) -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzfPAfYQMBjlLveOOYfg-4RSj7VSTmctWclQ&usqp=CAU" group-title="CANALES-ENTRETENIMIENTO",CINE - Golden Plus (Z)(1080) -
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9662.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Golden Premier (Z)(720)" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-(Z)(720)_m.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Golden Premier (Z)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9663.m3u8
-#EXTINF:-1 tvg-id="Canal.Golden.Premier.mx" tvg-name="CINE - Golden Premiere (M)(1080) [Dual Audio]" tvg-logo="https://1.bp.blogspot.com/-j59YyvcAhO4/XatB1WwVKKI/AAAAAAAAAa0/DMlvXZYGuHgvfLb_ggo3sXcUkoeGcGVaQCLcBGAsYHQ/s200/36.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Golden Premiere (M)(1080) [Dual Audio]
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9664.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Golden Premiere 2 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-j59YyvcAhO4/XatB1WwVKKI/AAAAAAAAAa0/DMlvXZYGuHgvfLb_ggo3sXcUkoeGcGVaQCLcBGAsYHQ/s200/36.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Golden Premiere 2 (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9665.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - I.Sat (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-RG0qBmZsSKA/XbfvxD0TeDI/AAAAAAAAAtY/cYZhffEHTbcbie0w_IMG2sgSAyqs80zPACLcBGAsYHQ/s200/56.png" group-title="CANALES-ENTRETENIMIENTO",CINE - I.Sat (M)(SD)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9702.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Lifetime (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-iMAi_8FJwwQ/XatGmhKYmbI/AAAAAAAAAbQ/0z9DR3Ur5KYfsAzeHVCogx2jNUubeChrACLcBGAsYHQ/s200/37.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Lifetime (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9703.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Panico MEX (T)(720)" tvg-logo="" group-title="CANALES-ENTRETENIMIENTO",CINE - Panico MEX (T)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9704.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Showtime Extreme (Z)" tvg-logo="https://lovingseries.files.wordpress.com/2016/01/showtime-logo.jpg" group-title="CANALES-ENTRETENIMIENTO",CINE - Showtime Extreme (Z)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9709.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Showtime West Dual (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-1CyRY6HMjJE/XxCHEUy_trI/AAAAAAAAAbg/g0eCuMarEbA_5d3m7g468QjwKuXA91EjgCLcBGAsYHQ/w200-h200/Showtime%2BWEST.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Showtime West Dual (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9710.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Sony Channel (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-Ess4VrXYpAQ/XatGnkceQRI/AAAAAAAAAbc/OqfYrJcB2UcrnplBlalhQncSDVbKkP2fwCLcBGAsYHQ/s200/41.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Sony Channel (L)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9711.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Sony Channel (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-Ess4VrXYpAQ/XatGnkceQRI/AAAAAAAAAbc/OqfYrJcB2UcrnplBlalhQncSDVbKkP2fwCLcBGAsYHQ/s200/41.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Sony Channel (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9712.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Sony Cine (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-pDZUOqatcCc/YDSFENFbt6I/AAAAAAAACFk/aG-Brvhw2Hoz5IsWO5eyTJtIdk3FqDS7wCLcBGAsYHQ/w200-h200/Sony.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Sony Cine (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9713.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Sony Comedias (S)(720)" tvg-logo="https://lh3.googleusercontent.com/-vLc9HxhBCWc/YrOnfUyvmGI/AAAAAAAADqU/7-IF607hHU4auLdAULFL9TbfbuWWkvcFQCNcBGAsYHQ/w200-h200/1655940987722304-1.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Sony Comedias (S)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9714.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Sony Movies (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-LF8eNaiagYk/YrOoDrHNJUI/AAAAAAAADqg/00ZKoE3RGd4v7HO51ggIJO9i32zgukiSACNcBGAsYHQ/w200-h200/1655941132757676-0.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Sony Movies (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9715.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Sony Novelas (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-JYH4OV2UZyY/YrOngMaC-EI/AAAAAAAADqY/2lSJe3QRzDM4qzssNcDa2qhVLQllQDPNwCNcBGAsYHQ/w200-h200/1655940990366011-0.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Sony Novelas (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9716.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Space (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-6wvhPq5IaU0/XatGn62vaSI/AAAAAAAAAbg/Ag7mkwAVGCM4eBE7PoLyqAUwkyHiFFAIwCLcBGAsYHQ/s200/42.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Space (TV)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9717.m3u8
-#EXTINF:-1 tvg-id="Space.co" tvg-name="CINE - Space (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-6wvhPq5IaU0/XatGn62vaSI/AAAAAAAAAbg/Ag7mkwAVGCM4eBE7PoLyqAUwkyHiFFAIwCLcBGAsYHQ/s200/42.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Space (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9718.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Space (Z)(1080)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgmEH8nElhOC1Zy-eT9rciDQJrti64bkBt4VIwUFz336rh6o7c0(Z)(720)zX5l0h9-g67N-Thw&usqp=CAU" group-title="CANALES-ENTRETENIMIENTO",CINE - Space (Z)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9719.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Star Channel (Z)(720) -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwey_QSgsURF5ORWFEgyemvsmJXAux5cssS_z_HZygeAGq-wNY38LPXHXw6MC8dO56xLY&usqp=CAU" group-title="CANALES-ENTRETENIMIENTO",CINE - Star Channel (Z)(720) -
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - STAR Channel CO (M)(1080) [Dual Audio]" tvg-logo="https://lh3.googleusercontent.com/-yvtMpSceSWI/Yf9U8n6XN7I/AAAAAAAADGQ/HQ7NWPvhrwkmM8sQxwUZ3kRyu1u0iyIOgCNcBGAsYHQ/w200-h200/1644123375803213-1.png" group-title="CANALES-ENTRETENIMIENTO",CINE - STAR Channel CO (M)(1080) [Dual Audio]
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9721.m3u8
-#EXTINF:-1 tvg-id="STAR.CHANNEL.co" tvg-name="CINE - STAR Channel CO. (M)(720)" tvg-logo="https://lh3.googleusercontent.com/-yvtMpSceSWI/Yf9U8n6XN7I/AAAAAAAADGQ/HQ7NWPvhrwkmM8sQxwUZ3kRyu1u0iyIOgCNcBGAsYHQ/w200-h200/1644123375803213-1.png" group-title="CANALES-ENTRETENIMIENTO",CINE - STAR Channel CO. (M)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9722.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - STAR Channel MX (L)(1080)" tvg-logo="https://lh3.googleusercontent.com/-yvtMpSceSWI/Yf9U8n6XN7I/AAAAAAAADGQ/HQ7NWPvhrwkmM8sQxwUZ3kRyu1u0iyIOgCNcBGAsYHQ/w200-h200/1644123375803213-1.png" group-title="CANALES-ENTRETENIMIENTO",CINE - STAR Channel MX (L)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9723.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Star Channel Norte (Z)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1280px-Star_Action_2020.svg.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Star Channel Norte (Z)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9724.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Star Channel Sur (Z)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1280px-Star_Action_2020.svg.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Star Channel Sur (Z)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9725.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Star TVE (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-Ru5-dc21HTI/Xmvz5ztZLnI/AAAAAAAABZs/25I5OIJh_tEoTM5rCvQfFtj83-GqrI_fwCLcBGAsYHQ/s200/71.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Star TVE (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9726.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-eEgFDxMCYm8/Xbf6BQ5kAxI/AAAAAAAAAvQ/dtgBpkQi2Yg_N2MrsCndofbWOjPmk4ywQCLcBGAsYHQ/s200/61.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Starz (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9727.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz Comedy (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-65SSCnBQbP4/Xbf6BdncZvI/AAAAAAAAAvM/P7AAIx-1ZV09VxM9GwpIFr6VoawVs3U8ACLcBGAsYHQ/s200/63.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Starz Comedy (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9728.m3u8
-#EXTINF:-1 tvg-id="Starz.Encore.on.Demand.us" tvg-name="CINE - STARZ Encore (TV)(1080)" tvg-logo="https://lh3.googleusercontent.com/-2-P-SFuIkVg/Yf9U87XfmbI/AAAAAAAADGU/dR2s6hvETdM_UMHM9Uf1WMwzni5_nNLzwCNcBGAsYHQ/w200-h200/1644123377530154-0.png" group-title="CANALES-ENTRETENIMIENTO",CINE - STARZ Encore (TV)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9729.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz Encore Suspense (Z)" tvg-logo="http://fanc.tmsimg.com/assets/s83076_ll_h3_aa.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Starz Encore Suspense (Z)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9730.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz Family (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-eEgFDxMCYm8/Xbf6BQ5kAxI/AAAAAAAAAvQ/dtgBpkQi2Yg_N2MrsCndofbWOjPmk4ywQCLcBGAsYHQ/s200/61.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Starz Family (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9731.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Studio Universal (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-Mm4RcdZlydc/XatpNZ2eSDI/AAAAAAAAAek/B1kOZW_TEv0GakL-m6tUYEmi592FBiSEQCLcBGAsYHQ/s200/52.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Studio Universal (M)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9732.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Studio Universal (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-Mm4RcdZlydc/XatpNZ2eSDI/AAAAAAAAAek/B1kOZW_TEv0GakL-m6tUYEmi592FBiSEQCLcBGAsYHQ/s200/52.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Studio Universal (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9733.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Syfy (M)(720)" tvg-logo="https://1.bp.blogspot.com/-jfjNpEHTpUo/XaqcohSN_RI/AAAAAAAAAZg/zMNahbdtrzEcLIfwhOB4OpzhAg_HyR0OwCLcBGAsYHQ/s200/29.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Syfy (M)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9735.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - SYFY (Z)(1080)" tvg-logo="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2017%2F05%2Fdefault-2000.jpg" group-title="CANALES-ENTRETENIMIENTO",CINE - SYFY (Z)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9736.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - TBS (Z)" tvg-logo="https://www.kindpng.com/picc/m/483-4832828_tbs-logo-png-transparent-transparent-tbs-logo-png.png" group-title="CANALES-ENTRETENIMIENTO",CINE - TBS (Z)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9738.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - TBS Very Funny (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-wMzLh7XtNXQ/XaqajETYhtI/AAAAAAAAAZM/PSGrPhF2qbMiqH0jLk_-dY-A3yehkNxkwCLcBGAsYHQ/s200/27.png" group-title="CANALES-ENTRETENIMIENTO",CINE - TBS Very Funny (TV)(720)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9739.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - TCM (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-I0it6XRRNxo/XdtVtXF2xPI/AAAAAAAAA30/Cb3ZdzakgygMU2_98viDf2CFqek_sQRTACLcBGAsYHQ/s200/24.png" group-title="CANALES-ENTRETENIMIENTO",CINE - TCM (M)(SD)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9740.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - TCM (Z)(1080)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANALES-ENTRETENIMIENTO",CINE - TCM (Z)(1080)
-http://mvlat.cc:8080/live/aguerrero2020/f2c7b951d95b/9741.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CH1" tvg-logo="" group-title="PPV",CH1
+http://norfujh.top:8080/live/Jonathan/12345678/58313.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CH2" tvg-logo="" group-title="PPV",CH2
+http://norfujh.top:8080/live/Jonathan/12345678/58314.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CH3" tvg-logo="" group-title="PPV",CH3
+http://norfujh.top:8080/live/Jonathan/12345678/58315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CH4" tvg-logo="" group-title="PPV",CH4
+http://norfujh.top:8080/live/Jonathan/12345678/58316.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CH5" tvg-logo="" group-title="PPV",CH5
+http://norfujh.top:8080/live/Jonathan/12345678/58317.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CH6" tvg-logo="" group-title="PPV",CH6
+http://norfujh.top:8080/live/Jonathan/12345678/58318.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CH7" tvg-logo="" group-title="PPV",CH7
+http://norfujh.top:8080/live/Jonathan/12345678/58319.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CH8" tvg-logo="" group-title="PPV",CH8
+http://norfujh.top:8080/live/Jonathan/12345678/58320.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CH9" tvg-logo="" group-title="PPV",CH9
+http://norfujh.top:8080/live/Jonathan/12345678/58321.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CH10" tvg-logo="" group-title="PPV",CH10
+http://norfujh.top:8080/live/Jonathan/12345678/58322.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CH11" tvg-logo="" group-title="PPV",CH11
+http://norfujh.top:8080/live/Jonathan/12345678/58323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CH12" tvg-logo="" group-title="PPV",CH12
+http://norfujh.top:8080/live/Jonathan/12345678/58324.m3u8
+#EXTINF:-1 tvg-id="elsupercanal.gt" tvg-name="GUATELAMA | Canal 3" tvg-logo="https://seeklogo.com/images/C/canal-3-el-super-canal-logo-26F5EF2804-seeklogo.com.png" group-title="Guatemala",GUATELAMA | Canal 3
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/348.m3u8
+#EXTINF:-1 tvg-id="aztecaguatemala.gt" tvg-name="GUATEMALA | Azteca HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Logotipo_de_TV_Azteca.png" group-title="Guatemala",GUATEMALA | Azteca HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/35557.m3u8
+#EXTINF:-1 tvg-id="TeleonceCanal11.gt" tvg-name="GUATEMALA | Canal 11" tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-11-guatemala_m.png" group-title="Guatemala",GUATEMALA | Canal 11
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/349.m3u8
+#EXTINF:-1 tvg-id="trecevisioncanal13.gt" tvg-name="GUATEMALA | Canal 13" tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-13-guatemala_m.png" group-title="Guatemala",GUATEMALA | Canal 13
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/350.m3u8
+#EXTINF:-1 tvg-id="televisiete.gt" tvg-name="GUATEMALA | Canal 7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Canal_Siete_Jujuy_%28Logo_2020%29.png" group-title="Guatemala",GUATEMALA | Canal 7
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/351.m3u8
+#EXTINF:-1 tvg-id="canalantigua.gt" tvg-name="GUATEMALA | Canal Antigua" tvg-logo="https://deronald.com/wp-content/uploads/2018/11/Canal-antigua.png" group-title="Guatemala",GUATEMALA | Canal Antigua
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/352.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | Claro Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/2560px-Claro_Sports_logo.svg.png" group-title="Guatemala",GUATEMALA | Claro Sports HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/83499.m3u8
+#EXTINF:-1 tvg-id="guatevision.gt" tvg-name="GUATEMALA | Guatevision" tvg-logo="https://ciudadesconectadas.org/wp-content/uploads/2021/04/guatevision.jpeg" group-title="Guatemala",GUATEMALA | Guatevision
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/353.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | Tigo Sports Plus HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ioy32l1623579346.png" group-title="Guatemala",GUATEMALA | Tigo Sports Plus HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/82323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | Tigo Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ioy32l1623579346.png" group-title="Guatemala",GUATEMALA | Tigo Sports
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/82322.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | TN23" tvg-logo="https://www.chapintv.com/wp-content/uploads/2020/11/tn23-700x432.jpg" group-title="Guatemala",GUATEMALA | TN23
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/15522.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | Azteca Honduras" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/TV_Azteca_Honduras_logo_2017.png" group-title="Honduras",HONDURAS | Azteca Honduras
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/566.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | Campus TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Campus_TV_logo.png" group-title="Honduras",HONDURAS | Campus TV
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/91275.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | Canal 11 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/Canal_11_Honduras_2011_1.png" group-title="Honduras",HONDURAS | Canal 11 HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/568.m3u8
+#EXTINF:-1 tvg-id="canal5ellíder.hn" tvg-name="HONDURAS | Canal 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_5_HN_logo_2019.png" group-title="Honduras",HONDURAS | Canal 5 HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/570.m3u8
+#EXTINF:-1 tvg-id="canal6.hn" tvg-name="HONDURAS | Canal 6 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Canal6HN2005.png" group-title="Honduras",HONDURAS | Canal 6 HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/571.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | Globo TV HD" tvg-logo="https://seeklogo.com/images/R/rede-globo-logo-817F928B4F-seeklogo.com.png" group-title="Honduras",HONDURAS | Globo TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/91230.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | HCH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Logohch2022.png/800px-Logohch2022.png" group-title="Honduras",HONDURAS | HCH HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/574.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | HCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Logohch2022.png/800px-Logohch2022.png" group-title="Honduras",HONDURAS | HCH
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/573.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | Lenca TV" tvg-logo="https://www.lencatelevision.com/logo/external" group-title="Honduras",HONDURAS | Lenca TV
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/588.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | Maya TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/A6287BAC-05B5-4739-9415-01B08CC0DF0E.png" group-title="Honduras",HONDURAS | Maya TV
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/91231.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | Mega TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Mega_TV_-_Logo.png" group-title="Honduras",HONDURAS | Mega TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/575.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | SI-TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/si-tv-honduras.png" group-title="Honduras",HONDURAS | SI-TV
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | TeleCadena  SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/TelecadenaHonduras2018.png" group-title="Honduras",HONDURAS | TeleCadena  SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/579.m3u8
+#EXTINF:-1 tvg-id="telecadena.hn" tvg-name="HONDURAS | Telecadena HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/TelecadenaHonduras2018.png" group-title="Honduras",HONDURAS | Telecadena HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/578.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | Teleceiba" tvg-logo="https://teleceibatv.com/wp-content/uploads/2023/09/cropped-TELECEIBA.png" group-title="Honduras",HONDURAS | Teleceiba
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/581.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | Teleceiba SD" tvg-logo="https://teleceibatv.com/wp-content/uploads/2023/09/cropped-TELECEIBA.png" group-title="Honduras",HONDURAS | Teleceiba SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/580.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | Teleprogreso" tvg-logo="https://teleprogreso.tv/wp-content/uploads/2024/06/Logo-1200x675-TP.png" group-title="Honduras",HONDURAS | Teleprogreso
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/582.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Honduras | Tigo Sports (Solo Eventos)" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ioy32l1623579346.png" group-title="Honduras",Honduras | Tigo Sports (Solo Eventos)
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/35412.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | TSI HD" tvg-logo="https://seeklogo.com/images/T/tsi-honduras-logo-A80A69CD6F-seeklogo.com.png" group-title="Honduras",HONDURAS | TSI HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/584.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Honduras | TSI" tvg-logo="https://seeklogo.com/images/T/tsi-honduras-logo-A80A69CD6F-seeklogo.com.png" group-title="Honduras",Honduras | TSI
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/93770.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | UNE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Une_Tv.png" group-title="Honduras",HONDURAS | UNE TV
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/585.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/1200px-VTV_HN_logo_2019.png" group-title="Honduras",HONDURAS | VTV
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/91232.m3u8
+#EXTINF:-1 tvg-id="babytv.mx" tvg-name="Infantiles HD | Baby TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Babytvv.png" group-title="Infantiles / Kids (Lat)",Infantiles HD | Baby TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3295.m3u8
+#EXTINF:-1 tvg-id="Boomerang.mx" tvg-name="Infantiles HD | Boomerang HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="Infantiles / Kids (Lat)",Infantiles HD | Boomerang HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3296.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Infantiles HD | Cartoon Network HD (A)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Infantiles / Kids (Lat)",Infantiles HD | Cartoon Network HD (A)
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3297.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="Infantiles HD | Discovery Kids HD" tvg-logo="https://seeklogo.com/images/D/discovery-kids-logo-FCF71E0B9B-seeklogo.com.png" group-title="Infantiles / Kids (Lat)",Infantiles HD | Discovery Kids HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3298.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Infantiles HD | Disney Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" group-title="Infantiles / Kids (Lat)",Infantiles HD | Disney Channel HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3299.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="Infantiles HD | Disney Junior HD" tvg-logo="https://seeklogo.com/images/D/disney-junior-logo-1F38185449-seeklogo.com.png" group-title="Infantiles / Kids (Lat)",Infantiles HD | Disney Junior HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3300.m3u8
+#EXTINF:-1 tvg-id="NatGeoKids.mx" tvg-name="Infantiles HD | Nat Geo Kids HD" tvg-logo="https://i.natgeofe.com/n/9809eae8-2750-4ecf-9d48-1de552cf0f78/kids.png" group-title="Infantiles / Kids (Lat)",Infantiles HD | Nat Geo Kids HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3302.m3u8
+#EXTINF:-1 tvg-id="NickJrPanregional.us" tvg-name="Infantiles HD | Nick 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png" group-title="Infantiles / Kids (Lat)",Infantiles HD | Nick 2 HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3304.m3u8
+#EXTINF:-1 tvg-id="NickJr.es" tvg-name="Infantiles HD | Nick JR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="Infantiles / Kids (Lat)",Infantiles HD | Nick JR HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3305.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="Infantiles HD | Nickelodeon HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Nickelodeon_schweiz_logo.png" group-title="Infantiles / Kids (Lat)",Infantiles HD | Nickelodeon HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3303.m3u8
+#EXTINF:-1 tvg-id="NickToons.mx" tvg-name="Infantiles HD | NickToons HD" tvg-logo="https://seeklogo.com/images/N/nicktoons-logo-3E93DF41A5-seeklogo.com.png" group-title="Infantiles / Kids (Lat)",Infantiles HD | NickToons HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3306.m3u8
+#EXTINF:-1 tvg-id="tooncast.mx" tvg-name="Infantiles HD | Tooncast HD " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Tooncast_%28green%29.png" group-title="Infantiles / Kids (Lat)",Infantiles HD | Tooncast HD 
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3307.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Infantiles SD | Baby TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Babytvv.png" group-title="Infantiles / Kids (Lat)",Infantiles SD | Baby TV
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3268.m3u8
+#EXTINF:-1 tvg-id="boomerang.mx" tvg-name="Infantiles SD | Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="Infantiles / Kids (Lat)",Infantiles SD | Boomerang
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3269.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Infantiles SD | Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Infantiles / Kids (Lat)",Infantiles SD | Cartoon Network
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3270.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Infantiles SD | Discovery Kids" tvg-logo="https://seeklogo.com/images/D/discovery-kids-logo-FCF71E0B9B-seeklogo.com.png" group-title="Infantiles / Kids (Lat)",Infantiles SD | Discovery Kids
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3271.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Infantiles SD | Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" group-title="Infantiles / Kids (Lat)",Infantiles SD | Disney Channel
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3272.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Infantiles SD | Disney Junior" tvg-logo="https://seeklogo.com/images/D/disney-junior-logo-1F38185449-seeklogo.com.png" group-title="Infantiles / Kids (Lat)",Infantiles SD | Disney Junior
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3273.m3u8
+#EXTINF:-1 tvg-id="natgeokids.mx" tvg-name="Infantiles SD | Nat Geo Kids" tvg-logo="https://i.natgeofe.com/n/9809eae8-2750-4ecf-9d48-1de552cf0f78/kids.png" group-title="Infantiles / Kids (Lat)",Infantiles SD | Nat Geo Kids
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3275.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Infantiles SD | Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Nickelodeon_schweiz_logo.png" group-title="Infantiles / Kids (Lat)",Infantiles SD | Nickelodeon
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Infantiles SD | Tooncast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Tooncast_%28green%29.png" group-title="Infantiles / Kids (Lat)",Infantiles SD | Tooncast
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3277.m3u8
+#EXTINF:-1 tvg-id="raiuno.it" tvg-name="IT | RAI 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Rai_1_-_Logo_2016.svg" group-title="World News / Noticias",IT | RAI 1 HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/70456.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ITALY | Rai Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Rai_Sport_-_Logo_2022.svg/640px-Rai_Sport_-_Logo_2022.svg.png" group-title="Sports",ITALY | Rai Sports HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/81411.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ITALY | SKY Cinema Comedy HD" tvg-logo="http://zuihaode.site:25461/images/e1907d90ca6f229a42bead6dc464d61e.png" group-title="Internacionales / International",ITALY | SKY Cinema Comedy HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/81410.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ITALY | Rai Movie HD" tvg-logo="http://zuiowy.net:8080/images/831ec9b3c2d105af0a6cb0c0ceb9a2f4.png" group-title="Internacionales / International",ITALY | Rai Movie HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/81409.m3u8
+#EXTINF:-1 tvg-id="cnnespanol.us" tvg-name="LAT | CNN en Espanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png" group-title="World News / Noticias",LAT | CNN en Espanol
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/15843.m3u8
+#EXTINF:-1 tvg-id="dwenglishl.us" tvg-name="LAT | DW Español HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="World News / Noticias",LAT | DW Español HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/51242.m3u8
+#EXTINF:-1 tvg-id="France24French.fr" tvg-name="LAT | France 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="World News / Noticias",LAT | France 24 HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/101329.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT | Noticias PY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/NPY_Logo2023.png" group-title="World News / Noticias",LAT | Noticias PY HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3315.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="LAT | RT News HD ESP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/RT_Espa%C3%B1ol_2010.png" group-title="World News / Noticias",LAT | RT News HD ESP
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/15865.m3u8
+#EXTINF:-1 tvg-id="canaladn40.mx" tvg-name="Mexico | ADN40 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adn40_2022.png" group-title="Mexico",Mexico | ADN40 HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/1241.m3u8
+#EXTINF:-1 tvg-id="azclic.mx" tvg-name="Mexico | AZ Clic HD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_2/large.gallery_1163_2_713.png.6233c23c5664a6eec0044cb18d87515f.png" group-title="Mexico",Mexico | AZ Clic HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/1218.m3u8
+#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="Mexico | AZ Corazon HD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_2/large.gallery_1163_2_6112.png.6d7f71edf8461d399e804e623c9bea44.png" group-title="Mexico",Mexico | AZ Corazon HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/1219.m3u8
+#EXTINF:-1 tvg-id="aztecamundo.mx" tvg-name="Mexico | AZ Mundo HD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_2/large.gallery_1163_2_32434.png.09476cd90d78c2f0ab3a71f63cac5cf6.png" group-title="Mexico",Mexico | AZ Mundo HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/1220.m3u8
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="Mexico | Azteca 7 FHD" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/aba8d8b/2147483647/strip/true/crop/354x186+15+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F25%2F75%2F665cc6a4466b8569e37508e0fafb%2Flogo7blanco.png" group-title="Mexico",Mexico | Azteca 7 FHD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/1221.m3u8
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="Mexico | Azteca 7 HD" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/aba8d8b/2147483647/strip/true/crop/354x186+15+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F25%2F75%2F665cc6a4466b8569e37508e0fafb%2Flogo7blanco.png" group-title="Mexico",Mexico | Azteca 7 HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/1222.m3u8
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="Mexico | Azteca 7 SD" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/aba8d8b/2147483647/strip/true/crop/354x186+15+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F25%2F75%2F665cc6a4466b8569e37508e0fafb%2Flogo7blanco.png" group-title="Mexico",Mexico | Azteca 7 SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/1223.m3u8
+#EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="Mexico | Azteca Uno FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Azteca_logo.png/800px-Azteca_logo.png" group-title="Mexico",Mexico | Azteca Uno FHD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/1224.m3u8
+#EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="Mexico | Azteca Uno HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Azteca_logo.png/800px-Azteca_logo.png" group-title="Mexico",Mexico | Azteca Uno HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/1225.m3u8
+#EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="Mexico | Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png" group-title="Mexico",Mexico | Azteca Uno
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/80682.m3u8
+#EXTINF:-1 tvg-id="bandamax.mx" tvg-name="Mexico | Bandamax HD (A)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Bandamax_2015_Logo.png" group-title="Mexico",Mexico | Bandamax HD (A)
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/1258.m3u8
+#EXTINF:-1 tvg-id="bitme.mx" tvg-name="Mexico | BitMe HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/640px-BitMe_logo.svg.png" group-title="Mexico",Mexico | BitMe HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/1257.m3u8
+#EXTINF:-1 tvg-id="bloombergtv.mx" tvg-name="Mexico | Bloomberg HD" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/SDTVFDMJDFE4NDNBX7LSP3NXNE.png" group-title="Mexico",Mexico | Bloomberg HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/40929.m3u8
+#EXTINF:-1 tvg-id="5nacional.mx" tvg-name="Mexico | Canal 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="Mexico",Mexico | Canal 5 FHD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/1226.m3u8
+#EXTINF:-1 tvg-id="5nacional.mx" tvg-name="Mexico | Canal 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="Mexico",Mexico | Canal 5 HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/1227.m3u8
+#EXTINF:-1 tvg-id="~ HD Televisa (Leon)" tvg-name="Mexico | Cancun Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Canal_10.png" group-title="Mexico",Mexico | Cancun Canal 10
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/79539.m3u8
+#EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="Mexico | Distrito Comedia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="Mexico",Mexico | Distrito Comedia HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/1248.m3u8
+#EXTINF:-1 tvg-id="bloombergtv.mx" tvg-name="Mexico | El Financiero HD" tvg-logo="https://www.elfinanciero.com.mx/resizer/kw6tdTg_Ncpbo8vKrAOitD3D2KQ=/arc-photo-elfinanciero/arc2-prod/public/VNZMK2VWFREJHCRCZBHIVHAXEE.png" group-title="Mexico",Mexico | El Financiero HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/40930.m3u8
+#EXTINF:-1 tvg-id="canal.5.galavision.mx" tvg-name="Mexico | Galavision HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/af/Galavision_Logo_2024.svg/1200px-Galavision_Logo_2024.svg.png" group-title="Mexico",Mexico | Galavision HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/17278.m3u8
+#EXTINF:-1 tvg-id="xhijcanal44.es" tvg-name="Mexico | Garage TV SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png" group-title="Mexico",Mexico | Garage TV SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/80528.m3u8
+#EXTINF:-1 tvg-id="~ HD Hola TV" tvg-name="Mexico | Hola TV HD " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Hola_tv_logo.svg" group-title="Mexico",Mexico | Hola TV HD 
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/1244.m3u8
+#EXTINF:-1 tvg-id="isat.mx" tvg-name="Mexico | I SAT HD" tvg-logo="https://seeklogo.com/images/I/isat-logo-90247D202D-seeklogo.com.png" group-title="Mexico",Mexico | I SAT HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/1245.m3u8
+#EXTINF:-1 tvg-id="imagentv.mx" tvg-name="Mexico | Imagen HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="Mexico",Mexico | Imagen HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/1231.m3u8
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="Mexico | Las Estrellas HD OPC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Mexico",Mexico | Las Estrellas HD OPC 1
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/1233.m3u8
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="Mexico | Las Estrellas SD OPC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Mexico",Mexico | Las Estrellas SD OPC 2
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/1232.m3u8
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="Mexico | Las Estrellas HD OPC 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Mexico",Mexico | Las Estrellas HD OPC 3
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/1234.m3u8
+#EXTINF:-1 tvg-id="multimedios.mx" tvg-name="Mexico | Multimedios HD" tvg-logo="https://seeklogo.com/images/M/multimedios-logo-C81A3ECA9A-seeklogo.com.png" group-title="Mexico",Mexico | Multimedios HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/1235.m3u8
+#EXTINF:-1 tvg-id="pasiones.us" tvg-name="Mexico | Pasiones HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="Mexico",Mexico | Pasiones HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/28906.m3u8
+#EXTINF:-1 tvg-id="telehit.mx" tvg-name="Mexico | Telehit HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Telehit_logo_2020.png" group-title="Mexico",Mexico | Telehit HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/1247.m3u8
+#EXTINF:-1 tvg-id="telenovelas.mx" tvg-name="Mexico | Telenovelas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_tlnovelas_feb2019.png" group-title="Mexico",Mexico | Telenovelas HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/1255.m3u8
+#EXTINF:-1 tvg-id="canalmonterreyxefb.mx" tvg-name="Mexico | Televisa Canal 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Logotipo_de_Televisa_%281990-1998%29.png" group-title="Mexico",Mexico | Televisa Canal 9 HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/40932.m3u8
+#EXTINF:-1 tvg-id="tvmasxhgv.es" tvg-name="Mexico | TV Mas HD" tvg-logo="https://lh6.googleusercontent.com/proxy/6EOb53yAf8MYrwa0fwrbkXicXV_4x7q2uo3SYYIXswSrGcZZlixRUecX77hV1Py3dSCfJjaDubeQgEwZf8xJTFWeXFiPmnCXqeKPhnnz6qcob5WRvMPnNIff9w" group-title="Mexico",Mexico | TV Mas HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/79540.m3u8
+#EXTINF:-1 tvg-id="unicable.mx" tvg-name="Mexico | Unicable HD (A)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Unicable2007.png" group-title="Mexico",Mexico | Unicable HD (A)
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/1252.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC | HIP HOP & R&B" tvg-logo="" group-title="Musica / Music",MUSIC | HIP HOP & R&B
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/90854.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC | HIT LIST" tvg-logo="" group-title="Musica / Music",MUSIC | HIT LIST
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/90853.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC | POP HITS" tvg-logo="" group-title="Musica / Music",MUSIC | POP HITS
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/90852.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC | POP LATINO" tvg-logo="" group-title="Musica / Music",MUSIC | POP LATINO
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/90851.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC | TODAY'S COUNTRY " tvg-logo="" group-title="Musica / Music",MUSIC | TODAY'S COUNTRY 
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/90849.m3u8
+#EXTINF:-1 tvg-id="mtv2.us" tvg-name="MUSICA | MTV 2 HD" tvg-logo="https://e7.pngegg.com/pngimages/364/194/png-clipart-i-want-my-mtv-1990s-1980s-logo-others-television-text-thumbnail.png" group-title="Musica / Music",MUSICA | MTV 2 HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/16125.m3u8
+#EXTINF:-1 tvg-id="mtv.us" tvg-name="MUSICA | MTV HD" tvg-logo="https://e7.pngegg.com/pngimages/364/194/png-clipart-i-want-my-mtv-1990s-1980s-logo-others-television-text-thumbnail.png" group-title="Musica / Music",MUSICA | MTV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/16107.m3u8
+#EXTINF:-1 tvg-id="mtv.us" tvg-name="MUSICA | MTV HD (US)" tvg-logo="https://e7.pngegg.com/pngimages/364/194/png-clipart-i-want-my-mtv-1990s-1980s-logo-others-television-text-thumbnail.png" group-title="Musica / Music",MUSICA | MTV HD (US)
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/16109.m3u8
+#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MUSICA | MTV Hits HD" tvg-logo="https://e7.pngegg.com/pngimages/364/194/png-clipart-i-want-my-mtv-1990s-1980s-logo-others-television-text-thumbnail.png" group-title="Musica / Music",MUSICA | MTV Hits HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/16113.m3u8
+#EXTINF:-1 tvg-id="mtvlive.us" tvg-name="MUSICA | MTV Live HD (US)" tvg-logo="https://e7.pngegg.com/pngimages/364/194/png-clipart-i-want-my-mtv-1990s-1980s-logo-others-television-text-thumbnail.png" group-title="Musica / Music",MUSICA | MTV Live HD (US)
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/16120.m3u8
+#EXTINF:-1 tvg-id="mtvu.us" tvg-name="MUSICA | MTV U HD" tvg-logo="https://e7.pngegg.com/pngimages/364/194/png-clipart-i-want-my-mtv-1990s-1980s-logo-others-television-text-thumbnail.png" group-title="Musica / Music",MUSICA | MTV U HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/16126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | MUSIC CHOICE 90s" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="Musica / Music",MUSICA | MUSIC CHOICE 90s
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/104499.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | MUSIC CHOICE ALTERNATIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="Musica / Music",MUSICA | MUSIC CHOICE ALTERNATIVE
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/104498.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | MUSIC CHOICE DANCE/EDM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="Musica / Music",MUSICA | MUSIC CHOICE DANCE/EDM
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/104497.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | MUSIC CHOICE HIT LIST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="Musica / Music",MUSICA | MUSIC CHOICE HIT LIST
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/104496.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | MUSIC CHOICE KIDS ONLY!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="Musica / Music",MUSICA | MUSIC CHOICE KIDS ONLY!
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/104495.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | MUSIC CHOICE KIDZ BOP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="Musica / Music",MUSICA | MUSIC CHOICE KIDZ BOP
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/104494.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | MUSIC CHOICE MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="Musica / Music",MUSICA | MUSIC CHOICE MAX
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/104500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | MUSIC CHOICE MEXICANA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="Musica / Music",MUSICA | MUSIC CHOICE MEXICANA
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/104501.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | MUSIC CHOICE POP & COUNTRY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="Musica / Music",MUSICA | MUSIC CHOICE POP & COUNTRY
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/104491.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | MUSIC CHOICE POP HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="Musica / Music",MUSICA | MUSIC CHOICE POP HITS
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/104490.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | MUSIC CHOICE POP LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="Musica / Music",MUSICA | MUSIC CHOICE POP LATINO
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/104489.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | MUSIC CHOICE R&B SOUL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="Musica / Music",MUSICA | MUSIC CHOICE R&B SOUL
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/104488.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | MUSIC CHOICE RAP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="Musica / Music",MUSICA | MUSIC CHOICE RAP
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/104487.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | MUSIC CHOICE RAP 2K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="Musica / Music",MUSICA | MUSIC CHOICE RAP 2K
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/104486.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | MUSIC CHOICE ROCK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="Musica / Music",MUSICA | MUSIC CHOICE ROCK
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/104485.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | MUSIC CHOICE THROWBACK JAMZ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="Musica / Music",MUSICA | MUSIC CHOICE THROWBACK JAMZ
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/104483.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | MUSIC CHOICE TODAYS COUNTRY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="Musica / Music",MUSICA | MUSIC CHOICE TODAYS COUNTRY
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/104482.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | MUSIC CHOICE TODDLER TUNES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="Musica / Music",MUSICA | MUSIC CHOICE TODDLER TUNES
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/104481.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | MUSIC CHOICE TROPICALES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="Musica / Music",MUSICA | MUSIC CHOICE TROPICALES
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/104480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | MUSIC CHOICE Y2K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="Musica / Music",MUSICA | MUSIC CHOICE Y2K
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/104479.m3u8
+#EXTINF:-1 tvg-id="Telehit.mx" tvg-name="MUSICA | Telehit Plus SD" tvg-logo="https://i.imgur.com/w59H4Kd.png" group-title="Musica / Music",MUSICA | Telehit Plus SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/78131.m3u8
+#EXTINF:-1 tvg-id="EPG123.42567.schedulesdirect.org" tvg-name="MUSICA | VH1 Classic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Logo_VH1_IT.png" group-title="Musica / Music",MUSICA | VH1 Classic HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/16124.m3u8
+#EXTINF:-1 tvg-id="VH1.mx" tvg-name="MUSICA | VH1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Logo_VH1_IT.png" group-title="Musica / Music",MUSICA | VH1 HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/16114.m3u8
+#EXTINF:-1 tvg-id="VH1Megahits.br" tvg-name="MUSICA | VH1 MegaHits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Logo_VH1_IT.png" group-title="Musica / Music",MUSICA | VH1 MegaHits HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/16117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | VH1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Logo_VH1_IT.png" group-title="Musica / Music",MUSICA | VH1 SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/16115.m3u8
+#EXTINF:-1 tvg-id="vh1.eastern.us" tvg-name="MUSICA | VH1+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Logo_VH1_IT.png" group-title="Musica / Music",MUSICA | VH1+ HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/16127.m3u8
+#EXTINF:-1 tvg-id="mileniotelevision.mx" tvg-name="MX | Milenio TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/640px-Milenio_Television.png" group-title="World News / Noticias",MX | Milenio TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/15844.m3u8
+#EXTINF:-1 tvg-id="nbckcra.us" tvg-name="USA | NBC Sacramento HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png" group-title="USA - Locals",USA | NBC Sacramento HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/103866.m3u8
+#EXTINF:-1 tvg-id="ratensa.10.ni" tvg-name="NICARAGUA | Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Canal_10_Nicaragua.png" group-title="Nicaragua",NICARAGUA | Canal 10
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/356.m3u8
+#EXTINF:-1 tvg-id="nicavision.12.ni" tvg-name="NICARAGUA | Canal 12" tvg-logo="https://seeklogo.com/images/N/nicavision-canal-12-logo-B92DA2E4B4-seeklogo.com.png" group-title="Nicaragua",NICARAGUA | Canal 12
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/357.m3u8
+#EXTINF:-1 tvg-id="viva.nicaragua.13.ni" tvg-name="NICARAGUA | Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Logo_Viva_Nicaragua_Canal_13.png/200px-Logo_Viva_Nicaragua_Canal_13.png" group-title="Nicaragua",NICARAGUA | Canal 13
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/358.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NICARAGUA | Vos TV HD" tvg-logo="https://seeklogo.com/images/V/vos-tv-logo-FA95964E60-seeklogo.com.png" group-title="Nicaragua",NICARAGUA | Vos TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/363.m3u8
+#EXTINF:-1 tvg-id="televicentro.nicaragua.2.ni" tvg-name="NICARAGUA | Canal 2" tvg-logo="https://seeklogo.com/images/T/televicentro-canal-2-nicaragua-logo-82E5DB9EC0-seeklogo.com.png" group-title="Nicaragua",NICARAGUA | Canal 2
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/359.m3u8
+#EXTINF:-1 tvg-id="canal.6.nicaragua.ni" tvg-name="NICARAGUA | Canal 6" tvg-logo="https://logosnicas.com/wp-content/uploads/2023/01/canal_6_2012-2017.png" group-title="Nicaragua",NICARAGUA | Canal 6
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/361.m3u8
+#EXTINF:-1 tvg-id="telenica.8.ni" tvg-name="NICARAGUA | Canal 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Telenica-canal-8.png/220px-Telenica-canal-8.png" group-title="Nicaragua",NICARAGUA | Canal 8
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/362.m3u8
+#EXTINF:-1 tvg-id="NexTV.pa" tvg-name="PANAMA |  Next TV 21" tvg-logo="https://whatthelogo.com/storage/logos/nex-canal-21-panama-188431.png" group-title="Panama",PANAMA |  Next TV 21
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/435.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Panama | 3ABN" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="Religion",Panama | 3ABN
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/20101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | Bocas TV SD" tvg-logo="https://static.wixstatic.com/media/01db50_c6f6e21137034da7bb873c587179e5ec~mv2.png/v1/fill/w_184,h_184,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/01db50_c6f6e21137034da7bb873c587179e5ec~mv2.png" group-title="Panama",PANAMA | Bocas TV SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/108199.m3u8
+#EXTINF:-1 tvg-id="CableOndaSports.pa" tvg-name="PANAMA | Cableonda Sports" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cable_onda_sports_pa_1.png" group-title="Panama",PANAMA | Cableonda Sports
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/448.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | Canal 2 FHD" tvg-logo="https://seeklogo.com/images/K/kanal-2-old-logo-A9A4B2C7B4-seeklogo.com.png" group-title="Panama",PANAMA | Canal 2 FHD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/84909.m3u8
+#EXTINF:-1 tvg-id="telemetro.panama.pa" tvg-name="PANAMA | Canal Telemetro 13 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/800px-Logo-telemetro.svg.png" group-title="Panama",PANAMA | Canal Telemetro 13 HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/437.m3u8
+#EXTINF:-1 tvg-id="EuroNews.uk" tvg-name="PANAMA | Canal Telemetro 13 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/800px-Logo-telemetro.svg.png" group-title="Panama",PANAMA | Canal Telemetro 13 SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/14499.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | Claro Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/2560px-Claro_Sports_logo.svg.png" group-title="Panama",PANAMA | Claro Sports HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/108198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | Cos FC TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cable-onda-sports-fc-pa.png" group-title="Panama",PANAMA | Cos FC TV
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/84908.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | Eco TV" tvg-logo="https://www.ecotvpanama.com/css-custom/323/images/ogimage-323.png" group-title="Panama",PANAMA | Eco TV
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/84906.m3u8
+#EXTINF:-1 tvg-id="hosannavision.pa" tvg-name="PANAMA | Hossana Vision" tvg-logo="https://hosannavision.com/site/assets/files/1/hosanna-logo.png" group-title="Panama",PANAMA | Hossana Vision
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/440.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Panama | Hossana Vision" tvg-logo="https://image.roku.com/developer_channels/prod/c14c89e6ad2e01adc6318ea8ced9a353cf5d362d3218dd6840f47585f07734d7.png" group-title="Religion",Panama | Hossana Vision
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/20102.m3u8
+#EXTINF:-1 tvg-id="CanalPlus23.pa" tvg-name="PANAMA | MAS TV 23" tvg-logo="https://mas23tv.com/wp-content/uploads/2020/02/logomas23.png" group-title="Panama",PANAMA | MAS TV 23
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/441.m3u8
+#EXTINF:-1 tvg-id="Duke.nz" tvg-name="PANAMA | RPC 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Rpc.svg/2560px-Rpc.svg.png" group-title="Panama",PANAMA | RPC 4 HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/14500.m3u8
+#EXTINF:-1 tvg-id="Duke.nz" tvg-name="PANAMA | RPC 4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Rpc.svg/2560px-Rpc.svg.png" group-title="Panama",PANAMA | RPC 4 SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/442.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | SER TV" tvg-logo="https://redtal.tv/storage/4761/unnamed-(2)-(1).png" group-title="Panama",PANAMA | SER TV
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/443.m3u8
+#EXTINF:-1 tvg-id="TVMax.pa" tvg-name="PANAMA | TV MAX 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/1200px-Logo_tvmax.png" group-title="Panama",PANAMA | TV MAX 9
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/445.m3u8
+#EXTINF:-1 tvg-id="TVNCanal2.pa" tvg-name="PANAMA | TVN HD" tvg-logo="https://seeklogo.com/images/T/tvn-logo-DD35B15F67-seeklogo.com.png" group-title="Panama",PANAMA | TVN HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/446.m3u8
+#EXTINF:-1 tvg-id="TVNCanal2.pa" tvg-name="PANAMA | TVN SD" tvg-logo="https://seeklogo.com/images/T/tvn-logo-DD35B15F67-seeklogo.com.png" group-title="Panama",PANAMA | TVN SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/14501.m3u8
+#EXTINF:-1 tvg-id="Blaze.uk" tvg-name="Paraguay |  Farra Play" tvg-logo="https://pbs.twimg.com/profile_images/1800902780401401856/fu_CN7P8_400x400.jpg" group-title="Paraguay",Paraguay |  Farra Play
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3311.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paraguay | C9N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/C9N_LOGO.jpg" group-title="Paraguay",Paraguay | C9N
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3474.m3u8
+#EXTINF:-1 tvg-id="CBSReality.uk" tvg-name="Paraguay | GEN TV" tvg-logo="https://lanacionpy.nyc3.cdn.digitaloceanspaces.com/img/gen/gen.jpg" group-title="Paraguay",Paraguay | GEN TV
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3312.m3u8
+#EXTINF:-1 tvg-id="Challenge.uk" tvg-name="Paraguay | NPY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/NPY_Logo2023.png" group-title="Paraguay",Paraguay | NPY HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3314.m3u8
+#EXTINF:-1 tvg-id="GOLD.uk" tvg-name="Paraguay | La Tele HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Teledoce_logo_2004.png" group-title="Paraguay",Paraguay | La Tele HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3310.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paraguay | Paraguay TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Paravision.jpg" group-title="Paraguay",Paraguay | Paraguay TV
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3316.m3u8
+#EXTINF:-1 tvg-id="Paravision.py" tvg-name="Paraguay | Paravision" tvg-logo="https://tv-libre.com/img/paravision.webp" group-title="Paraguay",Paraguay | Paravision
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3317.m3u8
+#EXTINF:-1 tvg-id="RPCCanal4.pa" tvg-name="Paraguay | RPC" tvg-logo="https://seeklogo.com/images/R/rpc-television-panama-logo-80CBBDFD41-seeklogo.com.png" group-title="Paraguay",Paraguay | RPC
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3318.m3u8
+#EXTINF:-1 tvg-id="SNT.py" tvg-name="Paraguay | SNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png" group-title="Paraguay",Paraguay | SNT
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3319.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paraguay | Sur TV" tvg-logo="https://pbs.twimg.com/profile_images/804016687108521985/L4G3JMvc_400x400.jpg" group-title="Paraguay",Paraguay | Sur TV
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3320.m3u8
+#EXTINF:-1 tvg-id="Telefuturo.py" tvg-name="Paraguay | Telefuturo" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.tf41997.jpg.7e703054ebb25d9832f357b1e6027b30.jpg" group-title="Paraguay",Paraguay | Telefuturo
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3321.m3u8
+#EXTINF:-1 tvg-id="TigoSports.py" tvg-name="Paraguay | Tigo Sports Plus HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ioy32l1623579346.png" group-title="Paraguay",Paraguay | Tigo Sports Plus HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3473.m3u8
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Paraguay | Tigo Sports 2" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ioy32l1623579346.png" group-title="Paraguay",Paraguay | Tigo Sports 2
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3475.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paraguay | Tigo Sports Plus" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ioy32l1623579346.png" group-title="Paraguay",Paraguay | Tigo Sports Plus
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3476.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paraguay | Trece HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/640px-Logotrececanal.png" group-title="Paraguay",Paraguay | Trece HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/101343.m3u8
+#EXTINF:-1 tvg-id="Unicanal.py" tvg-name="Paraguay | Unicanal" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Unicanal-en-vivo-Online.png" group-title="Paraguay",Paraguay | Unicanal
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3322.m3u8
+#EXTINF:-1 tvg-id="FrecuenciaLatina.pe" tvg-name="Peru |  Latina HD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Peru",Peru |  Latina HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/10088.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | America TV FHD (E)" tvg-logo="https://e-ae.americatv.com.pe/americlub-comunicado-america-television-sobre-problemas-su-senal-hd-noticia-6770-580x348-20342.jpg" group-title="Peru",Peru | America TV FHD (E)
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/10090.m3u8
+#EXTINF:-1 tvg-id="americatelevision.pe" tvg-name="Peru | America TV HD" tvg-logo="https://e-ae.americatv.com.pe/americlub-comunicado-america-television-sobre-problemas-su-senal-hd-noticia-6770-580x348-20342.jpg" group-title="Peru",Peru | America TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/10092.m3u8
+#EXTINF:-1 tvg-id="americatelevision.pe" tvg-name="Peru | America TV HD OPC 2" tvg-logo="https://e-ae.americatv.com.pe/americlub-comunicado-america-television-sobre-problemas-su-senal-hd-noticia-6770-580x348-20342.jpg" group-title="Peru",Peru | America TV HD OPC 2
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/20429.m3u8
+#EXTINF:-1 tvg-id="Peru|| ATV SD" tvg-name="Peru | ATV HD" tvg-logo="https://pbs.twimg.com/profile_images/1224014668009824258/h7ZuDhVH_400x400.jpg" group-title="Peru",Peru | ATV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/10101.m3u8
+#EXTINF:-1 tvg-id="atv.pe" tvg-name="Peru | ATV Plus HD" tvg-logo="https://pbs.twimg.com/profile_images/1224014668009824258/h7ZuDhVH_400x400.jpg" group-title="Peru",Peru | ATV Plus HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/10100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Canal N SD OPC. 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="Peru",Peru | Canal N SD OPC. 1
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/10095.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | CMD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/CMD_%28Peru%29_-_2010-2017_logo.jpg" group-title="Peru",Peru | CMD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/10096.m3u8
+#EXTINF:-1 tvg-id="Peru|| Exitosa HD" tvg-name="Peru | Exitosa HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="Peru",Peru | Exitosa HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/11533.m3u8
+#EXTINF:-1 tvg-id="Peru|| Exitosa HD" tvg-name="Peru | Exitosa TV HD (E)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="Peru",Peru | Exitosa TV HD (E)
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/20439.m3u8
+#EXTINF:-1 tvg-id="GolPeru.pe" tvg-name="Peru | Gol Peru" tvg-logo="https://i.pinimg.com/originals/74/6a/23/746a2351b447660e738281490be3b50e.png" group-title="Peru",Peru | Gol Peru
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/10093.m3u8
+#EXTINF:-1 tvg-id="GolPeru.pe" tvg-name="Peru | Gol Peru HD" tvg-logo="https://i.pinimg.com/originals/74/6a/23/746a2351b447660e738281490be3b50e.png" group-title="Peru",Peru | Gol Peru HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/10091.m3u8
+#EXTINF:-1 tvg-id="GolPeru.pe" tvg-name="Peru | Gol Peru UHD" tvg-logo="https://i.pinimg.com/originals/74/6a/23/746a2351b447660e738281490be3b50e.png" group-title="Peru",Peru | Gol Peru UHD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/20428.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Cable Peru TV HD" tvg-logo="https://fotos.pandape.com/PROD/atslogos/dd4b3d13-9b0d-46a7-8c8f-86fc299279a1_4.png" group-title="Peru",Peru | Cable Peru TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/10106.m3u8
+#EXTINF:-1 tvg-id="frecuencialatina.pe" tvg-name="Peru | Latina HD (Op. 2)" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Peru",Peru | Latina HD (Op. 2)
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/10099.m3u8
+#EXTINF:-1 tvg-id="Peru|| Latina Opc. 2" tvg-name="Peru | Latina HD (Op. 3)" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Peru",Peru | Latina HD (Op. 3)
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/20430.m3u8
+#EXTINF:-1 tvg-id="movistardeportes.pe" tvg-name="Peru | Movistar Deportes" tvg-logo="https://alcymedia.com/wp-content/uploads/2017/08/movistardeportestv.png" group-title="Peru",Peru | Movistar Deportes
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/10105.m3u8
+#EXTINF:-1 tvg-id="movistardeportes.pe" tvg-name="Peru | Movistar Deportes HD (E)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="Peru",Peru | Movistar Deportes HD (E)
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/20432.m3u8
+#EXTINF:-1 tvg-id="Peru|| Movistar Plus" tvg-name="Peru | Movistar Plus HD (E)" tvg-logo="https://media.vandalsports.com/i/640x360/7-2023/202372113311_1.jpg" group-title="Peru",Peru | Movistar Plus HD (E)
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/20433.m3u8
+#EXTINF:-1 tvg-id="panamericanatv.pe" tvg-name="Peru | Panamericana" tvg-logo="https://unicentrobogota.com/wp-content/uploads/2023/10/panamericana.png" group-title="Peru",Peru | Panamericana
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/10104.m3u8
+#EXTINF:-1 tvg-id="panamericanatv.pe" tvg-name="Peru | Panamericana HD" tvg-logo="https://unicentrobogota.com/wp-content/uploads/2023/10/panamericana.png" group-title="Peru",Peru | Panamericana HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/20434.m3u8
+#EXTINF:-1 tvg-id="perumagico.pe" tvg-name="Peru | Peru Magico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Peru_magico.png" group-title="Peru",Peru | Peru Magico
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/10102.m3u8
+#EXTINF:-1 tvg-id="Peru|| RPP TV" tvg-name="Peru | RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/RPP_TV.JPG" group-title="Peru",Peru | RPP TV
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/10109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | RPP TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/RPP_TV.JPG" group-title="Peru",Peru | RPP TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/20440.m3u8
+#EXTINF:-1 tvg-id="tvperu.pe" tvg-name="Peru | TV Peru" tvg-logo="https://cdn.www.gob.pe/uploads/document/file/389254/TV_Per%C3%BA_est%C3%A1_de_aniversario20191015-26158-5xcvea.jpg" group-title="Peru",Peru | TV Peru
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/10103.m3u8
+#EXTINF:-1 tvg-id="willax.pe" tvg-name="PERU | Willax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" group-title="Peru",PERU | Willax HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/10107.m3u8
+#EXTINF:-1 tvg-id="willax.pe" tvg-name="Peru | Willax TV HD (T)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" group-title="Peru",Peru | Willax TV HD (T)
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/20431.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Costa Rica | CristoVision TV SD" tvg-logo="https://seeklogo.com/images/C/cristovision-logo-F1F91F837B-seeklogo.com.png" group-title="Religion",Costa Rica | CristoVision TV SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/20089.m3u8
+#EXTINF:-1 tvg-id="megatv.us" tvg-name="PR  | Mega TV" tvg-logo="https://logowik.com/content/uploads/images/mega-tv-20169690.logowik.com.webp" group-title="Puerto Rico",PR  | Mega TV
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/364.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PR  | Punto 2 TV" tvg-logo="https://pbs.twimg.com/profile_images/751530537165025280/uzVEpyCs_400x400.jpg" group-title="Puerto Rico",PR  | Punto 2 TV
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/365.m3u8
+#EXTINF:-1 tvg-id="telemundowkaq.us" tvg-name="PR  | Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1214px-Telemundo_logo_2018.svg.png" group-title="Puerto Rico",PR  | Telemundo
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/366.m3u8
+#EXTINF:-1 tvg-id="univision.pr" tvg-name="PR  | TeleOnce HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Teleonce_Logo_2021.png" group-title="Puerto Rico",PR  | TeleOnce HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/367.m3u8
+#EXTINF:-1 tvg-id="wapatv.us" tvg-name="PR  | Wapa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/WAPA-TV_logo.svg/2560px-WAPA-TV_logo.svg.png" group-title="Puerto Rico",PR  | Wapa
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/368.m3u8
+#EXTINF:-1 tvg-id="wapa2deportes.us" tvg-name="PR  | Wapa 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/WAPA-TV_logo.svg/2560px-WAPA-TV_logo.svg.png" group-title="Puerto Rico",PR  | Wapa 2
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/369.m3u8
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="PR  | Wipr Canal 6" tvg-logo="https://pbs.twimg.com/profile_images/1741202005211697152/9q57m31b_400x400.jpg" group-title="Puerto Rico",PR  | Wipr Canal 6
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/370.m3u8
+#EXTINF:-1 tvg-id="univisionwlii.us" tvg-name="PR | Univision HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1200px-Logo_Univision_2013.svg.png" group-title="Puerto Rico",PR | Univision HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/78107.m3u8
+#EXTINF:-1 tvg-id="wapaamerica.us" tvg-name="PR | Wapa America" tvg-logo="https://sc.dish.com/shared/images/station-logos/WAPAA.png" group-title="Puerto Rico",PR | Wapa America
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/371.m3u8
+#EXTINF:-1 tvg-id="aandemundo.mx" tvg-name="Premium | A&E HD" tvg-logo="https://logoeps.com/wp-content/uploads/2013/07/a-e-television-vector-logo.png" group-title="Entretenimiento en Español",Premium | A&E HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2566.m3u8
+#EXTINF:-1 tvg-id="aandemundo.mx" tvg-name="Premium | A&E MX HD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/small.large.1200px-Logo_AE_Germany_svg.png.1b98f7ad4c4071f8ee40b03bfd3317bf.png.2591e498c2ff985ef94097512070a890.png" group-title="Entretenimiento en Español",Premium | A&E MX HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2565.m3u8
+#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="Premium | Animal Planet (MX) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Entretenimiento en Español",Premium | Animal Planet (MX) HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2476.m3u8
+#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="Premium | Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Entretenimiento en Español",Premium | Animal Planet HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2475.m3u8
+#EXTINF:-1 tvg-id="antena3.mx" tvg-name="Premium | Antena 3 Internacional HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png" group-title="Entretenimiento en Español",Premium | Antena 3 Internacional HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/79546.m3u8
+#EXTINF:-1 tvg-id="AXNSouth.us" tvg-name="Premium | AXN (Lat) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="Entretenimiento en Español",Premium | AXN (Lat) HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2568.m3u8
+#EXTINF:-1 tvg-id="axn.mx" tvg-name="Premium | AXN (MX) HD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/small.small.dcnrfjn-4763cb55-6830-4ec4-b6de-81491c0b160f.png.8fb6d1877edea33881bb14210d46fa24.png.e32fb164dfe71e7613952cd6aa657314.png" group-title="Entretenimiento en Español",Premium | AXN (MX) HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2567.m3u8
+#EXTINF:-1 tvg-id="comedycentral.mx" tvg-name="Premium | Comedy Central (Lat) HD" tvg-logo="https://images.seeklogo.com/logo-png/53/2/comedy-central-logo-png_seeklogo-530448.png" group-title="Entretenimiento en Español",Premium | Comedy Central (Lat) HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2575.m3u8
+#EXTINF:-1 tvg-id="comedycentral.mx" tvg-name="Premium | Comedy Central (MX) HD (A)" tvg-logo="https://images.seeklogo.com/logo-png/53/2/comedy-central-logo-png_seeklogo-530448.png" group-title="Entretenimiento en Español",Premium | Comedy Central (MX) HD (A)
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2574.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="Premium | Discovery Channel (Lat) HD" tvg-logo="https://seeklogo.com/images/D/Discovery_Channel-logo-B1541007FE-seeklogo.com.png" group-title="Entretenimiento en Español",Premium | Discovery Channel (Lat) HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2478.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="Premium | Discovery Channel (MX) HD" tvg-logo="https://seeklogo.com/images/D/Discovery_Channel-logo-B1541007FE-seeklogo.com.png" group-title="Entretenimiento en Español",Premium | Discovery Channel (MX) HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2515.m3u8
+#EXTINF:-1 tvg-id="discoveryfamilia.us" tvg-name="Premium | Discovery Familia" tvg-logo="https://iconape.com/wp-content/files/tb/285240/png/285240.png" group-title="Entretenimiento en Español",Premium | Discovery Familia
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/20443.m3u8
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="Premium | Discovery H&H (Lat) HD" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="Entretenimiento en Español",Premium | Discovery H&H (Lat) HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2540.m3u8
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="Premium | Discovery H&H (MX) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/500px-Discovery_H%26H_Logo_2022.webp.png" group-title="Entretenimiento en Español",Premium | Discovery H&H (MX) HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2539.m3u8
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="Premium | Discovery ID (MX) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="Entretenimiento en Español",Premium | Discovery ID (MX) HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2542.m3u8
+#EXTINF:-1 tvg-id="~ Discovery Science" tvg-name="Premium | Discovery Science (Lat) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="Entretenimiento en Español",Premium | Discovery Science (Lat) HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2545.m3u8
+#EXTINF:-1 tvg-id="discoveryscience.mx" tvg-name="Premium | Discovery Science (MX) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="Entretenimiento en Español",Premium | Discovery Science (MX) HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2544.m3u8
+#EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="Premium | Discovery Theater HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1200px-2015_Discovery_theater_HD_logo.svg.png" group-title="Entretenimiento en Español",Premium | Discovery Theater HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2547.m3u8
+#EXTINF:-1 tvg-id="tlc.mx" tvg-name="Premium | Discovery TLC (MX) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/TLC_Discovery.png" group-title="Entretenimiento en Español",Premium | Discovery TLC (MX) HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2553.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-name="Premium | Discovery Turbo (Lat) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Entretenimiento en Español",Premium | Discovery Turbo (Lat) HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2556.m3u8
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="Premium | Discovery World HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Discovery_World_Latinoamerica_black.png" group-title="Entretenimiento en Español",Premium | Discovery World HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2551.m3u8
+#EXTINF:-1 tvg-id="eentertainment.mx" tvg-name="Premium | E! Entertainment HD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/small.E-Entertainment-Logo.png.452f715cf300ec1ef4a084f6b21ab993.png" group-title="Entretenimiento en Español",Premium | E! Entertainment HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2569.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premium | El Garage TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png" group-title="Entretenimiento en Español",Premium | El Garage TV
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3167.m3u8
+#EXTINF:-1 tvg-id="elgourmet.mx" tvg-name="Premium | El Gourmet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="Entretenimiento en Español",Premium | El Gourmet
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3169.m3u8
+#EXTINF:-1 tvg-id="filmandarts.mx" tvg-name="Premium | Film & Arts HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="Entretenimiento en Español",Premium | Film & Arts HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2579.m3u8
+#EXTINF:-1 tvg-id="foodnetwork.mx" tvg-name="Premium | Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="Entretenimiento en Español",Premium | Food Network
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3171.m3u8
+#EXTINF:-1 tvg-id="glitz.mx" tvg-name="Premium | GLITZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Glitz_logo.png" group-title="Entretenimiento en Español",Premium | GLITZ
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3173.m3u8
+#EXTINF:-1 tvg-id="glitz.mx" tvg-name="Premium | Glitz HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Glitz_logo.png" group-title="Entretenimiento en Español",Premium | Glitz HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2576.m3u8
+#EXTINF:-1 tvg-id="history2.mx" tvg-name="Premium | H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="Entretenimiento en Español",Premium | H2
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3162.m3u8
+#EXTINF:-1 tvg-id="history2.mx" tvg-name="Premium | H2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="Entretenimiento en Español",Premium | H2 HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2559.m3u8
+#EXTINF:-1 tvg-id="historychannel.mx" tvg-name="Premium | History Channel" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/History-Channel-logo.png" group-title="Entretenimiento en Español",Premium | History Channel
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3163.m3u8
+#EXTINF:-1 tvg-id="HistorySouth.us" tvg-name="Premium | History Channel (Lat) HD" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/History-Channel-logo.png" group-title="Entretenimiento en Español",Premium | History Channel (Lat) HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2558.m3u8
+#EXTINF:-1 tvg-id="historychannel.mx" tvg-name="Premium | History Channel (MX) HD" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/History-Channel-logo.png" group-title="Entretenimiento en Español",Premium | History Channel (MX) HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2557.m3u8
+#EXTINF:-1 tvg-id="holatv.co" tvg-name="Premium | Hola TV HD" tvg-logo="https://www.periodicopublicidad.com/media/lapublicidad/images/2021/11/11/20211111090909109379.png" group-title="Entretenimiento en Español",Premium | Hola TV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2577.m3u8
+#EXTINF:-1 tvg-id="ISatSouth.us" tvg-name="Premium | I SAT (Lat) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/2560px-I.Sat_logo.svg.png" group-title="Entretenimiento en Español",Premium | I SAT (Lat) HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2584.m3u8
+#EXTINF:-1 tvg-id="lifetime.mx" tvg-name="Premium | Lifetime HD" tvg-logo="https://seeklogo.com/images/L/lifetime-logo-F87151725C-seeklogo.com.png" group-title="Entretenimiento en Español",Premium | Lifetime HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2573.m3u8
+#EXTINF:-1 tvg-id="MasChicPanregional.ar" tvg-name="Premium | MAS CHIC (Lat) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1280px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="Entretenimiento en Español",Premium | MAS CHIC (Lat) HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2586.m3u8
+#EXTINF:-1 tvg-id="mtv.mx" tvg-name="Premium | MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/MTV_New_Official_Logo_2021.png" group-title="Entretenimiento en Español",Premium | MTV
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premium | MTV Hits" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~e7e36eb71b13d1b4.png/1200x630/crop-from/top/quality/80/mtv-hits-france.png" group-title="Entretenimiento en Español",Premium | MTV Hits
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Much Music" tvg-logo="https://seeklogo.com/images/M/MuchMusic-logo-7E42B1AE67-seeklogo.com.png" group-title="Entretenimiento en Español",Premium | Much Music
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3189.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicSouth.us" tvg-name="Premium | Nat Geo (Lat) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/National_Geographic_Logo_2016.png" group-title="Entretenimiento en Español",Premium | Nat Geo (Lat) HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2560.m3u8
+#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="Premium | Nat Geo (MX) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/National_Geographic_Logo_2016.png" group-title="Entretenimiento en Español",Premium | Nat Geo (MX) HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2561.m3u8
+#EXTINF:-1 tvg-id="natgeomundo.us" tvg-name="Premium | Nat Geo Mundo HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Nat_Geo_Mundo.svg" group-title="Entretenimiento en Español",Premium | Nat Geo Mundo HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2564.m3u8
+#EXTINF:-1 tvg-id="natgeowild.mx" tvg-name="Premium | Nat Geo Wild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/800px-Nat_Geo_Wild_logo.png" group-title="Entretenimiento en Español",Premium | Nat Geo Wild HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2563.m3u8
+#EXTINF:-1 tvg-id="sundancetv.mx" tvg-name="Premium | Sundance HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Sundance_Channel_Logo.png" group-title="Entretenimiento en Español",Premium | Sundance HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2580.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Tastemade HD" tvg-logo="https://miro.medium.com/v2/resize:fit:2400/1*aQfL6JrXMI-kCNNt-1DFsQ.png" group-title="Entretenimiento en Español",Premium | Tastemade HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/101330.m3u8
+#EXTINF:-1 tvg-id="tntseries.mx" tvg-name="Premium | TNT Novelas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/1200px-Logo_TNT_Novelas.png" group-title="Entretenimiento en Español",Premium | TNT Novelas HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3176.m3u8
+#EXTINF:-1 tvg-id="trutv.mx" tvg-name="Premium | TruTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="Entretenimiento en Español",Premium | TruTV HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3177.m3u8
+#EXTINF:-1 tvg-id="tveinternacional.mx" tvg-name="Premium | TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1200px-Logo_TVE-Internacional.svg.png" group-title="Entretenimiento en Español",Premium | TVE
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3191.m3u8
+#EXTINF:-1 tvg-id="unicable.mx" tvg-name="Premium | Unicable HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Unicable2007.png" group-title="Entretenimiento en Español",Premium | Unicable HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2587.m3u8
+#EXTINF:-1 tvg-id="vh1.mx" tvg-name="Premium | VH1 MegaHits" tvg-logo="https://seeklogo.com/images/V/VH1-logo-3347484A9F-seeklogo.com.png" group-title="Entretenimiento en Español",Premium | VH1 MegaHits
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/3182.m3u8
+#EXTINF:-1 tvg-id="worldofbusinessideas.mx" tvg-name="Premium | Wobi HD" tvg-logo="https://seeklogo.com/images/W/wobi-logo-81982B4AF8-seeklogo.com.png" group-title="Entretenimiento en Español",Premium | Wobi HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/2588.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RD  | ZOL FM TV" tvg-logo="http://zuiowy.net:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="Republica Dominicana",RD  | ZOL FM TV
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/650.m3u8
+#EXTINF:-1 tvg-id="cdn.deportes.do" tvg-name="RD |  CDN2" tvg-logo="http://zuiowy.net:8080/images/0d565e9292cae233c99d9be22dd00c8d.png" group-title="Republica Dominicana",RD |  CDN2
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/619.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RD |  Cinevision Canal 19" tvg-logo="http://zuiowy.net:8080/images/eacd428b0e47580a3782781079ce6bf4.jpg" group-title="Republica Dominicana",RD |  Cinevision Canal 19
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/625.m3u8
+#EXTINF:-1 tvg-id="megavision.do" tvg-name="RD |  Mega Vision" tvg-logo="http://www.claro.com.do/portal/do/gc/canales/1492784376091-Imagen.png" group-title="Republica Dominicana",RD |  Mega Vision
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/639.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RD |  Romana TV Canal 42" tvg-logo="http://zuiowy.net:8080/images/9a56fe9b3116ba5df827acea96f4c4e6.jpg" group-title="Republica Dominicana",RD |  Romana TV Canal 42
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/626.m3u8
+#EXTINF:-1 tvg-id="teleantillas.do" tvg-name="RD |  Teleantillas Canal 2" tvg-logo="http://zuiowy.net:8080/images/afe0bad83c1f4601d1c152acb0eed973.jpg" group-title="Republica Dominicana",RD |  Teleantillas Canal 2
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/607.m3u8
+#EXTINF:-1 tvg-id="ame.47.do" tvg-name="RD | AME 47" tvg-logo="http://zuiowy.net:8080/images/05e6c877047871b5c4349b0140109a70.png" group-title="Republica Dominicana",RD | AME 47
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/623.m3u8
+#EXTINF:-1 tvg-id="antena.latina.do" tvg-name="RD | Antena Latina HD" tvg-logo="http://zuiowy.net:8080/images/a609a1376064710ca463db95571dc207.png" group-title="Republica Dominicana",RD | Antena Latina HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/611.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RD | Canal 25 Santiago" tvg-logo="http://zuiowy.net:8080/images/739b023fac380b41c7ff5d4e509c745f.png" group-title="Republica Dominicana",RD | Canal 25 Santiago
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/627.m3u8
+#EXTINF:-1 tvg-id="cdn.noticias.do" tvg-name="RD | CDN  HD" tvg-logo="https://www.arecoa.com/wp-content/uploads/2019/08/9aa23ad9-logo-nuevo-cdn.png" group-title="Republica Dominicana",RD | CDN  HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/617.m3u8
+#EXTINF:-1 tvg-id="KMCI.us" tvg-name="RD | CDN Sport Max SD" tvg-logo="http://zuiowy.net:8080/images/0afa8bf094a553667bce67d887bb195e.png" group-title="Republica Dominicana",RD | CDN Sport Max SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/618.m3u8
+#EXTINF:-1 tvg-id="certv.4.do" tvg-name="RD | CERTV" tvg-logo="http://zuiowy.net:8080/images/92b74a83d25a388adf4ea71dcc34fa07.png" group-title="Republica Dominicana",RD | CERTV
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/608.m3u8
+#EXTINF:-1 tvg-id="cielo.do" tvg-name="RD | Cielo TV" tvg-logo="https://i.imgur.com/2utTFFL.png" group-title="Republica Dominicana",RD | Cielo TV
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/636.m3u8
+#EXTINF:-1 tvg-id="color.vision.do" tvg-name="RD | Color Vision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Color_Vision.png" group-title="Republica Dominicana",RD | Color Vision
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/612.m3u8
+#EXTINF:-1 tvg-id="Canal15.cr" tvg-name="RD | Digital 15" tvg-logo="http://zuiowy.net:8080/images/f774fb4fdf3bfc3bb5a14ef5b3e8f354.jpg" group-title="Republica Dominicana",RD | Digital 15
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/616.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RD | GDM TV Studio" tvg-logo="http://zuiowy.net:8080/images/89e3433360dd5f028d220b660446e3b2.jpg" group-title="Republica Dominicana",RD | GDM TV Studio
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/634.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RD | GH Television Canal 10" tvg-logo="http://zuiowy.net:8080/images/c5f66c9cda800d1bfa85239e9c0b7fdd.jpeg" group-title="Republica Dominicana",RD | GH Television Canal 10
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/637.m3u8
+#EXTINF:-1 tvg-id="la.voz.maria.do" tvg-name="RD | La voz de Maria" tvg-logo="https://static.wixstatic.com/media/7df2f1_1e3c21cc82db4e75a4f579b8454c17b1.png/v1/fill/w_212,h_168,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/7df2f1_1e3c21cc82db4e75a4f579b8454c17b1.png" group-title="Religion",RD | La voz de Maria
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/20103.m3u8
+#EXTINF:-1 tvg-id="telemicro.do" tvg-name="RD | Microvision TV" tvg-logo="http://zuiowy.net:8080/images/bf37995af2469389d6ea8b13fd209010.jpg" group-title="Republica Dominicana",RD | Microvision TV
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/621.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RD | Orbit TV" tvg-logo="http://zuiowy.net:8080/images/ee1697e6f5e7603ab31176b7181f159b.png" group-title="Republica Dominicana",RD | Orbit TV
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/635.m3u8
+#EXTINF:-1 tvg-id="red.nacional.noticias.do" tvg-name="RD | RNN 27" tvg-logo="http://zuiowy.net:8080/images/6eed45b9327120cabad6916919a9a600.jpg" group-title="Republica Dominicana",RD | RNN 27
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/647.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RD | Tele Caribe" tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/08/TELECARIBE-341x400.jpeg" group-title="Republica Dominicana",RD | Tele Caribe
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/640.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RD | Telecanal 28 SD" tvg-logo="http://zuiowy.net:8080/images/14f85da8d412c162d8be8f6d11861b6f.jpg" group-title="Republica Dominicana",RD | Telecanal 28 SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/646.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RD | Telecontacto" tvg-logo="http://zuiowy.net:8080/images/0caf2f2bb8f4b98ac6ee4d4b6028a1cc.png" group-title="Republica Dominicana",RD | Telecontacto
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/652.m3u8
+#EXTINF:-1 tvg-id="telemicro.do" tvg-name="RD | Telemicro" tvg-logo="http://zuiowy.net:8080/images/18e6124c727949b6f4178ef43e0032e8.png" group-title="Republica Dominicana",RD | Telemicro
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/609.m3u8
+#EXTINF:-1 tvg-id="telemicro.internacional.do" tvg-name="RD | Telemicro INTER HD" tvg-logo="http://zuiowy.net:8080/images/70b155d343b0ba873deac08ed5e3ef16.jpg" group-title="Republica Dominicana",RD | Telemicro INTER HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/610.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RD | Telenord 10" tvg-logo="http://zuiowy.net:8080/images/8ad7e882b276fa14ef1aa8c404f7cc64.jpg" group-title="Republica Dominicana",RD | Telenord 10
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/631.m3u8
+#EXTINF:-1 tvg-id="teleradio.america.do" tvg-name="RD | CDN Sports Max" tvg-logo="http://zuiowy.net:8080/images/8704cf883b6425a37ea74c37fab1852c.png" group-title="Republica Dominicana",RD | CDN Sports Max
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/638.m3u8
+#EXTINF:-1 tvg-id="Telesistema.hn" tvg-name="RD | Telesistema Canal 11" tvg-logo="https://telesistema11.com.do/themes/telesistemas/assets/img/logo-telesistemas.png" group-title="Republica Dominicana",RD | Telesistema Canal 11
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/613.m3u8
+#EXTINF:-1 tvg-id="telesistema.do" tvg-name="RD | Telesistema HD" tvg-logo="https://i.imgur.com/S45KLod.png" group-title="Republica Dominicana",RD | Telesistema HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/614.m3u8
+#EXTINF:-1 tvg-id="teleunion.do" tvg-name="RD | Teleunion" tvg-logo="https://i.imgur.com/CXLli5j.jpg" group-title="Republica Dominicana",RD | Teleunion
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/644.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RD | Television Dominicana HD" tvg-logo="http://zuiowy.net:8080/images/bbfa0c6e91d8321b577f1ea39018ba05.jpg" group-title="Republica Dominicana",RD | Television Dominicana HD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/80205.m3u8
+#EXTINF:-1 tvg-id="teleuniverso.do" tvg-name="RD |Teleuniverso 29 SD" tvg-logo="http://zuiowy.net:8080/images/ed0ed39cec39a4f97701debf5a13fa1d.jpg" group-title="Republica Dominicana",RD |Teleuniverso 29 SD
+http://zuiowy.net:8080/live/yeisonhernandez3/brut54bb9/620.m3u8
