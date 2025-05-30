@@ -973,3 +973,561 @@ http://latinflix.online:80/Bzkrlasos0323/d3v3WEjxgMY7/84574.ts
 http://latinflix.online:80/Bzkrlasos0323/d3v3WEjxgMY7/146651.ts
 #EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" tvg-logo="https://i.ibb.co/y5GYMn4/cartihjgjh.png" group-title="INFANTILES",CARTOONITO
 http://latinflix.online:80/Bzkrlasos0323/d3v3WEjxgMY7/146652.ts
+#EXTINF:-1,LA_SD:PAN:SER TV 11
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115043
+#EXTINF:-1,LA: 5 STARMAX
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115044
+#EXTINF:-1,LA: A&E
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115045
+#EXTINF:-1,LA: ACTION MAX
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115046
+#EXTINF:-1,LA: AMC
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115047
+#EXTINF:-1,LA: ANIMAL PLANET
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115048
+#EXTINF:-1,LA: AXN
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115049
+#EXTINF:-1,LA: AZTECA 7
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115050
+#EXTINF:-1,LA: AZTECA CLIC
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115051
+#EXTINF:-1,LA: AZTECA CORAZON
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115052
+#EXTINF:-1,LA: BABY TV
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115053
+#EXTINF:-1,LA: BANDAMAX
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115054
+#EXTINF:-1,LA: BBC WORLD NEWS
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115055
+#EXTINF:-1,LA: BOOMERANG
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115056
+#EXTINF:-1,LA: CANAL 11
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115057
+#EXTINF:-1,LA: CANAL 13 CHILE
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115058
+#EXTINF:-1,LA: CARACOL
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115059
+#EXTINF:-1,LA: CARIB ESPN (D)
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115060
+#EXTINF:-1,LA: CARTOON NETWORK
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115061
+#EXTINF:-1,LA: CINE CANAL
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115062
+#EXTINF:-1,LA: CINEMA 28 PPV
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115063
+#EXTINF:-1,LA: CINEMA 30 PPV
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115064
+#EXTINF:-1,LA: CINEMA 31 PPV
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115065
+#EXTINF:-1,LA: CINEMA 33 PPV
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115066
+#EXTINF:-1,LA: CINEMA 36 PPV
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115067
+#EXTINF:-1,LA: CINEMA 37 PPV
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115068
+#EXTINF:-1,LA: CINEMA DINAMITA
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115069
+#EXTINF:-1,LA: CINEMAX
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115070
+#EXTINF:-1,LA: CINEMAX ACTION
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115071
+#EXTINF:-1,LA: CINEMAX EAST
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115072
+#EXTINF:-1,LA: CLARO
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115073
+#EXTINF:-1,LA: CLARO CINEMA
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115074
+#EXTINF:-1,LA: COMEDY CENTRAL
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115075
+#EXTINF:-1,LA: CURACAO_TV DIRECT 13
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115076
+#EXTINF:-1,LA: DIRECTV SPORTS +
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115077
+#EXTINF:-1,LA: DIRECTVSP 1
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115078
+#EXTINF:-1,LA: DIRECTVSP 2
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115079
+#EXTINF:-1,LA: DISCOVERY CHANNEL
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115080
+#EXTINF:-1,LA: DISCOVERY CIVILIZATION
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115081
+#EXTINF:-1,LA: DISCOVERY HOME & HEALTH
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115082
+#EXTINF:-1,LA: DISCOVERY INVESTIGATION
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115083
+#EXTINF:-1,LA: DISCOVERY KIDS
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115084
+#EXTINF:-1,LA: DISCOVERY SCIENCE
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115085
+#EXTINF:-1,LA: DISCOVERY THEATER
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115086
+#EXTINF:-1,LA: DISCOVERY TURBO
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115087
+#EXTINF:-1,LA: DISNEY CHANNEL
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115088
+#EXTINF:-1,LA: DISNEY JR
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115089
+#EXTINF:-1,LA: DISNEY XD
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115090
+#EXTINF:-1,LA: EC_DIRECTV SPORT
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115091
+#EXTINF:-1,LA: ECO TV
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115092
+#EXTINF:-1,LA: EL GARAGE TV
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115093
+#EXTINF:-1,LA: EL GOURMET
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115094
+#EXTINF:-1,LA: ESPN
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115095
+#EXTINF:-1,LA: ESPN 2
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115096
+#EXTINF:-1,LA: ESPN 3
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115097
+#EXTINF:-1,LA: FORO TV
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115098
+#EXTINF:-1,LA: FUTV (COSTA RICA)
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115099
+#EXTINF:-1,LA: FX
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115100
+#EXTINF:-1,LA: GALAVISION
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115101
+#EXTINF:-1,LA: GLITZ
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115102
+#EXTINF:-1,LA: GOLDEN
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115103
+#EXTINF:-1,LA: GOLDEN PREMIER
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115104
+#EXTINF:-1,LA: GOLTV
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115105
+#EXTINF:-1,LA: H2
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115106
+#EXTINF:-1,LA: HBO
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115107
+#EXTINF:-1,LA: HBO 2
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115108
+#EXTINF:-1,LA: HBO 2 WEST
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115109
+#EXTINF:-1,LA: HBO FAMILY
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115110
+#EXTINF:-1,LA: HBO PLUS
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115111
+#EXTINF:-1,LA: HBO SIGNATURE
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115112
+#EXTINF:-1,LA: HBO WEST
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115113
+#EXTINF:-1,LA: HOLA! TV
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115114
+#EXTINF:-1,LA: HTV
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115115
+#EXTINF:-1,LA: ID
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115116
+#EXTINF:-1,LA: INDIEPLEX
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115117
+#EXTINF:-1,LA: ISAT
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115118
+#EXTINF:-1,LA: LIFETIME
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115119
+#EXTINF:-1,LA: MASCHIC
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115120
+#EXTINF:-1,LA: MAX UP
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115121
+#EXTINF:-1,LA: MIAMI TV
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115122
+#EXTINF:-1,LA: MOREMAX
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115123
+#EXTINF:-1,LA: MOVIEPLEX
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115124
+#EXTINF:-1,LA: MULTIMEDIOS TELEVISION
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115125
+#EXTINF:-1,LA: NAT GEO
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115126
+#EXTINF:-1,LA: NAT GEO WILD
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115127
+#EXTINF:-1,LA: NICK 2
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115128
+#EXTINF:-1,LA: NICK JR
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115129
+#EXTINF:-1,LA: NICKELODEON
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115130
+#EXTINF:-1,LA: NTN 24
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115131
+#EXTINF:-1,LA: OUTERMAX
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115132
+#EXTINF:-1,LA: PAN TELEMETRO 13
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115133
+#EXTINF:-1,LA: PAN_:TV MAX 9
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115134
+#EXTINF:-1,LA: PAN_RPC 4
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115135
+#EXTINF:-1,LA: PAN_SER TV CANAL 11
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115136
+#EXTINF:-1,LA: PAN_TVN 2
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115137
+#EXTINF:-1,LA: PARAMOUNT
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115138
+#EXTINF:-1,LA: PASIONES
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115139
+#EXTINF:-1,LA: RCN
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115140
+#EXTINF:-1,LA: RD TELEFUTURO
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115141
+#EXTINF:-1,LA: RD TELEMICRO
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115142
+#EXTINF:-1,LA: SHOWTIME
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115143
+#EXTINF:-1,LA: SHOWTIME BEYOND
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115144
+#EXTINF:-1,LA: SHOWTIME EAST
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115145
+#EXTINF:-1,LA: SHOWTIME WEST
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115146
+#EXTINF:-1,LA: SONY
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115147
+#EXTINF:-1,LA: SPACE
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115148
+#EXTINF:-1,LA: STAR
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115149
+#EXTINF:-1,LA: STAR ACTION
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115150
+#EXTINF:-1,LA: STAR CLASSIC
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115151
+#EXTINF:-1,LA: STAR MOVIES
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115152
+#EXTINF:-1,LA: STAR SPORT2 CHILE
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115153
+#EXTINF:-1,LA: STAR SPORTS
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115154
+#EXTINF:-1,LA: STAR SPORTS 1
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115155
+#EXTINF:-1,LA: STAR SPORTS 2
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115156
+#EXTINF:-1,LA: STAR SPORTS 3
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115157
+#EXTINF:-1,LA: STARZ
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115158
+#EXTINF:-1,LA: STARZ CINEMA
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115159
+#EXTINF:-1,LA: STARZ CINEMA WEST
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115160
+#EXTINF:-1,LA: STARZ COMEDY
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115161
+#EXTINF:-1,LA: STARZ EAST
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115162
+#EXTINF:-1,LA: STARZ ENCORE CLASSIC
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115163
+#EXTINF:-1,LA: STARZ ENCORE FAMILY
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115164
+#EXTINF:-1,LA: STARZ KIDS & FAMILY
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115165
+#EXTINF:-1,LA: STUDIO UNIVERSAL
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115166
+#EXTINF:-1,LA: SUNDANCE
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115167
+#EXTINF:-1,LA: SUR_PE_ANT TV
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115168
+#EXTINF:-1,LA: SYFY
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115169
+#EXTINF:-1,LA: TBS
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115170
+#EXTINF:-1,LA: TCM
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115171
+#EXTINF:-1,LA: TELEFE
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115172
+#EXTINF:-1,LA: TELEMUNDO BOSTON
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115173
+#EXTINF:-1,LA: TELEMUNDO CHICAGO
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115174
+#EXTINF:-1,LA: TELEMUNDO INTERNACIONAL
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115175
+#EXTINF:-1,LA: TELEMUNDO LAMPA
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115176
+#EXTINF:-1,LA: TELESISTEMA
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115177
+#EXTINF:-1,LA: TIGO PARAGUAY1
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115178
+#EXTINF:-1,LA: TIGO PARAGUAY2
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115179
+#EXTINF:-1,LA: TIGO SPORT CR 1
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115180
+#EXTINF:-1,LA: TLC
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115181
+#EXTINF:-1,LA: TNT
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115182
+#EXTINF:-1,LA: TNT SERIES
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115183
+#EXTINF:-1,LA: TNT SPORTS (ARG)
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115184
+#EXTINF:-1,LA: TRU TV
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115185
+#EXTINF:-1,LA: TUDN
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115186
+#EXTINF:-1,LA: UNICABLE
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115187
+#EXTINF:-1,LA: UNIMAS
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115188
+#EXTINF:-1,LA: UNIMAS (NEW YORK)
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115189
+#EXTINF:-1,LA: UNIMAS ESTE
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115190
+#EXTINF:-1,LA: UNIMAS GEORGIA
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115191
+#EXTINF:-1,LA: UNIVERSAL CHANNEL
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115192
+#EXTINF:-1,LA: UNIVISION
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115193
+#EXTINF:-1,LA: UNIVISION (NEW YORK)
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115194
+#EXTINF:-1,LA: UNIVISION 23 (DALLAS)
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115195
+#EXTINF:-1,LA: UNIVISION DALLAS
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115196
+#EXTINF:-1,LA: UNIVISION TELENOVELAS
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115197
+#EXTINF:-1,LA: UR_VTV
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115198
+#EXTINF:-1,LA: VH1
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115199
+#EXTINF:-1,LA: VIP BR FOX
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115200
+#EXTINF:-1,LA: WARNER CHANNEL
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/115201
+#EXTINF:-1,Events 21
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120057
+#EXTINF:-1,Events 22
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120058
+#EXTINF:-1,Events 23
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120059
+#EXTINF:-1,Events 24
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120060
+#EXTINF:-1,Events 25
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120061
+#EXTINF:-1,Events 26
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120062
+#EXTINF:-1,Events 27
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120063
+#EXTINF:-1,Events 28
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120064
+#EXTINF:-1,Events 29
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120065
+#EXTINF:-1,Events 30
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120066
+#EXTINF:-1,Events 31
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120067
+#EXTINF:-1,Events 32
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120068
+#EXTINF:-1,MEX: A&E
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120069
+#EXTINF:-1,MEX: A3 SERIES
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120070
+#EXTINF:-1,MEX: ADN 40
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120071
+#EXTINF:-1,MEX: AL JAZEERA
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120072
+#EXTINF:-1,MEX: AMC
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120073
+#EXTINF:-1,MEX: ANIMAL PLANET
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120074
+#EXTINF:-1,MEX: ANTENA 3
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120075
+#EXTINF:-1,MEX: AXN
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120076
+#EXTINF:-1,MEX: AYM SPORTS
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120077
+#EXTINF:-1,MEX: AZ CINEMA
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120078
+#EXTINF:-1,MEX: AZ CORAZON
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120079
+#EXTINF:-1,MEX: AZTECA 7
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120080
+#EXTINF:-1,MEX: AZTECA UNO
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120081
+#EXTINF:-1,MEX: BABY FIRST
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120082
+#EXTINF:-1,MEX: BABY TV
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120083
+#EXTINF:-1,MEX: BANDAMAX
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120084
+#EXTINF:-1,MEX: BBC WORLD NEWS
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120085
+#EXTINF:-1,MEX: BITME
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120086
+#EXTINF:-1,MEX: CANAL 26
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120087
+#EXTINF:-1,MEX: CANAL 8
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120088
+#EXTINF:-1,MEX: CANAL DE LAS ESTRELLAS
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120089
+#EXTINF:-1,MEX: CARTOON NETWORK
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120090
+#EXTINF:-1,MEX: CINECANAL
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120091
+#EXTINF:-1,MEX: CINEMAX
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120092
+#EXTINF:-1,MEX: CNN EN ESPAÑOL
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120093
+#EXTINF:-1,MEX: CNN INT
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120094
+#EXTINF:-1,MEX: COMEDY CENTRAL
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120095
+#EXTINF:-1,MEX: DE PELICULA
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120096
+#EXTINF:-1,MEX: DISCOVERY CHANNEL
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120097
+#EXTINF:-1,MEX: DISCOVERY CIVILIZATION
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120098
+#EXTINF:-1,MEX: DISCOVERY H&H
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120099
+#EXTINF:-1,MEX: DISCOVERY KIDS
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120100
+#EXTINF:-1,MEX: DISCOVERY SCIENCE
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120101
+#EXTINF:-1,MEX: DISCOVERY THEATER
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120102
+#EXTINF:-1,MEX: DISCOVERY TURBO
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120103
+#EXTINF:-1,MEX: DISCOVERY WORLD
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120104
+#EXTINF:-1,MEX: DISNEY CHANNEL
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120105
+#EXTINF:-1,MEX: DISNEY JR
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120106
+#EXTINF:-1,MEX: DISTRITO COMEDIA
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120107
+#EXTINF:-1,MEX: DW
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120108
+#EXTINF:-1,MEX: E! ENTERTAINMENT
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120109
+#EXTINF:-1,MEX: EL GOURMET
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120110
+#EXTINF:-1,MEX: ESPN
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120111
+#EXTINF:-1,MEX: ESPN 2
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120112
+#EXTINF:-1,MEX: ESPN 3
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120113
+#EXTINF:-1,MEX: ESPN EXTRA
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120114
+#EXTINF:-1,MEX: FILM & ARTS
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120115
+#EXTINF:-1,MEX: FOOD NETWORK
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120116
+#EXTINF:-1,MEX: FOX NEWS
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120117
+#EXTINF:-1,MEX: FOX SPORTS 1
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120118
+#EXTINF:-1,MEX: FOX SPORTS 2  [Live During Events Only]
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120119
+#EXTINF:-1,MEX: FX
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120120
+#EXTINF:-1,MEX: GARAGE TV
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120121
+#EXTINF:-1,MEX: GLITZ
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120122
+#EXTINF:-1,MEX: GOLDEN
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120123
+#EXTINF:-1,MEX: GOLDEN EDGE
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120124
+#EXTINF:-1,MEX: GOLDEN PLUS
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120125
+#EXTINF:-1,MEX: GOLF
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120126
+#EXTINF:-1,MEX: HISTORY
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120127
+#EXTINF:-1,MEX: HLN
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120128
+#EXTINF:-1,MEX: HOLA TV
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120129
+#EXTINF:-1,MEX: I SAT
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120130
+#EXTINF:-1,MEX: IMAGEN TV
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120131
+#EXTINF:-1,MEX: INVESTIGATION DISCOVERY
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120132
+#EXTINF:-1,MEX: LIFETIME
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120133
+#EXTINF:-1,MEX: MAS CHIC
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120134
+#EXTINF:-1,MEX: MEXIQUENSE
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120135
+#EXTINF:-1,MEX: Milenio
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120136
+#EXTINF:-1,MEX: MTV
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120137
+#EXTINF:-1,MEX: MTV HITS
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120138
+#EXTINF:-1,MEX: MTV LIVE
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120139
+#EXTINF:-1,MEX: MULTIMEDIOS
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120140
+#EXTINF:-1,MEX: NAT GEO
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120141
+#EXTINF:-1,MEX: NAT GEO WILD
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120142
+#EXTINF:-1,MEX: NICK 2
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120143
+#EXTINF:-1,MEX: NICK JR
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120144
+#EXTINF:-1,MEX: NICKELODEON
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120145
+#EXTINF:-1,MEX: NICKTOONS
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120146
+#EXTINF:-1,MEX: PARAMOUNT CHANNEL
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120147
+#EXTINF:-1,MEX: RMS
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120148
+#EXTINF:-1,MEX: SONY CHANNEL
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120149
+#EXTINF:-1,MEX: SPACE
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120150
+#EXTINF:-1,MEX: STAR CHANNEL
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120151
+#EXTINF:-1,MEX: STAR TVE
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120152
+#EXTINF:-1,MEX: STUDIO UNIVERSAL
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120153
+#EXTINF:-1,MEX: SYFY
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120154
+#EXTINF:-1,MEX: TBS
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120155
+#EXTINF:-1,MEX: TCM
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120156
+#EXTINF:-1,MEX: TDN
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120157
+#EXTINF:-1,MEX: TELEFORMULA
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120158
+#EXTINF:-1,MEX: TELEHIT PLUS
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120159
+#EXTINF:-1,MEX: TELEMUNDO MEXICO
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120160
+#EXTINF:-1,MEX: TELENOVELAS
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120161
+#EXTINF:-1,MEX: TELERITMO
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120162
+#EXTINF:-1,MEX: TELEVISA
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120163
+#EXTINF:-1,MEX: TLC
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120164
+#EXTINF:-1,MEX: TNT
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120165
+#EXTINF:-1,MEX: TNT SERIES
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120166
+#EXTINF:-1,MEX: TOONCAST
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120167
+#EXTINF:-1,MEX: TRU TV
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120168
+#EXTINF:-1,MEX: TV MAS
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120169
+#EXTINF:-1,MEX: TVC DEPORTES
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120170
+#EXTINF:-1,MEX: UNICABLE
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120171
+#EXTINF:-1,MEX: UNIVERSAL CHANNEL
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120172
+#EXTINF:-1,MEX: VH1 CLASSIC
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120173
+#EXTINF:-1,MEX: VTV
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120174
+#EXTINF:-1,MEX: WARNER
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120175
+#EXTINF:-1,MEX: WOBI
+http://lunar.pm:8080/Oxendine1/xdCpRkbb4RrQ/120176
