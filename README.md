@@ -2077,3 +2077,29 @@ https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
 https://v4.tustreaming.cl/tevexinter/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g9j0ze8.png" group-title="Travel",Turistik TV (720p)
 https://5fa5de1a545ae.streamlock.net/8030/8030/.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/daznbar1.png" tvg-id="fifa_club_world_cup_-_borussia_dortmund_vs_monterrey" tvg-name="FIFA Club World Cup - Borussia Dortmund vs Monterrey",03:00 - FIFA Club World Cup - Borussia Dortmund vs Monterrey - ELEVEN DAZN 1 HD
+http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/daznbar1.png" tvg-id="fifa_club_world_cup_-_borussia_dortmund_vs_monterrey" tvg-name="FIFA Club World Cup - Borussia Dortmund vs Monterrey",03:00 - FIFA Club World Cup - Borussia Dortmund vs Monterrey - ELEVEN DAZN 1 HD
+http://127.0.0.1:6878/ace/getstream?id=3c7972e3c1c3a155ccc99efa61c86c83a1da752a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QFndVFJ/euro2.png" tvg-id="fifa_club_world_cup_-_borussia_dortmund_vs_monterrey" tvg-name="FIFA Club World Cup - Borussia Dortmund vs Monterrey",03:00 - FIFA Club World Cup - Borussia Dortmund vs Monterrey - SPORT TV HD
+http://127.0.0.1:6878/ace/getstream?id=fec8543179422da7f7387167a65e0f2bf12dd273
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QFndVFJ/euro2.png" tvg-id="fifa_club_world_cup_-_borussia_dortmund_vs_monterrey" tvg-name="FIFA Club World Cup - Borussia Dortmund vs Monterrey",03:00 - FIFA Club World Cup - Borussia Dortmund vs Monterrey - SPORT TV HD
+http://127.0.0.1:6878/ace/getstream?id=83d183a95c89a749b4ff8b40da4bdecce5c89b87
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QFndVFJ/euro2.png" tvg-id="fifa_club_world_cup_-_borussia_dortmund_vs_monterrey" tvg-name="FIFA Club World Cup - Borussia Dortmund vs Monterrey",03:00 - FIFA Club World Cup - Borussia Dortmund vs Monterrey - SPORT TV HD
+http://127.0.0.1:6878/ace/getstream?id=b7d534fff47e5ca366314171cf0af439210fe11a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QFndVFJ/euro2.png" tvg-id="fifa_club_world_cup_-_borussia_dortmund_vs_monterrey" tvg-name="FIFA Club World Cup - Borussia Dortmund vs Monterrey",03:00 - FIFA Club World Cup - Borussia Dortmund vs Monterrey - SPORT TV HD
+http://127.0.0.1:6878/ace/getstream?id=e072aa49ba019071a423012f03ef11d1277a6660
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/daznbar1.png" tvg-id="fifa_club_world_cup_-_real_madrid_vs_juventus" tvg-name="FIFA Club World Cup - Real Madrid vs Juventus",21:00 - FIFA Club World Cup - Real Madrid vs Juventus - ELEVEN DAZN 1 HD
+http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/daznbar1.png" tvg-id="fifa_club_world_cup_-_real_madrid_vs_juventus" tvg-name="FIFA Club World Cup - Real Madrid vs Juventus",21:00 - FIFA Club World Cup - Real Madrid vs Juventus - ELEVEN DAZN 1 HD
+http://127.0.0.1:6878/ace/getstream?id=3c7972e3c1c3a155ccc99efa61c86c83a1da752a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QFndVFJ/euro2.png" tvg-id="fifa_club_world_cup_-_real_madrid_vs_juventus" tvg-name="FIFA Club World Cup - Real Madrid vs Juventus",21:00 - FIFA Club World Cup - Real Madrid vs Juventus - SPORT TV HD
+http://127.0.0.1:6878/ace/getstream?id=fec8543179422da7f7387167a65e0f2bf12dd273
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QFndVFJ/euro2.png" tvg-id="fifa_club_world_cup_-_real_madrid_vs_juventus" tvg-name="FIFA Club World Cup - Real Madrid vs Juventus",21:00 - FIFA Club World Cup - Real Madrid vs Juventus - SPORT TV HD
+http://127.0.0.1:6878/ace/getstream?id=b7d534fff47e5ca366314171cf0af439210fe11a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QFndVFJ/euro2.png" tvg-id="fifa_club_world_cup_-_real_madrid_vs_juventus" tvg-name="FIFA Club World Cup - Real Madrid vs Juventus",21:00 - FIFA Club World Cup - Real Madrid vs Juventus - SPORT TV HD
+http://127.0.0.1:6878/ace/getstream?id=e072aa49ba019071a423012f03ef11d1277a6660
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0cnVCwv/foxsports2.png" tvg-id="canada_-_canadian_premier_league_-_hfx_wanderers_vs_valour" tvg-name="Canada - Canadian Premier League - HFX Wanderers vs Valour",21:00 - Canada - Canadian Premier League - HFX Wanderers vs Valour - FOX SPORTS 2 FHD
+http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GOL%20PLAY.png" tvg-id="uruguay_-_primera_division_-_cerro_largo_vs_river_plate" tvg-name="Uruguay - Primera Division - Cerro Largo vs River Plate",00:00 - Uruguay - Primera Division - Cerro Largo vs River Plate - GOL PLAY FHD
+http://127.0.0.1:6878/ace/getstream?id=3a2bbdbe4cc775c5c75ccb7d2408363d69c94b5d
