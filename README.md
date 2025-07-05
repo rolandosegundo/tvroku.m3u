@@ -1,4 +1,70 @@
 #EXTM3U
+#EXTINF:-0, 0-TUDN USA
+http://206.212.244.71:8080/Abxc5k/363887/11885
+#EXTINF:-0, 0-TUDN USA
+http://206.212.244.71:8080/Abxc5k/363887/82241
+#EXTINF:-0, 0-TUDN USA
+http://cord-cutter.net:8080/Rme2Fg/183926/82241
+#EXTINF:-1 group-title="-",Fox Sports 2 HD
+http://181.10.123.154:14000/play/a05c/index.m3u8
+#EXTINF:-1 group-title="-",Fox Sports 3 HD
+http://181.10.123.154:14000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="-",Fox Sports HD
+http://181.10.123.154:14000/play/a07j/index.m3u8
+#EXTINF:-1 group-title="-",ESPN
+http://152.200.150.150:8000/play/a0lg/index.m3u8
+#EXTINF:-1 group-title="-",ESPN
+http://152.200.150.150:8000/play/a0kb/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 2
+http://152.200.150.150:8000/play/a0jy/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 2 HD
+http://152.200.150.150:8000/play/a0g6/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 2 HD
+http://152.200.150.150:8000/play/a09x/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 3
+http://152.200.150.150:8000/play/a0m4/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 3 HD
+http://152.200.150.150:8000/play/a0a4/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 4HD
+http://152.200.150.150:8000/play/a0dt/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 5
+http://152.200.150.150:8000/play/a0kw/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 5HD
+http://152.200.150.150:8000/play/a0ed/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 6
+http://152.200.150.150:8000/play/a0kk/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 6HD
+http://152.200.150.150:8000/play/a0a5/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 6HD
+http://152.200.150.150:8000/play/a0fm/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 7
+http://152.200.150.150:8000/play/a0kj/index.m3u8
+#EXTINF:-1 group-title="-",ESPN HD
+http://152.200.150.150:8000/play/a0hf/index.m3u8
+#EXTINF:-0, 0-CANAL DE LAS ESTRELLAS
+http://179.61.31.142:8000/play/a0i5/index.m3u8
+#EXTINF:-1 group-title="-",Univision HD
+http://179.61.31.142:8000/play/a0fl/index.m3u8
+#EXTINF:-0, 0-AZTECA7
+http://38.49.128.38:8000/play/a0la/index.m3u8
+#EXTINF:-1 group-title="-",America TV HD PE
+http://152.200.150.150:8000/play/a0do/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="HBO Family HD",HBO Family HD
+http://179.61.31.142:8000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="-",HBO HD
+http://179.61.31.142:8000/play/a0hx/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="HBO Plus HD",HBO Plus HD
+http://179.61.31.142:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="HBO XTREME",HBO XTREME
+http://179.61.31.142:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="-",HBO2 HD
+http://179.61.31.142:8000/play/a09z/index.m3u8
+#EXTINF:-0, 0-DSPORTS 1
+http://38.211.242.128:8001/play/a09s/index.m3u8
+#EXTINF:-0, 0-DSPORTS 2
+http://38.211.242.128:8001/play/a05g/index.m3u8
+#EXTINF:-0, 0-DSPORTS +
+http://38.211.242.128:8001/play/a05h/index.m3u8
 #EXTINF:-0, 0-AZTECA CLICK
 http://38.224.230.122:8000/play/a06g/index.m3u8
 #EXTINF:-0, 0-CARACOL
