@@ -1,6 +1,6 @@
 #EXTM3U  
  #EXTINF:-0, futbol
-https://london.crackstreamslivehd.com/winplus2/tracks-v1a1/mono.m3u8?ip=187.189.141.137&token=1210a22d9fbfdcbc7c0dd2bfa9a18999a3b08764-34-1753562294-1753508294
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s-v2/Live/channel(universo-east)/master.mpd
 #EXTINF:-0, futbol 3
 https://anvtcax.fubohd.com/espnpremium/mono.m3u8?token=df6e8f99ee7d5644df5244ce276e48dc98d532ba-a8-1753573121-1753555121
 #EXTINF:-0, 0-TUDN USA
