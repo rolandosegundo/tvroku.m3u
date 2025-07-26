@@ -1,4 +1,6 @@
 #EXTM3U  
+#EXTINF:-0,futbol 0
+https://55.crackstreamslivehd.com/liga1max/tracks-v1a1/mono.m3u8?ip=187.189.141.137&token=a40589f659164a5c759b28d7ac2f6d1263fa5ab3-5e-1753602785-1753548785
 #EXTINF:-0,futbol 1
 https://yxdlc29tzq.fubohd.com/dsports2/mono.m3u8?token=78e9359fef6618cd79ab2df2bdf4f3330195e7ae-49-1753574382-1753556382
 #EXTINF:-0,futbol 3
