@@ -1,6 +1,6 @@
 #EXTM3U  
  #EXTINF:-0, futbol
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s-v2/Live/channel(universo-east)/master.mpd
+https://yxdlc29tzq.fubohd.com/dsports2/mono.m3u8?token=78e9359fef6618cd79ab2df2bdf4f3330195e7ae-49-1753574382-1753556382
 #EXTINF:-0, futbol 3
 https://anvtcax.fubohd.com/espnpremium/mono.m3u8?token=df6e8f99ee7d5644df5244ce276e48dc98d532ba-a8-1753573121-1753555121
 #EXTINF:-0, 0-TUDN USA
