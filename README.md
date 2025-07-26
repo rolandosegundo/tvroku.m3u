@@ -1,4 +1,8 @@
-#EXTM3U  
+#EXTM3U
+#EXTINF:-0,universo
+https://rg36pfwne9dyahvx7juc2t.cdnweigh.net:8443/hls/eflb8gathr4gtu.m3u8?s=ft9eVlyj-jt-IHYjnneV1Q&e=1753579959
+#EXTINF:-0,futbol
+https://55.crackstreamslivehd.com/liga1max/tracks-v1a1/mono.m3u8?ip=187.189.141.137&token=a40589f659164a5c759b28d7ac2f6d1263fa5ab3-5e-1753602785-1753548785
 #EXTINF:-0,futbol 0
 https://55.crackstreamslivehd.com/liga1max/tracks-v1a1/mono.m3u8?ip=187.189.141.137&token=a40589f659164a5c759b28d7ac2f6d1263fa5ab3-5e-1753602785-1753548785
 #EXTINF:-0,futbol 1
