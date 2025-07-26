@@ -1,5 +1,18 @@
 #EXTM3U
-
+#EXTINF:-0,Liga MX:TOLUCA VS TIGRES
+https://socio.crackstreamslivehd.com/tudn_usa/tracks-v1a1/mono.m3u8?ip=187.189.141.137&token=bb5a6b17326aac49168c2650e37af0957d7fcc63-dd-1753609071-1753555071
+#EXTINF:-0,Liga MX:TOLUCA VS TIGRES 2
+https://nfsnew.newkso.ru/nfs/premium132/mono.m3u8
+XTINF:-0,Liga MX:TOLUCA VS TIGRES 3
+https://socia.crackstreamslivehd.com/azteca7/tracks-v1a1/mono.m3u8?ip=187.189.141.137&token=5afa1cc2a0db4b7e5fe8db86c8f0fa9be4912fcf-0b-1753609268-1753555268
+XTINF:-0,Liga MX:TOLUCA VS TIGRES 4
+https://lima.crackstreamslivehd.com/tudn_usa/tracks-v1a1/mono.m3u8?ip=187.189.141.137&token=3f0d70af159d6f1743781483c88a00c1bfd6c13e-c2-1753610854-1753556854
+XTINF:-0,Liga MX:C AZUL VZ LEON
+https://socia.crackstreamslivehd.com/canal5mx/tracks-v1a1/mono.m3u8?ip=187.189.141.137&token=c9d2c7cbfa5dd2749f63bce503740ac39565f922-79-1753609424-1753555424
+XTINF:-0,Liga MX:C AZUL VZ LEON 2
+https://wp9xqedt.fubohd.com/canal5/mono.m3u8?token=c5bc949ea2d46dda0755877cc3f004d34303ec7b-d0-1753581601-1753563601
+XTINF:-0,Liga MX: Guadalajara vs Atlético San Luis
+https://a2lja3m.fubohd.com/telemundo/mono.m3u8?token=502d6997c68f6eb216ee1eeb68744999e24fe7f2-e5-1753582464-1753564464
 #EXTINF:-0,rivers_gg REACCION VELADA DEL AÑO 5
 https://use21.playlist.ttvnw.net/v1/playlist/CtkGrFcvh9Gt7PqUoBlBP957_PGVOIjYdK7or8DUFA-sdc1TvS1SKLlQO4h3ejCGnT2J8XCyMqrXg0azUjAAbfaJF-eXzH-C7dp_WH-wXbd1XYjzzTup28o89OjR3acbjWWO-5xfSA0m9H_RlJ2mg5jr0a8V-ERIzwFHdUQ1MSLNRvn4vvTfNlJCD4En9gZRWZQuU9LFnF4XCrnCTLVriuT7JFoi7SkZpn0zT_OPF3xcIiRflBgWVh-Fd6lMZEizXEgOxiulGk34eTjBzD0rQVh-0yT4BLrNImrWzrO3_Mm1I5YgsNz35QlQdExvBvPREu91D6onTDLP-YwJpUm8Kd8Iuk4LrjzUKjuw7jL7viLuKZCe9ygddfP9M_5ySzovWK1boG4a0USRqWCNv8aJj8jzwnv89kCxevRebobUTAiE4qw8WPW9GbGZdrKhYBKaiyqV9KH4AhwAsove7QiO58l4bd8eKTTz2IWS74BHaRwkzgTreygO-6azLyHWdhmmerZodBVI_JK4A0Gk_wkY86xFwH1B1Ty0Hkzqj_mw3ZLs8xRifbanExfvWrz20S78kU1GDdDpl95fJVNTRwN_ylalFQOjuOpZ0NTOpO5621EVDEJJRHTrITjlq1bb3IAXfLUkcQ-0flhsswyiMq9XEcLGUUbNTtqDNBeF5PjiDX5LkE9sO9BLF3lqKGN501_g1_84Zu8vke6X-bPoXPz6XSavGV8AKCd8CHtAeT8wDhr-OPFe4S52bCkYslgNbQ5DK5VcKbZIT9Gy0cc1pkLEXD6AyB7wjHvanNKCr8pA0xvdJ9DRnG1amfsqCZvrWXjR-6SWZfQRBmXsp-01Qba0WQk3oBl8w9eYFOGSMkjYjyX3vxgF3-SBmoAgpx6--ftnKnOmd3wz82dXY0EBIgBK7FPf-JdIsbYHfPdAll5PL-Q5hl2WsVqXqD060SmXNT3JpKkI-Vt8aFZp7ohDJaiFygclVJjbtRR-wBkRviIyVGZ-76kD4yILBXVO3Fn55EBJtb8Xf-rDTV0-hQmatoxa-TfrVmG-Msxpm47MySFyiEs1s3NXlmm_6QfbaH0rQPh_MWhAGybBkViTL6xeIULPrcUEgDVJ0tJRPme4wEH6vkqRUyOg9-QWgtHQIeUaDN3lIR8Sbq2TwBZhkiABKgl1cy1lYXN0LTIw6gw.m3u8
 #EXTINF:-0,
