@@ -2,13 +2,17 @@
 #EXTINF:-1,LA LIGA CND
 http://185.114.55.96:4002/play/a05x/index.m3u8
 #EXTINF:-1,Univision HD
-http://185.114.55.96:4002/play/a06e/index.m3u8
-#EXTINF:-1,Telemundo
-http://185.114.55.96:4002/play/a01r/index.m3u8
-#EXTINF:-1,Telemundo HD
-http://185.114.55.96:4002/play/a02j/index.m3u8
-#EXTINF:-1,Tigo Sports HD
-http://185.114.55.96:4002/play/a04q/index.m3u8
+http://170.82.39.40:58092/play/a01v/index.m3u8
+#EXTINF:-1 group-title="Peliculas ",+ Cine
+http://190.211.172.154:8965/play/mascine/index.m3u8
+#EXTINF:-1 group-title="Peliculas ",+Cine Classic
+http://190.211.172.154:8965/play/a06n/index.m3u8
+#EXTINF:-1 group-title="Peliculas ",+Cine Family
+http://190.211.172.154:8965/play/a06v/index.m3u8
+#EXTINF:-1 group-title="Peliculas ",+Cine Terror
+http://190.211.172.154:8965/play/a02o/index.m3u8
+#EXTINF:-1 group-title="Peliculas ",+Cine War
+http://190.211.172.154:8965/play/a06p/index.m3u8
 #EXTINF:-0, 0-TUDN USA
 http://206.212.244.71:8080/Abxc5k/363887/11885
 #EXTINF:-0, 0-TUDN USA
