@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,TUDN
+http://168.228.44.241:9999/play/a01e/index.m3u8
 #EXTINF:-1,LA LIGA CND
 http://185.114.55.96:4002/play/a05x/index.m3u8
 #EXTINF:-1,Univision HD
