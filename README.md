@@ -1,8 +1,19 @@
 #EXTM3U 
 #EXTINF:-1,1 UNAM VS TIGRES
-https://doc1.crackstreamslivehd.com/univision_usa/tracks-v1a1/mono.m3u8?ip=187.189.163.137&token=0592fff8f6326fd2198269dc06d183c864952bad-3d-1758449550-1758395550
-#EXTINF:-1,2 UNAM VS TIGRES
-https://98ca2.crackstreamslivehd.com/tudn_usa/tracks-v1a1/mono.m3u8?ip=187.189.163.137&token=09bb1f82cea8462c9f585527fbe7dc21d9247e26-2c-1758449409-1758395409
+http://170.78.211.114:8000/play/a0ll/index.m3u8#EXTINF:-1,2 UNAM VS TIGRES
+#EXTINF:-1 group-title="-",TUDN (MX)
+http://181.78.106.127:9000/play/ca025/index.m3u8
+#EXTINF:-1,CANAL 5
+http://45.189.151.7:8000/play/a04i/index.m3u8
+#EXTINF:-0, 0-TUDN USA
+http://206.212.244.71:8080/Abxc5k/363887/11885
+#EXTINF:-0, 0-TUDN USA
+http://206.212.244.71:8080/Abxc5k/363887/82241
+#EXTINF:-0, 0-TUDN USA
+http://cord-cutter.net:8080/Rme2Fg/183926/82241
+#EXTINF:-1 group-title="-",CANAL 5 MX
+http://103.111.40.242:9999/play/a03x/index.m3u8
+
 #EXTINF:-1,3 MONTERREY VS AMERICA
 https://pecdl1.crackstreamslivehd.com/tudn_usa/tracks-v1a1/mono.m3u8?ip=187.189.163.137&token=1432529203beb8aaed26c134c6d0ae5b613107e9-f8-1758449670-1758395670
 #EXTINF:-1,4 MONTERREY VS AMERICA
