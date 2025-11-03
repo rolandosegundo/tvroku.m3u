@@ -1,4 +1,21 @@
 #EXTM3U
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="LA GRANJA VIP #1" tvg-logo="https://www.record.com.mx/sites/default/files/styles/mobile_responsive/public/articulos/2025/09/25/llega-la-granja-vip-conoce-las-celebridades-que-participaran-en-la-primera-temporada.webp?itok=fbjzRUjm" group-title="⭐ ⭐ ⭐ LA GRANJA VIP⭐ ⭐ ⭐ ",LA GRANJA VIP #1
+http://tvgusplay.online:8080//live/Tanya2786/yEtZAmG6eM/2673998.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="LA GRANJA VIP # 2" tvg-logo="https://www.record.com.mx/sites/default/files/styles/mobile_responsive/public/articulos/2025/09/25/llega-la-granja-vip-conoce-las-celebridades-que-participaran-en-la-primera-temporada.webp?itok=fbjzRUjm" group-title="⭐ ⭐ ⭐ LA GRANJA VIP⭐ ⭐ ⭐ ",LA GRANJA VIP # 2
+http://tvgusplay.online:8080//live/Tanya2786/yEtZAmG6eM/2674001.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La Granja Vip Acceso total" tvg-logo="https://btv.mx/posters/1942934.jpeg" group-title="⭐ ⭐ ⭐ LA GRANJA VIP⭐ ⭐ ⭐ ",La Granja Vip Acceso total
+http://tvgusplay.online:8080//live/Tanya2786/yEtZAmG6eM/2864759.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La Granja Vip: La gala" tvg-logo="https://btv.mx/posters/1942934.jpeg" group-title="⭐ ⭐ ⭐ LA GRANJA VIP⭐ ⭐ ⭐ ",La Granja Vip: La gala
+http://tvgusplay.online:8080//live/Tanya2786/yEtZAmG6eM/2864758.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La Granja VIP" tvg-logo="https://btv.mx/posters/1760318272259.jpg" group-title="⭐ ⭐ ⭐ LA GRANJA VIP⭐ ⭐ ⭐ ",La Granja VIP
+http://tvgusplay.online:8080//live/Tanya2786/yEtZAmG6eM/2864760.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La Granja VIP" tvg-logo="https://btv.mx/posters/1942934.jpeg" group-title="⭐ ⭐ ⭐ LA GRANJA VIP⭐ ⭐ ⭐ ",La Granja VIP
+http://tvgusplay.online:8080//live/Tanya2786/yEtZAmG6eM/2864761.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La Granja VIP" tvg-logo="https://btv.mx/posters/2096.png" group-title="⭐ ⭐ ⭐ LA GRANJA VIP⭐ ⭐ ⭐ ",La Granja VIP
+http://tvgusplay.online:8080//live/Tanya2786/yEtZAmG6eM/2864765.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="LA CASA DE ALOFOKE 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPhmFTlqYVkzU_N1S4wSoWwkoodJT7MgqsuQ&s" group-title="  ⭐ ⭐ ⭐ LA CASA DE ALOFOKE⭐ ⭐ ⭐",LA CASA DE ALOFOKE 2
+http://tvgusplay.online:8080//live/Tanya2786/yEtZAmG6eM/2864448.ts
+
 #EXTINF:-1 tvg-id="a05j",ADN 40 (110)
 http://45.189.151.7:8000/play/a05j/index.m3u8
 #EXTINF:-1,AMC (103)
