@@ -5,6 +5,12 @@ http://www.1play.cool:25461/6614314274/af6b784fa1d0/300203
 http://www.1play.cool:25461/6614314274/af6b784fa1d0/300204
 #EXTINF:-1,La Grabja VIP - Galas
 http://www.1play.cool:25461/6614314274/af6b784fa1d0/300205
+#EXTINF:-1,US | TUDN
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30458
+#EXTINF:-1,US | TUDN FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/77591
+#EXTINF:-1,US | TUDN HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/67806
 #EXTINF:-1,MX | Azteca Uno FHD
 http://www.1play.cool:25461/6614314274/af6b784fa1d0/39225
 #EXTINF:-1,MX | Azteca Uno HD
@@ -39,6 +45,166 @@ http://www.1play.cool:25461/6614314274/af6b784fa1d0/133869
 http://www.1play.cool:25461/6614314274/af6b784fa1d0/133871
 #EXTINF:-1,MX | El Nu9ve HD
 http://www.1play.cool:25461/6614314274/af6b784fa1d0/129885
+#EXTINF:-1,US | Estrella TV
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/137313
+#EXTINF:-1,US | Galavision
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/78457
+#EXTINF:-1,US | Galavision Atlanta
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/78454
+#EXTINF:-1,US | Galavision East
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/35441
+#EXTINF:-1,US | Galavision Fresno
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/78456
+#EXTINF:-1,US | Galavision Las Vegas
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/78458
+#EXTINF:-1,US | Galavision Los Angeles
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/78453
+#EXTINF:-1,US | Galavision New York
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/78452
+#EXTINF:-1,US | Galavision Philadelphia
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/78459
+#EXTINF:-1,US | Galavision Phoenix
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/78460
+#EXTINF:-1,US | Galavision Raleight
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/78461
+#EXTINF:-1,US | Galavision Salt Lake
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/78463
+#EXTINF:-1,US | Galavision San Antonio
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/78464
+#EXTINF:-1,US | Galavision San Francisco
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/78465
+#EXTINF:-1,US | Mega TV Miami
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/77446
+#EXTINF:-1,US | Telemundo
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/67996
+#EXTINF:-1,US | Telemundo (C
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/272850
+#EXTINF:-1,US | Telemundo 13 Colorado (KRDO)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/272840
+#EXTINF:-1,US | Telemundo 19 Connecticut (WRDM)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/64311
+#EXTINF:-1,US | Telemundo 2 Santa Fe (KASA)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/272844
+#EXTINF:-1,US | Telemundo 20 Salt Lake (KTMW)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/272851
+#EXTINF:-1,US | Telemundo 20 San Diego (KUAN)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/67992
+#EXTINF:-1,US | Telemundo 25 Denver (KDEN)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/44184
+#EXTINF:-1,US | Telemundo 25 Tulsa (KUTU)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/272845
+#EXTINF:-1,US | Telemundo 27 Lincoln (KFDY)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/272841
+#EXTINF:-1,US | Telemundo 27 Omaha (KOHA)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/272847
+#EXTINF:-1,US | Telemundo 30 Oklahoma City (KTUZ)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/272848
+#EXTINF:-1,US | Telemundo 31 Orlando (WTMO)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/66666
+#EXTINF:-1,US | Telemundo 33 Sacramento (KCSO)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/67997
+#EXTINF:-1,US | Telemundo 39 Dallas (KXTX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/42636
+#EXTINF:-1,US | Telemundo 39 Las Vegas (KBLR)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/42634
+#EXTINF:-1,US | Telemundo 39 Phoenix (KTAZ)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/67993
+#EXTINF:-1,US | Telemundo 40 Rio Grande(KTLM)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/272853
+#EXTINF:-1,US | Telemundo 40 Tucson (KHRR)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/272839
+#EXTINF:-1,US | Telemundo 42 New Orleans (KGLA)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/42635
+#EXTINF:-1,US | Telemundo 43 Naples (WWDT)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/67995
+#EXTINF:-1,US | Telemundo 44 Chicago (WSNS)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/42637
+#EXTINF:-1,US | Telemundo 44 Washington (WZDC)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/67994
+#EXTINF:-1,US | Telemundo 46 Lubbock (KXTQ)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/272852
+#EXTINF:-1,US | Telemundo 47 Atlanta (WKTB)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/66667
+#EXTINF:-1,US | Telemundo 47 Houston (KTMD)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/63972
+#EXTINF:-1,US | Telemundo 47 New York (WNJU)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29947
+#EXTINF:-1,US | Telemundo 48 Las Cruces (KTDO)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/272843
+#EXTINF:-1,US | Telemundo 48 Medford (KFBI)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/272846
+#EXTINF:-1,US | Telemundo 48 San Francisco (KSTS)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/42629
+#EXTINF:-1,US | Telemundo 49 Tampa (WRMD)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/272849
+#EXTINF:-1,US | Telemundo 51 Merced  (KNSO)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/272838
+#EXTINF:-1,US | Telemundo 51 Miami (WSCV)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29946
+#EXTINF:-1,US | Telemundo 52 Los Angeles (KVEA)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/42631
+#EXTINF:-1,US | Telemundo 60 Boston (WNEU)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29945
+#EXTINF:-1,US | Telemundo 60 San Antonio (KVDA)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/42632
+#EXTINF:-1,US | Telemundo 62 Mount Laurel (WWSI)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/272842
+#EXTINF:-1,US | Unimas
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/68008
+#EXTINF:-1,US | Unimas Atlanta
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/59670
+#EXTINF:-1,US | Unimas Austin
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/68007
+#EXTINF:-1,US | Unimas Chicago
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/63957
+#EXTINF:-1,US | Unimas Dallas
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/40707
+#EXTINF:-1,US | Unimas Dallas
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/43109
+#EXTINF:-1,US | Unimas Los Angeles
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/40705
+#EXTINF:-1,US | Unimas Miami
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/44183
+#EXTINF:-1,US | Unimas New York
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/40706
+#EXTINF:-1,US | Unimas Philadelphia
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/68006
+#EXTINF:-1,US | Unimas Phoenix
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/68009
+#EXTINF:-1,US | Unimas Sacramento
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/43097
+#EXTINF:-1,US | Unimas San Fransico
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/68005
+#EXTINF:-1,US | Unimas Tucson
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/68003
+#EXTINF:-1,US | Univision Atlanta
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/43101
+#EXTINF:-1,US | Univision Austin
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133281
+#EXTINF:-1,US | Univision Chicago
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/43107
+#EXTINF:-1,US | Univision Cleveland
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133150
+#EXTINF:-1,US | Univision East
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/43114
+#EXTINF:-1,US | Univision Los Angeles
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/43111
+#EXTINF:-1,US | Univision Miami
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/35572
+#EXTINF:-1,US | Univision Nashville
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/66964
+#EXTINF:-1,US | Univision Network
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/40703
+#EXTINF:-1,US | Univision New York
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/43113
+#EXTINF:-1,US | Univision Philadelphia
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/44186
+#EXTINF:-1,US | Univision San Francisco
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/43115
+#EXTINF:-1,US | Univision Tlenovelas
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/43110
+#EXTINF:-1,US | Univision West
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/43106
 #EXTINF:-1,DEP | Arena Sports 01 HR (1280x720)
 http://www.1play.cool:25461/6614314274/af6b784fa1d0/244269
 #EXTINF:-1,DEP | Arena Sports 02 HR (1280x720)
@@ -611,3 +777,2521 @@ http://www.1play.cool:25461/6614314274/af6b784fa1d0/300203
 http://www.1play.cool:25461/6614314274/af6b784fa1d0/300204
 #EXTINF:-1,La Grabja VIP - Galas
 http://www.1play.cool:25461/6614314274/af6b784fa1d0/300205
+#EXTINF:-1,ARG | America TV
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30398
+#EXTINF:-1,ARG | America TV FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29997
+#EXTINF:-1,ARG | America TV HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/77197
+#EXTINF:-1,ARG | C5N FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/128753
+#EXTINF:-1,ARG | C5N HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147245
+#EXTINF:-1,ARG | Canal 26
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/282344
+#EXTINF:-1,ARG | Canal 26 FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147248
+#EXTINF:-1,ARG | Canal 26 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30233
+#EXTINF:-1,ARG | CineAR HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29865
+#EXTINF:-1,ARG | Crónica TV HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/163694
+#EXTINF:-1,ARG | Deportv FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29934
+#EXTINF:-1,ARG | El Nueve
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29987
+#EXTINF:-1,ARG | El Nueve HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/163691
+#EXTINF:-1,ARG | El Trece
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29982
+#EXTINF:-1,ARG | El Trece FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31258
+#EXTINF:-1,ARG | ESPN FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/128754
+#EXTINF:-1,ARG | ESPN HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/135740
+#EXTINF:-1,ARG | ESPN HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/73195
+#EXTINF:-1,ARG | ESPN 2
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/135741
+#EXTINF:-1,ARG | ESPN 2 FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/163698
+#EXTINF:-1,ARG | ESPN 2 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/61317
+#EXTINF:-1,ARG | ESPN 3
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/77096
+#EXTINF:-1,ARG | ESPN 3 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/163699
+#EXTINF:-1,ARG | ESPN 4
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/282346
+#EXTINF:-1,ARG | ESPN 4 FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/282345
+#EXTINF:-1,ARG | ESPN 4 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/163700
+#EXTINF:-1,ARG | ESPN Premium
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/163702
+#EXTINF:-1,ARG | ESPN Premium FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/78448
+#EXTINF:-1,ARG | ESPN Premium HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/61284
+#EXTINF:-1,ARG | Fox Sports
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/128757
+#EXTINF:-1,ARG | Fox Sports FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/163705
+#EXTINF:-1,ARG | Fox Sports HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30244
+#EXTINF:-1,ARG | Fox Sports 2
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/163703
+#EXTINF:-1,ARG | Fox Sports 2 FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/137713
+#EXTINF:-1,ARG | Fox Sports 2 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/41030
+#EXTINF:-1,ARG | Fox Sports 3
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/163704
+#EXTINF:-1,ARG | Fox Sports 3 FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/128759
+#EXTINF:-1,ARG | Fox Sports 3 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30245
+#EXTINF:-1,ARG | Garage TV
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29983
+#EXTINF:-1,ARG | La Nación +
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29986
+#EXTINF:-1,ARG | La Nación + HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/128760
+#EXTINF:-1,ARG | Multivision HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/163707
+#EXTINF:-1,ARG | Net TV HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/128761
+#EXTINF:-1,ARG | Paka Paka HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29939
+#EXTINF:-1,ARG | PX TV HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/163710
+#EXTINF:-1,ARG | Telefe
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29863
+#EXTINF:-1,ARG | Telefe FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/163711
+#EXTINF:-1,ARG | Telefe HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/163708
+#EXTINF:-1,ARG | TN Noticias
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29936
+#EXTINF:-1,ARG | TNT Sports Premium
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/135707
+#EXTINF:-1,ARG | TNT Sports Premium FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31185
+#EXTINF:-1,ARG | TNT Sports Premium HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/42440
+#EXTINF:-1,ARG | TV Publica
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/163713
+#EXTINF:-1,ARG | TV Publica FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29864
+#EXTINF:-1,ARG | TV Publica HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30463
+#EXTINF:-1,ARG | TyC Sports
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/77098
+#EXTINF:-1,ARG | TyC Sports FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/69033
+#EXTINF:-1,ARG | TyC Sports HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/77099
+#EXTINF:-1,ARG | Volver HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/60140
+#EXTINF:-1,BO | Abya Yala TV
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/129890
+#EXTINF:-1,BO | Gigavision
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/32773
+#EXTINF:-1,BO | Unitel La Paz
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/129892
+#EXTINF:-1,BO | RTP
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/32775
+#EXTINF:-1,BO | ATB
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30399
+#EXTINF:-1,BO | Bolivision
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30400
+#EXTINF:-1,BO | Red Uno La Paz
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30401
+#EXTINF:-1,BO | Unitel
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30402
+#EXTINF:-1,BO | Bolivia TV
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30403
+#EXTINF:-1,2MB | A&E (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30656
+#EXTINF:-1,2MB | A3cine (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134284
+#EXTINF:-1,2MB | AMC (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/45928
+#EXTINF:-1,2MB | Animal Planet (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/59920
+#EXTINF:-1,2MB | Atreseries (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134285
+#EXTINF:-1,2MB | AXN (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30659
+#EXTINF:-1,2MB | AYM (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134286
+#EXTINF:-1,2MB | Azteca 7 (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134288
+#EXTINF:-1,2MB | Azteca Deportes (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30657
+#EXTINF:-1,2MB | Azteca Uno (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134289
+#EXTINF:-1,2MB | Baby TV (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/59921
+#EXTINF:-1,2MB | Bandamax (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134332
+#EXTINF:-1,2MB | Canal 5 (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134290
+#EXTINF:-1,2MB | Cartoon Network (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30665
+#EXTINF:-1,2MB | Cartoonito (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30660
+#EXTINF:-1,2MB | Cine Latino (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/67196
+#EXTINF:-1,2MB | Cinecanal (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30661
+#EXTINF:-1,2MB | Cinemax MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30663
+#EXTINF:-1,2MB | Claro Sports (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134291
+#EXTINF:-1,2MB | CNN Espanol (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134312
+#EXTINF:-1,2MB | CNN Internacional (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134292
+#EXTINF:-1,2MB | Comedy Central (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30664
+#EXTINF:-1,2MB | De Pelicula (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/45938
+#EXTINF:-1,2MB | DHE (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/45930
+#EXTINF:-1,2MB | Discovery Channel (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30667
+#EXTINF:-1,2MB | Discovery Home & Healt (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30666
+#EXTINF:-1,2MB | Discovery Kids (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/67190
+#EXTINF:-1,2MB | Discovery Theather (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/67191
+#EXTINF:-1,2MB | Discovery Turbo (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31118
+#EXTINF:-1,2MB | Discovery World (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/67192
+#EXTINF:-1,2MB | Disney Channel (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/59922
+#EXTINF:-1,2MB | Disney Junior (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31119
+#EXTINF:-1,2MB | E! Entertaiment (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134293
+#EXTINF:-1,2MB | Elgourmet (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134298
+#EXTINF:-1,2MB | ESPN (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31122
+#EXTINF:-1,2MB | ESPN 2 (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31123
+#EXTINF:-1,2MB | ESPN 3 (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31124
+#EXTINF:-1,2MB | ESPN 4 (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134294
+#EXTINF:-1,2MB | Estrellas (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134295
+#EXTINF:-1,2MB | Europa Europa (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/45931
+#EXTINF:-1,2MB | Film & Arts (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30658
+#EXTINF:-1,2MB | Food Network (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/61123
+#EXTINF:-1,2MB | Fox Sports 2 (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31131
+#EXTINF:-1,2MB | Fox Sports 3 (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31132
+#EXTINF:-1,2MB | FX (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31135
+#EXTINF:-1,2MB | Game Toon (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134297
+#EXTINF:-1,2MB | Golden Edge (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/45937
+#EXTINF:-1,2MB | Golden Premier (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/45932
+#EXTINF:-1,2MB | HBO (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31138
+#EXTINF:-1,2MB | HBO 2 (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31140
+#EXTINF:-1,2MB | HBO Family (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31139
+#EXTINF:-1,2MB | HBO Mundi (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134299
+#EXTINF:-1,2MB | HBO Plus (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/45929
+#EXTINF:-1,2MB | HBO Signature (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/45933
+#EXTINF:-1,2MB | HBO Xtreme (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134300
+#EXTINF:-1,2MB | History (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134301
+#EXTINF:-1,2MB | History 2 (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31137
+#EXTINF:-1,2MB | HTV (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134303
+#EXTINF:-1,2MB | Investigation Discovery (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/39739
+#EXTINF:-1,2MB | Kanal Drama (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134304
+#EXTINF:-1,2MB | Las Estrellas (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31120
+#EXTINF:-1,2MB | Lifetime (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134305
+#EXTINF:-1,2MB | MC (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134306
+#EXTINF:-1,2MB | MTV (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134307
+#EXTINF:-1,2MB | MTV 00 (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134308
+#EXTINF:-1,2MB | MTV 80s (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134309
+#EXTINF:-1,2MB | Multi Premier (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134310
+#EXTINF:-1,2MB | National Geographic (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/67194
+#EXTINF:-1,2MB | NBA Mexico (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134313
+#EXTINF:-1,2MB | Nick Jr (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134315
+#EXTINF:-1,2MB | Nick MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/45939
+#EXTINF:-1,2MB | Novelisima (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134316
+#EXTINF:-1,2MB | Once (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134317
+#EXTINF:-1,2MB | Once Niñas y Niños (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134318
+#EXTINF:-1,2MB | Outdoor (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134319
+#EXTINF:-1,2MB | Paramount (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134320
+#EXTINF:-1,2MB | Pasiones (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134322
+#EXTINF:-1,2MB | Sony Channel (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/45936
+#EXTINF:-1,2MB | Space (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31141
+#EXTINF:-1,2MB | Star Channel (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31125
+#EXTINF:-1,2MB | Studio Universal (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134324
+#EXTINF:-1,2MB | TCM (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134325
+#EXTINF:-1,2MB | TeenNick (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134326
+#EXTINF:-1,2MB | TLC (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134327
+#EXTINF:-1,2MB | TNT (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/172624
+#EXTINF:-1,2MB | TNT Series (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31144
+#EXTINF:-1,2MB | TUDN (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134311
+#EXTINF:-1,2MB | TVC Deportes (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134328
+#EXTINF:-1,2MB | TyC Sports (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134330
+#EXTINF:-1,2MB | Universal Channel (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/45935
+#EXTINF:-1,2MB | Universal Cinema (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134329
+#EXTINF:-1,2MB | Universal Comedy (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134423
+#EXTINF:-1,2MB | Universal Crime (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134424
+#EXTINF:-1,2MB | Universal Premiere Este (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134425
+#EXTINF:-1,2MB | Universal Reality (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134427
+#EXTINF:-1,2MB | USA Network (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31142
+#EXTINF:-1,2MB | Warner Channel (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31145
+#EXTINF:-1,CL | 13c HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30378
+#EXTINF:-1,CL | 24 Horas FHD  (°-°)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/73662
+#EXTINF:-1,CL | 24 Horas HD (°-°)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147228
+#EXTINF:-1,CL | Canal 13 FHD (°-°)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147229
+#EXTINF:-1,CL | Canal 13 HD (°-°)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/156514
+#EXTINF:-1,CL | CDO Basico
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/156515
+#EXTINF:-1,CL | CDO Basico 2
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/174644
+#EXTINF:-1,CL | CDO Premium HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/61858
+#EXTINF:-1,CL | Chilevision *-*
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/42439
+#EXTINF:-1,CL | Chilevision FHD (°-°)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30520
+#EXTINF:-1,CL | Chilevision HD (°-°)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/156517
+#EXTINF:-1,CL | CNN Chile FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/61879
+#EXTINF:-1,CL | CNN Chile HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/32749
+#EXTINF:-1,CL | ESPN HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/170409
+#EXTINF:-1,CL | ESPN 2 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/156525
+#EXTINF:-1,CL | ESPN 3 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/172622
+#EXTINF:-1,CL | 13 Festival
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/271826
+#EXTINF:-1,CL | ESPN 5 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/271825
+#EXTINF:-1,CL | ESPN 6 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/271824
+#EXTINF:-1,CL | ETC
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/161353
+#EXTINF:-1,CL | ETC TV FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30369
+#EXTINF:-1,CL | ETC TV HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/73664
+#EXTINF:-1,CL | Fox Sports 2 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/61881
+#EXTINF:-1,CL | La Red FHD (°-°)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30367
+#EXTINF:-1,CL | La Red HD (°-°)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147292
+#EXTINF:-1,CL | Mega 2
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/210295
+#EXTINF:-1,CL | Mega FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/61854
+#EXTINF:-1,CL | Mega Noticias
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147296
+#EXTINF:-1,CL | Mega HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30366
+#EXTINF:-1,CL | Rec TV FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/73666
+#EXTINF:-1,CL | Teletrak HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/61871
+#EXTINF:-1,CL | TNT Sports HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/63150
+#EXTINF:-1,CL | TNT Sports Premium FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147317
+#EXTINF:-1,CL | TNT Sports Premium HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171539
+#EXTINF:-1,CL | TNT Sports Premium HD (SOLO EVENTOS)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/209565
+#EXTINF:-1,CL | TV Chile HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/75388
+#EXTINF:-1,CL | TV+ FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/161362
+#EXTINF:-1,CL | TV+ FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/73667
+#EXTINF:-1,CL | TVN (°-°)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/156564
+#EXTINF:-1,CL | TVN FHD* (°-°)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/209566
+#EXTINF:-1,CL | TVN HD (°-°)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30302
+#EXTINF:-1,CL | Via X
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/156904
+#EXTINF:-1,CL | Zona Latina
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/61569
+#EXTINF:-1,CL | Chilevision Noticias
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/282946
+#EXTINF:-1,CL | ESPN 4 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/282947
+#EXTINF:-1,CL | ESPN Premium HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/282948
+#EXTINF:-1,CL | Mega Tiempo
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/282949
+#EXTINF:-1,CL | TV+ HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/282950
+#EXTINF:-1,CINE | A&E (1280x720) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29722
+#EXTINF:-1,CINE | A&E (1920x1080) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/45873
+#EXTINF:-1,CINE | A&E (832x468) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29795
+#EXTINF:-1,CINE | AMC (1280x720) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/45874
+#EXTINF:-1,CINE | AMC (1920x1080) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/41007
+#EXTINF:-1,CINE | AMC (832x468) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164002
+#EXTINF:-1,CINE | AXN (1280x720) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/62781
+#EXTINF:-1,CINE | AXN (1920x1080) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/41008
+#EXTINF:-1,CINE | AXN (832x468) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29797
+#EXTINF:-1,CINE | Cine Dinamita (960x540) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/174653
+#EXTINF:-1,CINE | Cinecanal (1280x720) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29800
+#EXTINF:-1,CINE | Cinecanal (1920x1080) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29734
+#EXTINF:-1,CINE | Cinecanal (832x468) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/62783
+#EXTINF:-1,CINE | Cinelatino (720x406) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30392
+#EXTINF:-1,CINE | Cinemax (1280x720) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29735
+#EXTINF:-1,CINE | Cinemax (1920x1080) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/41010
+#EXTINF:-1,CINE | Cinemax (832x468) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164009
+#EXTINF:-1,CINE | De Pelicula (1280x720) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29737
+#EXTINF:-1,CINE | De Pelicula (1920x1080) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/277090
+#EXTINF:-1,CINE | De Pelicula (832x468) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/277089
+#EXTINF:-1,CINE | De Pelicula Clasico (480x360) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/72163
+#EXTINF:-1,CINE | De Pelicula Plus (1280x720) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/47442
+#EXTINF:-1,CINE | DHE (1280x720) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/77159
+#EXTINF:-1,CINE | DHE (1920x1080) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30253
+#EXTINF:-1,CINE | DHE (832x468) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/77160
+#EXTINF:-1,CINE | Europa Europa (1920x1080) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/32886
+#EXTINF:-1,CINE | Europa Europa (960x540) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/277091
+#EXTINF:-1,CINE | FX (1280x720) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29763
+#EXTINF:-1,CINE | FX (1920x1080) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164026
+#EXTINF:-1,CINE | FX (832x468) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/77007
+#EXTINF:-1,CINE | Golden (1024x576) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29765
+#EXTINF:-1,CINE | Golden (640x360) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/77163
+#EXTINF:-1,CINE | Golden (960x540) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/210087
+#EXTINF:-1,CINE | Golden Edge (1280x720) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29823
+#EXTINF:-1,CINE | Golden Edge (1920x1080) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/210086
+#EXTINF:-1,CINE | Golden Edge (832x468) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29766
+#EXTINF:-1,CINE | Golden Plus (1280x720) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/77161
+#EXTINF:-1,CINE | Golden Plus (1920x1080) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/77162
+#EXTINF:-1,CINE | Golden Plus (832x468) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/277092
+#EXTINF:-1,CINE | Golden Premier (1280x720) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/128510
+#EXTINF:-1,CINE | Golden Premier (1920x1080) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/32914
+#EXTINF:-1,CINE | Golden Premier (960x540) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30448
+#EXTINF:-1,CINE | HBO (1280x720) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29917
+#EXTINF:-1,CINE | HBO (1920x1080) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/41020
+#EXTINF:-1,CINE | HBO (960x540) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/47462
+#EXTINF:-1,CINE | HBO 2 (1280x720) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/41021
+#EXTINF:-1,CINE | HBO 2 (1920x1080) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29874
+#EXTINF:-1,CINE | HBO 2 (832x468) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/62795
+#EXTINF:-1,CINE | HBO Family (1280x720) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151406
+#EXTINF:-1,CINE | HBO Family (1920x1080) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30397
+#EXTINF:-1,CINE | HBO Family (832x468) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/62797
+#EXTINF:-1,CINE | HBO Mundi (1280x720) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/57567
+#EXTINF:-1,CINE | HBO Mundi (1980x1080) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/47463
+#EXTINF:-1,CINE | HBO Mundi (960x540) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31287
+#EXTINF:-1,CINE | HBO Plus (1280x720) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/47223
+#EXTINF:-1,CINE | HBO Plus (1920x1080) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/41023
+#EXTINF:-1,CINE | HBO Plus (832x468) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/41024
+#EXTINF:-1,CINE | HBO Pop (1280x720) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/62798
+#EXTINF:-1,CINE | HBO Pop (1920x1080) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/47467
+#EXTINF:-1,CINE | HBO Pop (832x468) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31286
+#EXTINF:-1,CINE | HBO Signature (1280x720) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/47468
+#EXTINF:-1,CINE | HBO Signature (1920x1080) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30201
+#EXTINF:-1,CINE | HBO Signature (960x540) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30249
+#EXTINF:-1,CINE | HBO Xtreme (1280x720) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31288
+#EXTINF:-1,CINE | HBO Xtreme (1920x1080) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/47469
+#EXTINF:-1,CINE | HBO Xtreme (832x468) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/47226
+#EXTINF:-1,CINE | I-Sat (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29975
+#EXTINF:-1,CINE | Multipremier (1920x1080)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30495
+#EXTINF:-1,CINE | Multipremier (704*406)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/277093
+#EXTINF:-1,CINE | Paramount  (1280x720) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/41025
+#EXTINF:-1,CINE | Paramount (1920x1080) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29775
+#EXTINF:-1,CINE | Paramount (832x468) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/47470
+#EXTINF:-1,CINE | Sony Channel (1280x720) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/47230
+#EXTINF:-1,CINE | Sony Channel (1920x1080) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29776
+#EXTINF:-1,CINE | Sony Channel (832x468) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29830
+#EXTINF:-1,CINE | Space (1280x720) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/62801
+#EXTINF:-1,CINE | Space (1920x1080) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29777
+#EXTINF:-1,CINE | Space (832x468) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29831
+#EXTINF:-1,CINE | Star Channel (1280x720) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/41013
+#EXTINF:-1,CINE | Star Channel (1920x1080) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29753
+#EXTINF:-1,CINE | Star Channel (960x540) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29814
+#EXTINF:-1,CINE | Studio Universal (1280x720) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29832
+#EXTINF:-1,CINE | Studio Universal (1920x1080) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29778
+#EXTINF:-1,CINE | Studio Universal (832x468) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164055
+#EXTINF:-1,CINE | TCM (720x406)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29780
+#EXTINF:-1,CINE | TNT (1280x720) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/47471
+#EXTINF:-1,CINE | TNT (1920x1080) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29781
+#EXTINF:-1,CINE | TNT (832x468) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29834
+#EXTINF:-1,CINE | TNT Novelas (1280x720) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/77177
+#EXTINF:-1,CINE | TNT Novelas (1920x1080) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/77176
+#EXTINF:-1,CINE | TNT Novelas (832x468) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/32925
+#EXTINF:-1,CINE | TNT Series (1280x720) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/47241
+#EXTINF:-1,CINE | TNT Series (1920x1080) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29782
+#EXTINF:-1,CINE | TNT Series (832x468) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164063
+#EXTINF:-1,CINE | Ultra Cine (1280x720) ᵘˢ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/79183
+#EXTINF:-1,CINE | Ultra Clasico (1280x720) ᵘˢ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/79184
+#EXTINF:-1,CINE | Ultra Docu (1280x720) ᵘˢ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/79185
+#EXTINF:-1,CINE | Ultra Familia (1280x720) ᵘˢ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/79186
+#EXTINF:-1,CINE | Ultra Fiesta (1280x720) ᵘˢ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/79187
+#EXTINF:-1,CINE | Ultra Kidz (1280x720) ᵘˢ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/79188
+#EXTINF:-1,CINE | Ultra Macho (1280x720) ᵘˢ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/79189
+#EXTINF:-1,CINE | Ultra Mex (1280x720) ᵘˢ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/79190
+#EXTINF:-1,CINE | Universal Cinema (1280x720) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/73998
+#EXTINF:-1,CINE | Universal Cinema (1920x1080) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/73994
+#EXTINF:-1,CINE | Universal Cinema (960x540) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/128511
+#EXTINF:-1,CINE | Universal Comedy (1280x720) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/128512
+#EXTINF:-1,CINE | Universal Comedy (1920x1080) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/76353
+#EXTINF:-1,CINE | Universal Comedy (960x540) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/128513
+#EXTINF:-1,CINE | Universal Crime (1280x720) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/74000
+#EXTINF:-1,CINE | Universal Crime (1920x1080) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164068
+#EXTINF:-1,CINE | Universal Crime (960x540) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/73997
+#EXTINF:-1,CINE | Universal Premiere (1280x720) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/73999
+#EXTINF:-1,CINE | Universal Premiere (1920x1080) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/73996
+#EXTINF:-1,CINE | Universal Premiere (960x540) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/128514
+#EXTINF:-1,CINE | Universal Reality (1280x720) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/41015
+#EXTINF:-1,CINE | Universal Reality (1920x1080) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/73995
+#EXTINF:-1,CINE | Universal Reality (960x540) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30395
+#EXTINF:-1,CINE | Universal TV (1280x720) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/41026
+#EXTINF:-1,CINE | Universal TV (1920x1080) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/62802
+#EXTINF:-1,CINE | Universal TV (832x468) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/77180
+#EXTINF:-1,CINE | USA Network (1280x720) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29779
+#EXTINF:-1,CINE | USA Network (1920x1080) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/76351
+#EXTINF:-1,CINE | USA Network (960x540) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29833
+#EXTINF:-1,CINE | Warner Channel (1280x720) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29785
+#EXTINF:-1,CINE | Warner Channel (1920x1080) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/65761
+#EXTINF:-1,CINE | Warner Channel (832x468) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29837
+#EXTINF:-1,CINE | Morbido TV
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/280730
+#EXTINF:-1,CINE | Golden Premier 2 (1280x720) 
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/282341
+#EXTINF:-1,CINE | Golden Premier 2 (1920x1080)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/282342
+#EXTINF:-1,CINE | Golden Premier 2 (832x468) 
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/282343
+#EXTINF:-1,CINE | Europa Europa (1280x720) ᵐˣ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/282821
+#EXTINF:-1,CINE | Cl4ro Cinema (1920x1080) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/283008
+#EXTINF:-1,CINE | Cl4ro Cinema (1280x720) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/283009
+#EXTINF:-1,CINE | Cl4ro Cinema (832x468) ᶜᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/283010
+#EXTINF:-1,COL | Cablenoticias
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/128496
+#EXTINF:-1,COL | Cablenoticias FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/73668
+#EXTINF:-1,COL | Canal Capital
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/128498
+#EXTINF:-1,COL | Canal Capital HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/128497
+#EXTINF:-1,COL | Canal Capital FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/40008
+#EXTINF:-1,COL | Canal Trece
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/128501
+#EXTINF:-1,COL | Canal Trece HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/128500
+#EXTINF:-1,COL | Canal Trece FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30579
+#EXTINF:-1,COL | Canal Tro
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/40009
+#EXTINF:-1,COL | Canal Tro HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/128499
+#EXTINF:-1,COL | Canal Uno
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/128495
+#EXTINF:-1,COL | Canal Uno HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/156512
+#EXTINF:-1,COL | Canal Uno FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31189
+#EXTINF:-1,COL | Caracol °
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/64120
+#EXTINF:-1,COL | Caracol HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147252
+#EXTINF:-1,COL | Caracol HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30644
+#EXTINF:-1,COL | Caracol FHD°
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/144019
+#EXTINF:-1,COL | Caracol Internacional
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/266557
+#EXTINF:-1,COL | City TV FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/35506
+#EXTINF:-1,COL | CTV Barranquilla
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/78206
+#EXTINF:-1,COL | NTN24
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/32887
+#EXTINF:-1,COL | NTN24 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147300
+#EXTINF:-1,COL | RCN°
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/136070
+#EXTINF:-1,COL | RCN HD °
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147306
+#EXTINF:-1,COL | RCN Novelas
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/40533
+#EXTINF:-1,COL | Señal Colombia FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/40012
+#EXTINF:-1,COL | Teleantioquia
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30421
+#EXTINF:-1,COL | Teleantoquia HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30528
+#EXTINF:-1,COL | Telecafe HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/40014
+#EXTINF:-1,COL | Telecaribe FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/40015
+#EXTINF:-1,COL | Teleislas HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/73676
+#EXTINF:-1,COL | Telemedellin HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/58226
+#EXTINF:-1,COL | Telepacifico HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/40016
+#EXTINF:-1,COL | TV Agro HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30647
+#EXTINF:-1,COL | Win Sports
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/40366
+#EXTINF:-1,COL | Win Sports Plus FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/39958
+#EXTINF:-1,COL | Win Sports Plus HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147330
+#EXTINF:-1,COL | Win Sports Plus 
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/135705
+#EXTINF:-1,COL | Win Sports Plus HD*
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/39957
+#EXTINF:-1,COL | RCN Mas
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/193980
+#EXTINF:-1,COL | RCN FHD°
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29790
+#EXTINF:-1,COL | Cablenoticias HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29858
+#EXTINF:-1,COL | Caracol HD °
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29859
+#EXTINF:-1,COL | RCN HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30177
+#EXTINF:-1,COL | Win Sports FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30179
+#EXTINF:-1,COL | Win Sports HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30266
+#EXTINF:-1,COL | RCN Nuestra Tele 
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30316
+#EXTINF:-1,COL | Caracol Int FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30317
+#EXTINF:-1,COL | City TV HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/283007
+#EXTINF:-1,CR | Canal 11 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/32888
+#EXTINF:-1,CR | Canal 13
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164091
+#EXTINF:-1,CR | Canal 4
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164087
+#EXTINF:-1,CR | Canal 4 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/32890
+#EXTINF:-1,CR | Canal 6 ᶜˡᵃ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164088
+#EXTINF:-1,CR | Canal 8 Multimedios
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164089
+#EXTINF:-1,CR | FUTV
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/32889
+#EXTINF:-1,CR | FUTV FHD*
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/177772
+#EXTINF:-1,CR | FUTV HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/62323
+#EXTINF:-1,CR | TD+ 2 
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/61567
+#EXTINF:-1,CR | TD+ 2 FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/177770
+#EXTINF:-1,CR | TD+ FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/60695
+#EXTINF:-1,CR | Tele Uno
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/32891
+#EXTINF:-1,CR | Teletica 7 FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/61270
+#EXTINF:-1,CR | Teletica 7 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/174734
+#EXTINF:-1,CR | Ticavision
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/78736
+#EXTINF:-1,CR | Tigo Sports
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164093
+#EXTINF:-1,CR | Tigo Sports FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/61268
+#EXTINF:-1,CR | Tigo Sports HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/174356
+#EXTINF:-1,CUB | Cubamax TV
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/78080
+#EXTINF:-1,CUB | Cubavision
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/47831
+#EXTINF:-1,CUB | Cubavision Internacional
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/47829
+#EXTINF:-1,CUB | Telerebelde
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/78081
+#EXTINF:-1,CUB | Tele Marti
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/78084
+#EXTINF:-1,CUB | CTV Marti
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/47832
+#EXTINF:-1,CUL | Animal Planet (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/41028
+#EXTINF:-1,CUL | Animal Planet (1920x1080)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30419
+#EXTINF:-1,CUL | Animal Planet (832x468)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29796
+#EXTINF:-1,CUL | Discovery Channel (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164015
+#EXTINF:-1,CUL | Discovery Channel (1920x1080)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29738
+#EXTINF:-1,CUL | Discovery Channel (832x468)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29801
+#EXTINF:-1,CUL | Discovery Familia (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30447
+#EXTINF:-1,CUL | Discovery Familia (960x540)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/143573
+#EXTINF:-1,CUL | Discovery Investigation (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/62751
+#EXTINF:-1,CUL | Discovery Investigation (832x468)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29803
+#EXTINF:-1,CUL | Discovery Investigtion (1920x1080)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31250
+#EXTINF:-1,CUL | Discovery Science (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/57561
+#EXTINF:-1,CUL | Discovery Science (1920x1080)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/77194
+#EXTINF:-1,CUL | Discovery Science (960x540)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29742
+#EXTINF:-1,CUL | Discovery Theater (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29743
+#EXTINF:-1,CUL | Discovery Theater (1920x1080)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/38336
+#EXTINF:-1,CUL | Discovery Theater (960x540)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/63923
+#EXTINF:-1,CUL | Discovery TLC (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/62749
+#EXTINF:-1,CUL | Discovery TLC (1920x1080)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/39949
+#EXTINF:-1,CUL | Discovery TLC (832x468)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/39950
+#EXTINF:-1,CUL | Discovery Turbo (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29744
+#EXTINF:-1,CUL | Discovery Turbo (1920x1080)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/76385
+#EXTINF:-1,CUL | Discovery Turbo (832x468)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/41029
+#EXTINF:-1,CUL | Discovery World (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/62750
+#EXTINF:-1,CUL | Discovery World (1920x1080)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29745
+#EXTINF:-1,CUL | Discovery World (832x468)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29806
+#EXTINF:-1,CUL | Film & Arts (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/77195
+#EXTINF:-1,CUL | Film & Arts (1920x1080)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/32906
+#EXTINF:-1,CUL | Film & Arts (832x468)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/277736
+#EXTINF:-1,CUL | HGTV (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/57560
+#EXTINF:-1,CUL | HGTV (1920x1080)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29739
+#EXTINF:-1,CUL | HGTV (960x540)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/63162
+#EXTINF:-1,CUL | History 2 (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/49597
+#EXTINF:-1,CUL | History 2 (1920x1080)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/67335
+#EXTINF:-1,CUL | History 2 (832x468)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/66492
+#EXTINF:-1,CUL | History Channel (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29768
+#EXTINF:-1,CUL | History Channel (1920x1080)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29824
+#EXTINF:-1,CUL | History Channel (832x468)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/44461
+#EXTINF:-1,CUL | Nat Geo Mundo (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/62614
+#EXTINF:-1,CUL | National Geographic (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/44463
+#EXTINF:-1,CUL | National Geographic (1920x1080)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29772
+#EXTINF:-1,CUL | National Geographic (832x468)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29825
+#EXTINF:-1,DEP | Arena Sports 01 HR (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/244269
+#EXTINF:-1,DEP | Arena Sports 02 HR (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/244270
+#EXTINF:-1,DEP | Arena Sports 03 HR (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/244271
+#EXTINF:-1,DEP | Arena Sports 04 HR (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/244272
+#EXTINF:-1,DEP | Arena Sports 05 HR (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/244273
+#EXTINF:-1,DEP | Arena Sports 06 HR (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/244274
+#EXTINF:-1,DEP | Arena Sports 07 HR (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/244275
+#EXTINF:-1,DEP | Arena Sports 08 HR (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/244276
+#EXTINF:-1,DEP | Arena Sports 09 HR (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/244277
+#EXTINF:-1,DEP | Arena Sports 10 HR (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/244278
+#EXTINF:-1,DEP | Bein Sports 02 (USA)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30406
+#EXTINF:-1,DEP | Bein Sports 03 (USA)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/244327
+#EXTINF:-1,DEP | Bein Sports 04 (USA)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30407
+#EXTINF:-1,DEP | Bein Sports 05 (USA)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30408
+#EXTINF:-1,DEP | Bein Sports 06 (USA)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30409
+#EXTINF:-1,DEP | Bein Sports 07 (USA)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30410
+#EXTINF:-1,DEP | Bein Sports 08 (USA)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/68229
+#EXTINF:-1,DEP | Bein Sports HD (USA)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30405
+#EXTINF:-1,DEP | Bein Sports XTRA HD (USA)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/72173
+#EXTINF:-1,DEP | Bein Sports XTRA Ñ HD (USA)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/73320
+#EXTINF:-1,DEP | Bein Sports Ñ FHD (USA)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/61188
+#EXTINF:-1,DEP | Bein Sports Ñ HD (USA)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/40018
+#EXTINF:-1,DEP | Bein Sports Ñ HQ (USA)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/63905
+#EXTINF:-1,DEP | Claro Sports 2 HD (CO) 
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/174645
+#EXTINF:-1,DEP | Claro Sports FHD (CO)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/155046
+#EXTINF:-1,DEP | Claro Sports HD (CO)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30234
+#EXTINF:-1,DEP | Dazn 1 FHD (ES)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/126809
+#EXTINF:-1,DEP | Dazn 1 HD (ES)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/62755
+#EXTINF:-1,DEP | Dazn 2 FHD (ES)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/244482
+#EXTINF:-1,DEP | Dazn 2 HD (ES)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/64009
+#EXTINF:-1,DEP | Dazn 2 SD (ES)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/170301
+#EXTINF:-1,DEP | Dazn 3 HD (ES)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/126813
+#EXTINF:-1,DEP | Dazn 4 HD (ES)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/126815
+#EXTINF:-1,DEP | Dazn F1 HD (ES)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/126828
+#EXTINF:-1,DEP | Dazn LaLiga (ES)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/79416
+#EXTINF:-1,DEP | Dazn LaLiga 2 HD (ES)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/79412
+#EXTINF:-1,DEP | Dazn LaLiga FHD (ES)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/126783
+#EXTINF:-1,DEP | Dazn LaLiga HD (ES)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147097
+#EXTINF:-1,DEP | Directv Sports (ARG)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/76985
+#EXTINF:-1,DEP | Directv Sports 2 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151374
+#EXTINF:-1,DEP | Directv Sports Fight
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/76991
+#EXTINF:-1,DEP | Directv Sports FHD (ARG)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/62550
+#EXTINF:-1,DEP | Directv Sports HD (CL)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/61856
+#EXTINF:-1,DEP | Directv Sports HD (COL)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/75569
+#EXTINF:-1,DEP | Directv Sports HD (PE)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/156522
+#EXTINF:-1,DEP | Directv Sports HD (UY)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/130206
+#EXTINF:-1,DEP | Directv Sports HD (ECU)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29930
+#EXTINF:-1,DEP | Directv Sports + HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/62552
+#EXTINF:-1,DEP | ESPN 2 FHD (CO)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30251
+#EXTINF:-1,DEP | ESPN 2 FHD (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29749
+#EXTINF:-1,DEP | ESPN 2 HD (CENTRO)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/175473
+#EXTINF:-1,DEP | ESPN 2 HD (CO)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29787
+#EXTINF:-1,DEP | ESPN 2 HD (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/72166
+#EXTINF:-1,DEP | ESPN 2 SD (CO)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/41033
+#EXTINF:-1,DEP | ESPN 2 SD (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/59686
+#EXTINF:-1,DEP | ESPN 3 FHD (CO)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30252
+#EXTINF:-1,DEP | ESPN 3 FHD (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29750
+#EXTINF:-1,DEP | ESPN 3 HD (CENTRO)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/175474
+#EXTINF:-1,DEP | ESPN 3 HD (CO)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29788
+#EXTINF:-1,DEP | ESPN 3 SD (CO)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/77155
+#EXTINF:-1,DEP | ESPN 4 FHD (CO)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/131287
+#EXTINF:-1,DEP | ESPN 4 FHD (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29789
+#EXTINF:-1,DEP | ESPN 4 HD (CENTRO)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/175475
+#EXTINF:-1,DEP | ESPN 4 HD (CO)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/39948
+#EXTINF:-1,DEP | ESPN 4 HD (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/76987
+#EXTINF:-1,DEP | ESPN 4 SD (CO)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30260
+#EXTINF:-1,DEP | ESPN 4 SD (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/61372
+#EXTINF:-1,DEP | ESPN 5 FHD (CO)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/182807
+#EXTINF:-1,DEP | ESPN 5 HD (CO)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/182808
+#EXTINF:-1,DEP | ESPN 5 SD (CO)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/182809
+#EXTINF:-1,DEP | ESPN 6 FHD (CO)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/76990
+#EXTINF:-1,DEP | ESPN 6 HD (CO)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29762
+#EXTINF:-1,DEP | ESPN 6 SD (CO) 
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147287
+#EXTINF:-1,DEP | ESPN 7 FHD (CO)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/182805
+#EXTINF:-1,DEP | ESPN 7 HD (CO)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30261
+#EXTINF:-1,DEP | ESPN 7 SD (CO)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/182806
+#EXTINF:-1,DEP | ESPN FHD (CO)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/59775
+#EXTINF:-1,DEP | ESPN HD (CENTRO)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/175472
+#EXTINF:-1,DEP | ESPN HD (CO)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29786
+#EXTINF:-1,DEP | ESPN HD (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/61373
+#EXTINF:-1,DEP | ESPN Premium HD (ARG)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30246
+#EXTINF:-1,DEP | ESPN SD (CO)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/76988
+#EXTINF:-1,DEP | ESPN SD (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147277
+#EXTINF:-1,DEP | Eurosport 1 HD (ES)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/126850
+#EXTINF:-1,DEP | Eurosport 2 HD (ES)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/126852
+#EXTINF:-1,DEP | EuroSports 01 (ES)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/243970
+#EXTINF:-1,DEP | EuroSports 02 (ES)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/243971
+#EXTINF:-1,DEP | Fox Sports 2 HD (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29761
+#EXTINF:-1,DEP | Fox Sports 2 SD (ARG)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/41031
+#EXTINF:-1,DEP | FOX Sports FHD (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/258271
+#EXTINF:-1,DEP | Fox Sports HD (ARG)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/63152
+#EXTINF:-1,DEP | FOX Sports HD (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/258272
+#EXTINF:-1,DEP | Fox Sports Premium (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/79180
+#EXTINF:-1,DEP | Fox Sports Premium FHD (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/79179
+#EXTINF:-1,DEP | Fox Sports Premium HD (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29760
+#EXTINF:-1,DEP | Golf Channel HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30538
+#EXTINF:-1,DEP | GolTV (USA)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/61570
+#EXTINF:-1,DEP | GolTV HD (USA)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/72192
+#EXTINF:-1,DEP | Liga Hypermotion (ES)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/79417
+#EXTINF:-1,DEP | M+ Deportes FHD (ES)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/126837
+#EXTINF:-1,DEP | M+ Deportes HD (ES)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30264
+#EXTINF:-1,DEP | M+ LaLiga (ES)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/59798
+#EXTINF:-1,DEP | M+ LaLiga TV HD (ES)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/59799
+#EXTINF:-1,DEP | M+ Liga de Campeones HD (ES)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30303
+#EXTINF:-1,DEP | Premiere
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/240570
+#EXTINF:-1,DEP | Premiere 2
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/240571
+#EXTINF:-1,DEP | Premiere 3
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/240572
+#EXTINF:-1,DEP | Premiere 4
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/240573
+#EXTINF:-1,DEP | Premiere 5
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/240574
+#EXTINF:-1,DEP | Premiere 6
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/240575
+#EXTINF:-1,DEP | Premiere 7
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/240576
+#EXTINF:-1,DEP | Setanta Spors 09 (Live Audio)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/250030
+#EXTINF:-1,DEP | Setanta Spors 11 (Live Audio)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/250016
+#EXTINF:-1,DEP | Setanta Spors 16 (Live Audio)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/250021
+#EXTINF:-1,DEP | Setanta Spors LV (Live Audio)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/250014
+#EXTINF:-1,DEP | Sky MotoGP HD (IT)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/250217
+#EXTINF:-1,DEP | Sky Sports 1 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/249991
+#EXTINF:-1,DEP | Sky Sports 16 LALIGA HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/249996
+#EXTINF:-1,DEP | Sky Sports 2 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/249992
+#EXTINF:-1,DEP | Sky Sports 21 Bundesliga HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/249997
+#EXTINF:-1,DEP | Sky Sports 24 Bundesliga HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/249998
+#EXTINF:-1,DEP | Sky Sports 3 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/249993
+#EXTINF:-1,DEP | Sky Sports 4 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/249994
+#EXTINF:-1,DEP | Sky Sports 5 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/249995
+#EXTINF:-1,DEP | Sky Sports HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/249990
+#EXTINF:-1,DEP | Sport TV 1 (PT)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30424
+#EXTINF:-1,DEP | Sport TV 2 (PT)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30425
+#EXTINF:-1,DEP | Sport TV 3 (PT)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30426
+#EXTINF:-1,DEP | Sport TV 4 (PT)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30427
+#EXTINF:-1,DEP | Sport TV 5 (PT)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30428
+#EXTINF:-1,DEP | Sport TV 6 (PT)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30162
+#EXTINF:-1,DEP | Sport TV Plus (PT)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30429
+#EXTINF:-1,DEP | TUDN (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/35529
+#EXTINF:-1,DEP | TUDN (US)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/156562
+#EXTINF:-1,DEP | TyC Sports Int (USA)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29937
+#EXTINF:-1,DEP | Zona TUDN (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/78280
+#EXTINF:-1,Atlanta Braves
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/179346
+#EXTINF:-1,Los Angeles Angel
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/179347
+#EXTINF:-1,Chicago Cubs
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/179348
+#EXTINF:-1,Baltimore Orioles
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/179349
+#EXTINF:-1,Boston Red Sox
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/179350
+#EXTINF:-1,Chicago White Sox
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/179351
+#EXTINF:-1,Cleveland Guardians
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/179352
+#EXTINF:-1,Colorado Rockies
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/179353
+#EXTINF:-1,Washington Nationals
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/179354
+#EXTINF:-1,Detroit Tigers
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/179355
+#EXTINF:-1,Miami Marlins
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/179356
+#EXTINF:-1,Hoston Astros
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/179357
+#EXTINF:-1,New York Mets
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/179358
+#EXTINF:-1,Minnesota Twins
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/179359
+#EXTINF:-1,New York Yankees
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/179360
+#EXTINF:-1,Oakland Athetics
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/179361
+#EXTINF:-1,Pittsburgh Pirates
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/179362
+#EXTINF:-1,San Diego Padres
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/179363
+#EXTINF:-1,San Francisco Giants
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/179364
+#EXTINF:-1,Seattle Mariners
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/179365
+#EXTINF:-1,St. Louis Cardinals
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/179366
+#EXTINF:-1,Tampa Bay Rays
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/179367
+#EXTINF:-1,Texas Rangers
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/179368
+#EXTINF:-1,Toronto Blue Jays
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/179369
+#EXTINF:-1,Cincinnati Reds
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/179370
+#EXTINF:-1,Philadelphia Phillies
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/179371
+#EXTINF:-1,Kansas City Royals
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/179372
+#EXTINF:-1,Milwaukee Brewers
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/179373
+#EXTINF:-1,DEP | Sky Sport Bundesliga 1 FHD (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/277155
+#EXTINF:-1,DEP | Sky Sport Bundesliga 10 FHD (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/277156
+#EXTINF:-1,DEP | Sky Sport Bundesliga 2 FHD (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/277157
+#EXTINF:-1,DEP | Sky Sport Bundesliga 3 FHD (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/277158
+#EXTINF:-1,DEP | Sky Sport Bundesliga 5 FHD (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/277160
+#EXTINF:-1,DEP | Sky Sport Bundesliga 6 FHD (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/277161
+#EXTINF:-1,DEP | Sky Sport Bundesliga 7 FHD (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/277162
+#EXTINF:-1,DEP | Sky Sport Bundesliga 8 FHD (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/277163
+#EXTINF:-1,DEP | Sky Sport Bundesliga 9 FHD (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/277164
+#EXTINF:-1,DEP | Sky Sport Bundesliga FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/277165
+#EXTINF:-1,DEP | Dazn F1 FHD (ES)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/279852
+#EXTINF:-1,ECU | Canela TV
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29920
+#EXTINF:-1,ECU | Directv Sports HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/156511
+#EXTINF:-1,ECU | ECDF
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171535
+#EXTINF:-1,ECU | ECDF FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134476
+#EXTINF:-1,ECU | ECDF HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30154
+#EXTINF:-1,ECU | Ecuador TV
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29922
+#EXTINF:-1,ECU | Ecuador TV HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29979
+#EXTINF:-1,ECU | Ecuavisa FHD Quito
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/46575
+#EXTINF:-1,ECU | Ecuavisa Guayaquil  ᵗᵛᵐ 
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29923
+#EXTINF:-1,ECU | Ecuavisa HD Guayaquil
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/61875
+#EXTINF:-1,ECU | Ecuavisa HD Quito
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/46576
+#EXTINF:-1,ECU | Gamavision
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134482
+#EXTINF:-1,ECU | Gamavision FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30384
+#EXTINF:-1,ECU | Gamavision HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29977
+#EXTINF:-1,ECU | Gol TV
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/61873
+#EXTINF:-1,ECU | Gol TV FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30012
+#EXTINF:-1,ECU | Gol TV HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29875
+#EXTINF:-1,ECU | Oromar
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30522
+#EXTINF:-1,ECU | RTS FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29925
+#EXTINF:-1,ECU | RTS  HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/63147
+#EXTINF:-1,ECU | RTU
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/38033
+#EXTINF:-1,ECU | TC  ᵗᵛᵐ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29928
+#EXTINF:-1,ECU | TC FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30379
+#EXTINF:-1,ECU | TC HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/61876
+#EXTINF:-1,ECU | Teleamazonas FHD Guayaquil
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30381
+#EXTINF:-1,ECU | Teleamazonas HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147309
+#EXTINF:-1,ECU | Teleamazonas
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/63146
+#EXTINF:-1,ECU | Teleamazonas FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134478
+#EXTINF:-1,ECU | Televicentro  ᵗᵛᵐ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134483
+#EXTINF:-1,ECU | Televicentro FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30523
+#EXTINF:-1,ECU | Zaracay TV
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/60597
+#EXTINF:-1,SAL | Canal 2
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31240
+#EXTINF:-1,SAL | Canal 21
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/42934
+#EXTINF:-1,SAL | Canal 4
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/182334
+#EXTINF:-1,SAL | Canal 4 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/58941
+#EXTINF:-1,SAL | Canal 4 FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/177483
+#EXTINF:-1,SAL | Canal 6
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/58940
+#EXTINF:-1,SAL | Canal 10
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/62482
+#EXTINF:-1,SAL | Canal 12
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31236
+#EXTINF:-1,SAL | Canal 19
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/62480
+#EXTINF:-1,SAL | TSC
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/62479
+#EXTINF:-1,SAL | Wow TV
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/62478
+#EXTINF:-1,ES | 24 Horas HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/126765
+#EXTINF:-1,ES | 3/24
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171795
+#EXTINF:-1,ES | Acción por M+ HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147120
+#EXTINF:-1,ES | AMC FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171812
+#EXTINF:-1,ES | AMC Break FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147173
+#EXTINF:-1,ES | AMC Crime FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147174
+#EXTINF:-1,ES | AMC
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/42666
+#EXTINF:-1,ES | Antena 3 FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147101
+#EXTINF:-1,ES | Antena 3 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/169823
+#EXTINF:-1,ES | Aragón TV FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147113
+#EXTINF:-1,ES | AtreSeries HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30476
+#EXTINF:-1,ES | Atreseries FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147148
+#EXTINF:-1,ES | AXN FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147137
+#EXTINF:-1,ES | AXN Movies
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147142
+#EXTINF:-1,ES | AXN Movies HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/169776
+#EXTINF:-1,ES | Baby TV
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171813
+#EXTINF:-1,ES | BeMad HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147180
+#EXTINF:-1,ES | Boing
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/169825
+#EXTINF:-1,ES | Calle 13
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171814
+#EXTINF:-1,ES | Calle 13 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147140
+#EXTINF:-1,ES | Canal Cocina
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171815
+#EXTINF:-1,ES | Canal Cocina HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/126946
+#EXTINF:-1,ES | Canal Hollywood FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147127
+#EXTINF:-1,ES | Canal Sur
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/42906
+#EXTINF:-1,ES | Canal Sur Int
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171816
+#EXTINF:-1,ES | Caza y Pesca HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147210
+#EXTINF:-1,ES | Cine por M+
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171802
+#EXTINF:-1,ES | Cine por M+ HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/42915
+#EXTINF:-1,ES | Clan TVE
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31276
+#EXTINF:-1,ES | Clásicos por M+ FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147119
+#EXTINF:-1,ES | Comedia por M+ FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147121
+#EXTINF:-1,ES | Comedy Central
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171818
+#EXTINF:-1,ES | Comedy Central FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147139
+#EXTINF:-1,ES | Cosmo HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147141
+#EXTINF:-1,ES | Crime Investigation FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171819
+#EXTINF:-1,ES | Dark HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147130
+#EXTINF:-1,ES | DAZN 1 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/169827
+#EXTINF:-1,ES | DAZN 2 FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/169828
+#EXTINF:-1,ES | DAZN 3 FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147206
+#EXTINF:-1,ES | DAZN 4 FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147207
+#EXTINF:-1,ES | DAZN F1 FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147076
+#EXTINF:-1,ES | DAZN LaLiga 2 FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147151
+#EXTINF:-1,ES | DAZN LaLiga 2 FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147200
+#EXTINF:-1,ES | Decasa
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171822
+#EXTINF:-1,ES | Decasa FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147176
+#EXTINF:-1,ES | Deportes por M+
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147202
+#EXTINF:-1,ES | Deportes 2 por M+ FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147158
+#EXTINF:-1,ES | Deportes 3 por M+ FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147159
+#EXTINF:-1,ES | Discovery Channel
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171823
+#EXTINF:-1,ES | Disney Channel HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/42903
+#EXTINF:-1,ES | Disney Junior HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147183
+#EXTINF:-1,ES | DKiss
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/126965
+#EXTINF:-1,ES | Dmax
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31255
+#EXTINF:-1,ES | Drama por M+ HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30471
+#EXTINF:-1,ES | Drama por M+ FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147122
+#EXTINF:-1,ES | Dreamworks FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147186
+#EXTINF:-1,ES | El Toro HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/126923
+#EXTINF:-1,ES | En Familia
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171799
+#EXTINF:-1,ES | Energy FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147145
+#EXTINF:-1,ES | ETB 2
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171798
+#EXTINF:-1,ES | ETB1 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147111
+#EXTINF:-1,ES | Eurosport 1 FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147161
+#EXTINF:-1,ES | Eurosport 2 FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147162
+#EXTINF:-1,ES | Factoria de Ficcion
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/126751
+#EXTINF:-1,ES | Galicia TV
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171807
+#EXTINF:-1,ES | Gol Play HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31279
+#EXTINF:-1,ES | Gol Play FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147163
+#EXTINF:-1,ES | Gol TV
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171826
+#EXTINF:-1,ES | Golf por M+ FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147160
+#EXTINF:-1,ES | Historia HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147170
+#EXTINF:-1,ES | La 1 FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30648
+#EXTINF:-1,ES | LA 1 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147099
+#EXTINF:-1,ES | LA 2 FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147100
+#EXTINF:-1,ES | La 2 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/42911
+#EXTINF:-1,ES | La Otra
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171832
+#EXTINF:-1,ES | La Resistencia por M+ FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147125
+#EXTINF:-1,ES | La Sexta HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31256
+#EXTINF:-1,ES | La Sexta FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147104
+#EXTINF:-1,ES | Laliga TV por M+
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171831
+#EXTINF:-1,ES | LaLiga TV por M+ HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/174652
+#EXTINF:-1,ES | LaLiga TV por M+ FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/126940
+#EXTINF:-1,ES | LaLiga TV 3 por M+ FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147198
+#EXTINF:-1,ES | Liga de Campeones por M+ HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147154
+#EXTINF:-1,ES | Liga de Campeones por M+ FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31281
+#EXTINF:-1,ES | Liga de Campeones 2 por M+ FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147155
+#EXTINF:-1,ES | Liga de Campeones 3 por M+ FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147156
+#EXTINF:-1,ES | Liga Hypermotion HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171800
+#EXTINF:-1,ES | Liga Hypermotion 2
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171829
+#EXTINF:-1,ES | Liga Hypermotion 3
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171830
+#EXTINF:-1,ES | Mega
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147179
+#EXTINF:-1,ES | Mega HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30469
+#EXTINF:-1,ES | Mega FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147208
+#EXTINF:-1,ES | Mezzo
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147192
+#EXTINF:-1,ES | Mezzo Live
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171803
+#EXTINF:-1,ES | Nat Geo Wild HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147169
+#EXTINF:-1,ES | National Geographic HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147168
+#EXTINF:-1,ES | Negocios
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171804
+#EXTINF:-1,ES | Neox
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171805
+#EXTINF:-1,ES | Nick Junior HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147184
+#EXTINF:-1,ES | Nickelodeon HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147185
+#EXTINF:-1,ES | Nova HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147178
+#EXTINF:-1,ES | Odisea HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147172
+#EXTINF:-1,ES | OneToro
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/156555
+#EXTINF:-1,ES | Originales por M+
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171801
+#EXTINF:-1,ES | Paramount Channel HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147133
+#EXTINF:-1,ES | Real Madrid TV
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30480
+#EXTINF:-1,ES | Series por M+ FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147134
+#EXTINF:-1,ES | Somos HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147131
+#EXTINF:-1,ES | Star Channel
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171825
+#EXTINF:-1,ES | Star Channel HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/42907
+#EXTINF:-1,ES | Sundance HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147129
+#EXTINF:-1,ES | SyFy HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147143
+#EXTINF:-1,ES | Telecinco HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147103
+#EXTINF:-1,ES | Teledeporte
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/126856
+#EXTINF:-1,ES | Teledeporte FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147164
+#EXTINF:-1,ES | Telemadrid
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31273
+#EXTINF:-1,ES | Telemadrid Int
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147110
+#EXTINF:-1,ES | Trece FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147144
+#EXTINF:-1,ES | TV3 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/64140
+#EXTINF:-1,ES | TV3 Catalunya
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147108
+#EXTINF:-1,ES | Vamos por M+ HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/129748
+#EXTINF:-1,ES | Warner TV HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171835
+#EXTINF:-1,ES | Cuatro HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30164
+#EXTINF:-1,ES | Divinity HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30165
+#EXTINF:-1,ES | Escapa HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30167
+#EXTINF:-1,ES | Comedia por M+ HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30168
+#EXTINF:-1,ES | Series por M+ HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30171
+#EXTINF:-1,GT | TN23
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164081
+#EXTINF:-1,GT | Canal 3
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/58938
+#EXTINF:-1,GT | Telecosta
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164078
+#EXTINF:-1,GT | Canal 7
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/58937
+#EXTINF:-1,GT | Canal 11 ᶜˡᵃ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164075
+#EXTINF:-1,GT | Canal Antigua
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/58936
+#EXTINF:-1,GT | Vision TV
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164080
+#EXTINF:-1,GT | Canal Azteca
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/58935
+#EXTINF:-1,GT | Canala 8
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164082
+#EXTINF:-1,GT | Guatevision
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/58934
+#EXTINF:-1,GT | RCN
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164085
+#EXTINF:-1,GT | Tigo Sports
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164074
+#EXTINF:-1,GT | Telemaya
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164086
+#EXTINF:-1,HON | CHTV
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/79193
+#EXTINF:-1,HON | Go TV
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/79194
+#EXTINF:-1,HON | HCH
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/42722
+#EXTINF:-1,HON | Maya TV
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/131123
+#EXTINF:-1,HON | Canal 45
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/131125
+#EXTINF:-1,HON | Telecadena
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/131124
+#EXTINF:-1,HON | Tigo Sports
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/40017
+#EXTINF:-1,HON | TVN
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/131122
+#EXTINF:-1,HON | TVC Deportes
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/177590
+#EXTINF:-1,HON | TVC Deportes HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/177713
+#EXTINF:-1,HON | Une TV
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/79195
+#EXTINF:-1,HON | Canal 5 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30274
+#EXTINF:-1,HON | Telesistema HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30275
+#EXTINF:-1,HON | Canal 6
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30276
+#EXTINF:-1,HON | Canal 11
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30277
+#EXTINF:-1,HON | Vica TV
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30278
+#EXTINF:-1,HON | Teleprogreso
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30280
+#EXTINF:-1,HON | Teleceiba
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30281
+#EXTINF:-1,HON | Telecadena
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30282
+#EXTINF:-1,HON | VTV 
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30283
+#EXTINF:-1,HON | Azteca Honduras
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30292
+#EXTINF:-1,KIDS | Baby First (960x540)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/292874
+#EXTINF:-1,KIDS | Baby First (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/216564
+#EXTINF:-1,KIDS | Baby First (1920x1080)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/292873
+#EXTINF:-1,KIDS | Baby TV (720x406)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29731
+#EXTINF:-1,KIDS | Cartoon Network (832x468)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164006
+#EXTINF:-1,KIDS | Cartoon Network (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/63862
+#EXTINF:-1,KIDS | Cartoon Network (1920x1080)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29733
+#EXTINF:-1,KIDS | Cartoonito (832x468)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29798
+#EXTINF:-1,KIDS | Cartoonito (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164007
+#EXTINF:-1,KIDS | Cartoonito (1920x1080)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29732
+#EXTINF:-1,KIDS | Discovery Kids (832x468)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/62803
+#EXTINF:-1,KIDS | Discovery Kids (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29804
+#EXTINF:-1,KIDS | Discovery Kids (1980x1080)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/44466
+#EXTINF:-1,KIDS | Disney Channel (832x468)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164020
+#EXTINF:-1,KIDS | Disney Channel (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29807
+#EXTINF:-1,KIDS | Disney Channel (1980x1080)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/41283
+#EXTINF:-1,KIDS | Disney Junior (832x468)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/41284
+#EXTINF:-1,KIDS | Disney Junior (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29808
+#EXTINF:-1,KIDS | Disney Junior (1980x1080)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/62555
+#EXTINF:-1,KIDS | Nick Jr (832x468)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31226
+#EXTINF:-1,KIDS | Nick Jr (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/62557
+#EXTINF:-1,KIDS | Nick Jr (1980x1080)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/32743
+#EXTINF:-1,KIDS | Nickelodeon (832x468)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29828
+#EXTINF:-1,KIDS | Nickelodeon (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/44469
+#EXTINF:-1,KIDS | Nickelodeon (1980x1080)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/41287
+#EXTINF:-1,KIDS | TeenNick (960x540)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29829
+#EXTINF:-1,KIDS | TeenNick (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/62556
+#EXTINF:-1,KIDS | TeenNick (1980x1080)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29773
+#EXTINF:-1,KIDS | Tooncast (720x406)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29783
+#EXTINF:-1,NOT | BBC World HD (USA)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164005
+#EXTINF:-1,NOT | CNN Int
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164010
+#EXTINF:-1,NOT | Euronews
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/166368
+#EXTINF:-1,NOT | France 24
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/32750
+#EXTINF:-1,NOT | RT en Español
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/49483
+#EXTINF:-1,NOT | Weather Channel (USA)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/141562
+#EXTINF:-1,NOT | DW 
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29933
+#EXTINF:-1,NOT | Bloomberg (USA)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29967
+#EXTINF:-1,NOT | CNN Espanol
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29968
+#EXTINF:-1,NOT | CNN Internacional HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29969
+#EXTINF:-1,NOT | Aljazeera
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/283003
+#EXTINF:-1,NOT | Aritrang
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/283004
+#EXTINF:-1,NOT | 24H TV España
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/283005
+#EXTINF:-1,NOT | BBC News
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/283006
+#EXTINF:-1,NOT | Eurochannel FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/283011
+#EXTINF:-1,NOT | EWTN
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/283012
+#EXTINF:-1,CL | A&E
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133058
+#EXTINF:-1,CL | A&E FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133035
+#EXTINF:-1,CL | A3 Series FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133036
+#EXTINF:-1,CL | AMC FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133037
+#EXTINF:-1,CL | Animal Planet
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133057
+#EXTINF:-1,CL | Animal Planet FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133038
+#EXTINF:-1,CL | AXN FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133040
+#EXTINF:-1,CL | Cartoon Network FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133041
+#EXTINF:-1,CL | Cinecanal
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133059
+#EXTINF:-1,CL | Cinecanal FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133042
+#EXTINF:-1,CL | Cinemax FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133043
+#EXTINF:-1,CL | Comedy Central HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133045
+#EXTINF:-1,CL | DHE FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133047
+#EXTINF:-1,CL | Discovery Channel
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133061
+#EXTINF:-1,CL | Discovery H&H FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133049
+#EXTINF:-1,CL | Discovery Kids FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133051
+#EXTINF:-1,CL | Discovery World FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133054
+#EXTINF:-1,CL | Disney Channel FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133055
+#EXTINF:-1,CL | Disney Junior
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133044
+#EXTINF:-1,CL | E! Entertainment FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133056
+#EXTINF:-1,CL | FX FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133060
+#EXTINF:-1,CL | H2 FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133063
+#EXTINF:-1,CL | HBO 2 FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133064
+#EXTINF:-1,CL | HBO Family FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133065
+#EXTINF:-1,CL | HBO FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133066
+#EXTINF:-1,CL | HBO POP FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133068
+#EXTINF:-1,CL | HBO Xtreme FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133069
+#EXTINF:-1,CL | History Channel FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133070
+#EXTINF:-1,CL | Investigation Discovery FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133050
+#EXTINF:-1,CL | Kanal D Drama FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133071
+#EXTINF:-1,CL | Love Nature FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133074
+#EXTINF:-1,CL | National Geographic FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133077
+#EXTINF:-1,CL | Nickelodeon FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133078
+#EXTINF:-1,CL | Paramount FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133079
+#EXTINF:-1,CL | Sony FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133080
+#EXTINF:-1,CL | Space FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133081
+#EXTINF:-1,CL | Star Channel FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133082
+#EXTINF:-1,CL | Studio Universal FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133083
+#EXTINF:-1,CL | TBS Very Funny FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133085
+#EXTINF:-1,CL | TNT FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133087
+#EXTINF:-1,CL | TNT Series FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133088
+#EXTINF:-1,CL | Universal Channel FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133090
+#EXTINF:-1,CL | Warner Channel FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133091
+#EXTINF:-1,MX | A&E HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151316
+#EXTINF:-1,MX | A+ HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151321
+#EXTINF:-1,MX | A3Series Int HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151318
+#EXTINF:-1,MX | ADN 40
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/77088
+#EXTINF:-1,MX | AMC HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133848
+#EXTINF:-1,MX | AMC FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151320
+#EXTINF:-1,MX | Animal Planet HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151417
+#EXTINF:-1,MX | Animal Planet FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151323
+#EXTINF:-1,MX | AXN HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133853
+#EXTINF:-1,MX | AYM Sports HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/161349
+#EXTINF:-1,MX | Azteca 7 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/59742
+#EXTINF:-1,MX | Azteca 7
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133869
+#EXTINF:-1,MX | Azteca Cinema
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151330
+#EXTINF:-1,MX | MX Nuestro Cine
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147240
+#EXTINF:-1,MX | Azteca Clic HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151358
+#EXTINF:-1,MX | Azteca Corazon HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/156795
+#EXTINF:-1,MX | Azteca Deportes FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/165098
+#EXTINF:-1,MX | Azteca Uno FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/39225
+#EXTINF:-1,MX | Azteca Uno HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133876
+#EXTINF:-1,MX | Bandamax HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151332
+#EXTINF:-1,MX | BitMe FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151333
+#EXTINF:-1,MX | Canal 22 FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151335
+#EXTINF:-1,MX | Canal 4 GDL
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/45944
+#EXTINF:-1,MX | Canal 4 Televisa MTY
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151424
+#EXTINF:-1,MX | Canal 5 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133870
+#EXTINF:-1,MX | Canal Once
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151341
+#EXTINF:-1,MX | Canal Once HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133872
+#EXTINF:-1,MX | Cartoon Network HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133858
+#EXTINF:-1,MX | Cinecanal HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/156518
+#EXTINF:-1,MX | CineLatino HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151345
+#EXTINF:-1,MX | Cinemax HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133879
+#EXTINF:-1,MX | Claro Sports HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151348
+#EXTINF:-1,MX | CNN Espanol
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151371
+#EXTINF:-1,MX | Comedy Central HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151351
+#EXTINF:-1,MX | De Pelicula FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133885
+#EXTINF:-1,MX | Discovery Channel HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133855
+#EXTINF:-1,MX | Discovery Home & Health HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151355
+#EXTINF:-1,MX | Discovery ID HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151356
+#EXTINF:-1,MX | Discovery Kids HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133886
+#EXTINF:-1,MX | Discovery Science HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133887
+#EXTINF:-1,MX | Disney Channel
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133880
+#EXTINF:-1,MX | Disney Junior HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133888
+#EXTINF:-1,MX | Distrito Comedia FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/58184
+#EXTINF:-1,MX | Distrito Comedia HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/77091
+#EXTINF:-1,MX | DreamWorks HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151372
+#EXTINF:-1,MX | E! Entertainment HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151377
+#EXTINF:-1,MX | El Finaciero HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151378
+#EXTINF:-1,MX | El Gourmet HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151402
+#EXTINF:-1,MX | El Nu9ve FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133871
+#EXTINF:-1,MX | El Nu9ve HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/129885
+#EXTINF:-1,MX | ESPN 2 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133864
+#EXTINF:-1,MX | ESPN 3 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133865
+#EXTINF:-1,MX | Europa Europa HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151383
+#EXTINF:-1,MX | Film and Arts HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151387
+#EXTINF:-1,MX | Foro TV FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/63156
+#EXTINF:-1,MX | Fox Sports HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133866
+#EXTINF:-1,MX | Fox Sports 2 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133867
+#EXTINF:-1,MX | Fox Sports 3 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133868
+#EXTINF:-1,MX | FX HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133838
+#EXTINF:-1,MX | Golden Edge HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151399
+#EXTINF:-1,MX | HBO HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/156543
+#EXTINF:-1,MX | HBO FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133840
+#EXTINF:-1,MX | HBO 2 FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/156542
+#EXTINF:-1,MX | HBO 2 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151405
+#EXTINF:-1,MX | HBO Family FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/161354
+#EXTINF:-1,MX | HBO Family HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133845
+#EXTINF:-1,MX | HBO Mundi HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/161355
+#EXTINF:-1,MX | HBO Mundi FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133844
+#EXTINF:-1,MX | HBO Plus FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/156544
+#EXTINF:-1,MX | HBO Plus HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133846
+#EXTINF:-1,MX | HBO Pop HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/156545
+#EXTINF:-1,MX | HBO Pop FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133854
+#EXTINF:-1,MX | HBO Signature HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/156546
+#EXTINF:-1,MX | HBO Signature
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133841
+#EXTINF:-1,MX | HBO Xtreme HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/156547
+#EXTINF:-1,MX | HBO Xtreme FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133843
+#EXTINF:-1,MX | HGTV HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151393
+#EXTINF:-1,MX | History 2 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133857
+#EXTINF:-1,MX | History Channel HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133856
+#EXTINF:-1,MX | Hola TV HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151413
+#EXTINF:-1,MX | Imagen TV HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/60794
+#EXTINF:-1,MX | ISAT
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/161356
+#EXTINF:-1,MX | Las Estrellas -1h
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151334
+#EXTINF:-1,MX | Las Estrellas HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/73316
+#EXTINF:-1,MX | Telehit Musica
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151347
+#EXTINF:-1,MX | Lifetime HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151420
+#EXTINF:-1,MX | MasChic
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151390
+#EXTINF:-1,MX | Mexiquince HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/77102
+#EXTINF:-1,MX | Milenio TV HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/59774
+#EXTINF:-1,MX | Milenio TV HD 
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151422
+#EXTINF:-1,MX | MTV Classic HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151439
+#EXTINF:-1,MX | MTV Club
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/161357
+#EXTINF:-1,MX | MTV HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151423
+#EXTINF:-1,MX | MTV Live HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/161358
+#EXTINF:-1,MX | National Geographic HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151425
+#EXTINF:-1,MX | Nickelodeon HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133849
+#EXTINF:-1,MX | Paramount HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133875
+#EXTINF:-1,MX | PX Sports
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151426
+#EXTINF:-1,MX | Sony Channel HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133847
+#EXTINF:-1,MX | Space HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133861
+#EXTINF:-1,MX | Star Channel HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133842
+#EXTINF:-1,MX | Studio Universal HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133884
+#EXTINF:-1,MX | SyFy FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133878
+#EXTINF:-1,MX | TBS HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151450
+#EXTINF:-1,MX | TCM HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151451
+#EXTINF:-1,MX | TeenNick HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151427
+#EXTINF:-1,MX | Teleformula HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151448
+#EXTINF:-1,MX | Telehit HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151452
+#EXTINF:-1,MX | Televisa Monterrey
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/77103
+#EXTINF:-1,MX | Televisa Monterrey
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/165426
+#EXTINF:-1,MX | Televisa Puebla HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/39226
+#EXTINF:-1,MX | TNT FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133859
+#EXTINF:-1,MX | TNT Series HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133860
+#EXTINF:-1,MX | Tooncast HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151446
+#EXTINF:-1,MX | Tru TV HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151461
+#EXTINF:-1,MX | TVC Deportes FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/61861
+#EXTINF:-1,MX | TVC Deportes HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151459
+#EXTINF:-1,MX | Unicable FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/40979
+#EXTINF:-1,MX | Unicable HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151464
+#EXTINF:-1,MX | Universal Channel HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151466
+#EXTINF:-1,MX | Universal Cinema HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151457
+#EXTINF:-1,MX | Universal Crime HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151462
+#EXTINF:-1,MX | Universal Premier West HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151454
+#EXTINF:-1,MX | Universal Reality HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/151453
+#EXTINF:-1,MX | ADN 40 FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29959
+#EXTINF:-1,MX | Azteca Clic FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29962
+#EXTINF:-1,MX | Azteca Mundo
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29964
+#EXTINF:-1,MX | Azteca 7 FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29965
+#EXTINF:-1,MX | Las Estrellas FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30321
+#EXTINF:-1,MX | Azteca Deportes HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/293017
+#EXTINF:-1,MX | Azteca Deportes
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/293018
+#EXTINF:-1,MX | Discovery Theater HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/293019
+#EXTINF:-1,MX | Discovery Turbo HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/293020
+#EXTINF:-1,MX | ESPN HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/293021
+#EXTINF:-1,MX | ESPN 4 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/293022
+#EXTINF:-1,MX | Golden Premier HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/293023
+#EXTINF:-1,La Grabja VIP - Acceso Total 1
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/300203
+#EXTINF:-1,La Grabja VIP - Acceso Total 2
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/300204
+#EXTINF:-1,La Grabja VIP - Galas
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/300205
+#EXTINF:-1,NIC | Canal 2
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/78077
+#EXTINF:-1,NIC | Canal 4
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/58896
+#EXTINF:-1,NIC | Canal 6
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/58899
+#EXTINF:-1,NIC | Canal 9
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/129966
+#EXTINF:-1,NIC | Canal 10
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/58897
+#EXTINF:-1,NIC | Canal 14
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/129964
+#EXTINF:-1,NIC | Canal 8
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/78078
+#EXTINF:-1,NIC | Canal 13
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/78076
+#EXTINF:-1,NIC | WTV Canal 20
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/129965
+#EXTINF:-1,ENT | A3Series HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/72257
+#EXTINF:-1,ENT | Antena 3 Int
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/72118
+#EXTINF:-1,ENT | Comedy Central HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164011
+#EXTINF:-1,ENT | Comedy Central FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/61178
+#EXTINF:-1,ENT | Concert Channel HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164012
+#EXTINF:-1,ENT | Concert Channe FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/61124
+#EXTINF:-1,ENT | Discovery Home & Healt HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/38333
+#EXTINF:-1,ENT | E! Entertaiment FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/62548
+#EXTINF:-1,ENT | E! Entertaiment HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164022
+#EXTINF:-1,ENT | El Gourmet HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164023
+#EXTINF:-1,ENT | Food Network HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164025
+#EXTINF:-1,ENT | Galavision HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31183
+#EXTINF:-1,ENT | Hola TV HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164038
+#EXTINF:-1,ENT | HTV
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/37380
+#EXTINF:-1,ENT | HTV
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/156549
+#EXTINF:-1,ENT | Kanal Drama
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/69138
+#EXTINF:-1,ENT | Kanal Drama HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/239535
+#EXTINF:-1,ENT | Kanal Drama FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/239534
+#EXTINF:-1,ENT | Las Estrellas FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164039
+#EXTINF:-1,ENT | Lifetime
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/47444
+#EXTINF:-1,ENT | Lifetime FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/62789
+#EXTINF:-1,ENT | Mas Chic
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/47312
+#EXTINF:-1,ENT | MTV 00S HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164044
+#EXTINF:-1,ENT | MTV Classics
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/39804
+#EXTINF:-1,ENT | MTV HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30540
+#EXTINF:-1,ENT | MTV Hits
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/39803
+#EXTINF:-1,ENT | MTV Live
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/39801
+#EXTINF:-1,ENT | MTV Live HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164046
+#EXTINF:-1,ENT | Pasiones
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/156557
+#EXTINF:-1,ENT | Tastemade en Español
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/176512
+#EXTINF:-1,ENT | Telehit
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/72162
+#EXTINF:-1,ENT | Telemundo Int FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/36726
+#EXTINF:-1,ENT | Telemundo Internacional
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/161359
+#EXTINF:-1,ENT | Tlenovelas HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/156796
+#EXTINF:-1,ENT | Tlnovelas
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/61712
+#EXTINF:-1,ENT | TNT Novelas FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/155045
+#EXTINF:-1,ENT | Univision Tlnovelas
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/32751
+#EXTINF:-1,ENT | VH1
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/59525
+#EXTINF:-1,ENT | Adult Swim FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/58099
+#EXTINF:-1,ENT | Unimas HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30267
+#EXTINF:-1,ENT | Discovery Home & Healt FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29740
+#EXTINF:-1,CUL | Adult Swim HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29784
+#EXTINF:-1,ENT | Discovery Home & Healt
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29802
+#EXTINF:-1,ENT | Lifetime HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29816
+#EXTINF:-1,ENT | El Gourmet FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29971
+#EXTINF:-1,ENT | Food Network FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29972
+#EXTINF:-1,ENT | Glitz
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29973
+#EXTINF:-1,ENT | Hola TV FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29974
+#EXTINF:-1,ENT | Tlnovelas FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30203
+#EXTINF:-1,ENT | Pasiones HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30265
+#EXTINF:-1,ENT | A La Cocina
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/282945
+#EXTINF:-1,PAN | Bocas TV 
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/154942
+#EXTINF:-1,PAN | Hosanna Vision HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30544
+#EXTINF:-1,PAN | Mas 23 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/76943
+#EXTINF:-1,PAN | Nex 21 FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/72596
+#EXTINF:-1,PAN | Oye
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/238243
+#EXTINF:-1,PAN | RPC
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31159
+#EXTINF:-1,PAN | RPC HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/76934
+#EXTINF:-1,PAN | SerTV
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/65929
+#EXTINF:-1,PAN | SerTV Deportes
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/133257
+#EXTINF:-1,PAN | Telemetro
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/76939
+#EXTINF:-1,PAN | Telemetro HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31271
+#EXTINF:-1,PAN | TV Max HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/76954
+#EXTINF:-1,PAN | TV Max FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/129666
+#EXTINF:-1,PAN | TVN 2
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/76951
+#EXTINF:-1,PAN | TVN 2 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/76949
+#EXTINF:-1,PY | ABC TV HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/160786
+#EXTINF:-1,PY | C9N HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31246
+#EXTINF:-1,PY | C9N
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/160788
+#EXTINF:-1,PY | Gen HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/160792
+#EXTINF:-1,PY | Gen TV
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31249
+#EXTINF:-1,PY | La Tele FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31247
+#EXTINF:-1,PY | Paraguay Noticias
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/31248
+#EXTINF:-1,PY | Paraguay TV FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/160779
+#EXTINF:-1,PY | Paravision HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/160790
+#EXTINF:-1,PY | SNT
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/160782
+#EXTINF:-1,PY | Telefuturo
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/160780
+#EXTINF:-1,PY | RPC HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/168939
+#EXTINF:-1,PY | RPC FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/168940
+#EXTINF:-1,PY | Unicanal FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29998
+#EXTINF:-1,PE | America TV ᵗᵛᵐ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/35846
+#EXTINF:-1,PE | America TV HD ᵈᵍᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147233
+#EXTINF:-1,PE | America TV FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/156508
+#EXTINF:-1,PE | ATV
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/156510
+#EXTINF:-1,PE | ATV HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147237
+#EXTINF:-1,PE | ATV+ 
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147238
+#EXTINF:-1,PE | ATV+ HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/156509
+#EXTINF:-1,PE | BHTV
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171918
+#EXTINF:-1,PE | Canal IPE
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/32752
+#EXTINF:-1,PE | Canal N ᵗᵛᵐ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/35438
+#EXTINF:-1,PE | Global HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147289
+#EXTINF:-1,PE | Gol Peru ᵗᵛᵐ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/135701
+#EXTINF:-1,PE | Gol Peru HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30467
+#EXTINF:-1,PE | Gol Peru FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/37375
+#EXTINF:-1,PE | Kribeña
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171921
+#EXTINF:-1,PE | La Exitosa ᵗᵛᵐ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171793
+#EXTINF:-1,PE | Latina HD ᵈᵗᵛᵍᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147293
+#EXTINF:-1,PE | Latina ᵈᵍᵒ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/156551
+#EXTINF:-1,PE | Liga 1 HD ˡᶦᵍᵃᵖˡᵃʸ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164272
+#EXTINF:-1,PE | Liga 1 Max (ᴘᴇ)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/130114
+#EXTINF:-1,PE | Liga 1 Max HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164274
+#EXTINF:-1,PE | Movistar Deportes
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/32754
+#EXTINF:-1,PE | Movistar Plus HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/32753
+#EXTINF:-1,PE | Nativa
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/132772
+#EXTINF:-1,PE | Onda Digital
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171924
+#EXTINF:-1,PE | Panamericana HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/132777
+#EXTINF:-1,PE | Peru Channel
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171923
+#EXTINF:-1,PE | RPP
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/61380
+#EXTINF:-1,PE | Sol TV
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171922
+#EXTINF:-1,PE | TV Peru
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/77087
+#EXTINF:-1,PE | TV Peru FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147321
+#EXTINF:-1,PE | TV Peru Noticias
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/171919
+#EXTINF:-1,PE | Willax
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147328
+#EXTINF:-1,PE | Willax HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/129293
+#EXTINF:-1,PE | Willax FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/37388
+#EXTINF:-1,PE | Latina FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29953
+#EXTINF:-1,PE | ATV HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29954
+#EXTINF:-1,PE | Peru Magico ᵗᵛᵐ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29955
+#EXTINF:-1,PE | Panamericana
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29957
+#EXTINF:-1,PR | Telemundo FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/194166
+#EXTINF:-1,PR | Telemundo
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/137843
+#EXTINF:-1,PR | Punto 2 (*)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/194165
+#EXTINF:-1,PR | Wapa HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/132649
+#EXTINF:-1,PR | Wapa Deportes
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/34553
+#EXTINF:-1,PR | Wapa America HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/30651
+#EXTINF:-1,PR | WIPR
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164353
+#EXTINF:-1,PR | WIPR HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/34554
+#EXTINF:-1,PR | Teleisla
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/135703
+#EXTINF:-1,PR | Tele 11 HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/61717
+#EXTINF:-1,PR | Tele 11
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/194163
+#EXTINF:-1,PR | Mega TV HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/164355
+#EXTINF:-1,PR | Radio Magic 97.3
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/168327
+#EXTINF:-1,PR | Notiuno TV (Radio)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/274775
+#EXTINF:-1,PR | ABC
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/281277
+#EXTINF:-1,PR | Teleoro
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/281278
+#EXTINF:-1,PR | Mega TV FHD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/281393
+#EXTINF:-1,PR | Unimas
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/281394
+#EXTINF:-1,PR | Tiva
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/281395
+#EXTINF:-1,PR | WIPR 6.3
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/281396
+#EXTINF:-1,PR | CBS 
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/281528
+#EXTINF:-1,PR | Fox 
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/281688
+#EXTINF:-1,PR | The CW
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/281689
+#EXTINF:-1,RD | Acento TV
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/77132
+#EXTINF:-1,RD | Canal Digital 15
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/42745
+#EXTINF:-1,RD | Catorce TV
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/77133
+#EXTINF:-1,RD | CDN 37
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/59528
+#EXTINF:-1,RD | CDN HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/39978
+#EXTINF:-1,RD | Cinevision
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/39982
+#EXTINF:-1,RD | Colorvision
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/39984
+#EXTINF:-1,RD | CTN
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/39981
+#EXTINF:-1,RD | Luna TV
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/39994
+#EXTINF:-1,RD | Microvision
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/39990
+#EXTINF:-1,RD | Rtvd 4
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/39983
+#EXTINF:-1,RD | Tele Antillas
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/59529
+#EXTINF:-1,RD | Telecentro
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/39997
+#EXTINF:-1,RD | Telefuturo
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/39998
+#EXTINF:-1,RD | Telemicro
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/39999
+#EXTINF:-1,RD | Telemicro ʜᴅ
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/40000
+#EXTINF:-1,RD | Telenord
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/40002
+#EXTINF:-1,RD | Teleradio America
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/40001
+#EXTINF:-1,ViX Premium Deportes 01
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/177161
+#EXTINF:-1,ViX Premium Deportes 02
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/177162
+#EXTINF:-1,ViX Premium Deportes 03
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/177163
+#EXTINF:-1,ViX Premium Deportes 04
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/177164
+#EXTINF:-1,ViX Premium Deportes 05
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/177165
+#EXTINF:-1,ViX Premium Deportes 07
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/177166
+#EXTINF:-1,ViX Premium Deportes 08
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/177167
+#EXTINF:-1,ViX Premium Deportes 09
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/177168
+#EXTINF:-1,ViX Premium Deportes 10
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/177169
+#EXTINF:-1,ViX Premium Deportes 11
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/177170
+#EXTINF:-1,ViX Premium Deportes 12
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/177171
+#EXTINF:-1,ViX Premium Deportes 13
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/177172
+#EXTINF:-1,ViX Premium Deportes 14
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/177173
+#EXTINF:-1,ViX Premium Deportes 15
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/177174
+#EXTINF:-1,ViX Premium Deportes 16
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/177175
+#EXTINF:-1,ViX Premium Deportes 17
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/177176
+#EXTINF:-1,ViX Premium Deportes 18
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/177177
+#EXTINF:-1,ViX Premium Deportes 19
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/177178
+#EXTINF:-1,ViX Premium Deportes 20
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/177179
+#EXTINF:-1,ViX Deportes 21
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/177158
+#EXTINF:-1,ViX Deportes 22
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/177159
+#EXTINF:-1,ViX Deportes 23
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/177160
