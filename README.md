@@ -12,6 +12,18 @@ http://www.1play.cool:25461/6614314274/af6b784fa1d0/30458
 http://www.1play.cool:25461/6614314274/af6b784fa1d0/77591
 #EXTINF:-1,US | TUDN HD
 http://www.1play.cool:25461/6614314274/af6b784fa1d0/67806
+#EXTINF:-1,azteca7
+http://130.250.199.2:8000/play/4/index.m3u8
+#EXTINF:-1,canal14
+http://130.250.199.2:8000/play/6/index.m3u8
+#EXTINF:-1,imagentv1
+http://130.250.199.2:8000/play/a002/index.m3u8
+#EXTINF:-1,imagentv2
+http://130.250.199.2:8000/play/a003/index.m3u8
+#EXTINF:-1,once
+http://130.250.199.2:8000/play/8/index.m3u8
+#EXTINF:-1,televisa_sonora
+http://130.250.199.2:8000/play/15/index.m3u8
 #EXTINF:-1,MX | Azteca Uno FHD
 http://www.1play.cool:25461/6614314274/af6b784fa1d0/39225
 #EXTINF:-1,MX | Azteca Uno HD
